@@ -1,20 +1,16 @@
 {
-  "name": "wordisle-cloudflare",
+  "name": "wordisle-edgeone",
   "private": true,
   "scripts": {
-    "build": "python3 cloudflare/build.py && uv run pywrangler sync && python3 cloudflare/prepare_runtime.py",
-    "dev": "wrangler dev",
-    "deploy": "wrangler deploy",
-    "test:cloudflare": "python3 -m unittest test_cloudflare",
-    "check:deploy": "wrangler deploy --dry-run"
+    "build": "python3 edgeone/build.py",
+    "dev:edgeone": "npm run build && edgeone makers dev",
+    "deploy": "npm run build && edgeone makers deploy",
+    "test:edgeone": "python3 -m unittest test_edgeone"
   },
   "devDependencies": {
-    "wrangler": "4.152.0"
+    "edgeone": "1.6.46"
   },
   "engines": {
-    "node": ">=22"
-  },
-  "overrides": {
-    "undici": "7.30.1"
+    "node": ">=20"
   }
 }

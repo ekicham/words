@@ -2,11 +2,11 @@
 
 本地电脑版背单词软件：选择教材、年级、学期 → 听英文和中文 → 补全单词 → 查看学习报告。
 
-## Cloudflare 在线版
+## Tencent EdgeOne 在线版（本分支）
 
-现在支持将前端、后端和数据库一起部署到 **Cloudflare Workers**。多人通过邀请码注册，各自拥有独立的教材导入、学习记录、星星、奖品和录音报告；登录后可跨设备继续学习。
+`codex/tencent-edgeone` 支持 EdgeOne Makers 静态站点 + Python 云函数 + MySQL 8。邀请码注册，每人独立保存学习、星星、奖品和录音报告。部署步骤见 [EdgeOne 部署说明](docs/EdgeOne部署说明.md)。需自行准备可从云函数访问的 MySQL，账号和记录不会从 Cloudflare 自动迁移。
 
-部署步骤见 [Cloudflare 部署说明](docs/cloudflare部署说明.md)。云端使用浏览器朗读，可选腾讯云评分；本地电脑版仍保留。以下桌面使用说明中的本机数据、无需账号及本地模型仅适用于桌面版。
+Cloudflare 版本保留在 `main` 分支；继续部署 Cloudflare 请选择 `main`，不要使用本分支的构建命令。桌面版业务代码保留；下面的本机数据、无需账号及本地模型说明仅适用于桌面版。
 
 ## 打开软件
 

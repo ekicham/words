@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm ci",
+  "outputDirectory": "dist/edgeone",
+  "cloudFunctions": {
+    "python": {"maxDuration": 60},
+    "mainlandRegions": ["ap-guangzhou"],
+    "overseasRegions": ["ap-singapore"]
+  }
+}

@@ -1,8 +1,5 @@
 [project]
-name = "wordisle-cloudflare"
+name = "wordisle-edgeone"
 version = "1.0.0"
-requires-python = ">=3.12"
-dependencies = []
-
-[dependency-groups]
-dev = ["workers-py==1.17.9", "uv==0.13.5"]
+requires-python = ">=3.10"
+dependencies = ["Flask==3.1.3", "PyMySQL[rsa]==1.2.3"]

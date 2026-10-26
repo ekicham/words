@@ -20,3 +20,9 @@ node_modules/
 python_modules/
 pylock.toml
 wrangler.assessment.test.jsonc
+.venv-edgeone/
+.edgeone/
+cloud-functions/wordisle_edge/
+cloud-functions/app.py
+cloud-functions/phonetics.py
+cloud-functions/local_assessment.py
