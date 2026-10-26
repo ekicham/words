@@ -91,6 +91,8 @@ def run():
     assert a.call('/api/bootstrap')[0]==401
     a.ok('/api/auth/login',dict(username=names[0],password=password))
     assert a.ok('/api/bootstrap')['summary']==saved['summary']
+    assert Client().call('/api/auth/login',dict(username=names[0],password='wrong-password-long-enough'))[0]==401
+    assert Client().call('/api/auth/login',dict(username='missing-'+secrets.token_hex(5),password=password))[0]==401
     print('PASS: authentication, CSRF, two-account isolation, catalog, learning/idempotency, dictation drafts, reports, rewards guards, audio fallback, phonetics, media Range, logout/login.')
 
 def verify_restart():

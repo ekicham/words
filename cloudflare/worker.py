@@ -16,6 +16,7 @@ from phonetics import Phonetics, ENGINE, NOTICE, signed_request, parse_assessmen
 from resources import RESOURCES
 from storage import Connection, database
 from auth import issue_session, verify_session, valid_account, SESSION_SECONDS, PASSWORD_ITERATIONS
+from auth import webcrypto_password_hash as password_hash, encode_password_hash, password_parameters
 
 
 def js(value): return to_js(value, dict_converter=Object.fromEntries)
@@ -52,14 +53,6 @@ async def serve_asset(env, request):
             'Content-Length':str(end-start+1),'Content-Range':'bytes %s-%s/%s'%(start,end,size),
             'Accept-Ranges':'bytes','Cache-Control':'private, no-store'}}))
     return asset
-
-async def password_hash(password, salt):
-    # Pyodide omits hashlib.pbkdf2_hmac; use the platform's native Web Crypto.
-    from js import crypto, Uint8Array
-    key = await crypto.subtle.importKey('raw', to_js(password.encode()), 'PBKDF2', False, js(['deriveBits']))
-    bits = await crypto.subtle.deriveBits(js({'name':'PBKDF2', 'salt':to_js(bytes.fromhex(salt)),
-        'iterations':PASSWORD_ITERATIONS, 'hash':'SHA-256'}), key, 256)
-    return Uint8Array.new(bits).to_bytes().hex()
 
 async def body_json(request, limit=2_000_000):
     if (request.headers.get('Content-Type') or '').split(';')[0].strip() != 'application/json':
@@ -160,14 +153,15 @@ class Accounts(DurableObject):
                 digest = await password_hash(password, salt)
                 def create():
                     if self.db.execute('SELECT 1 FROM accounts WHERE username=?', (username,)).fetchone(): return False
-                    self.db.execute('INSERT INTO accounts VALUES(?,?,?,?,?)', (username,uid,salt,digest,time.time()))
+                    self.db.execute('INSERT INTO accounts VALUES(?,?,?,?,?)', (username,uid,salt,encode_password_hash(digest),time.time()))
                     return True
                 if not self.ctx.storage.transactionSync(create):
                     return reply({'error': '该账号已被使用，请更换账号'}, 409)
             else:
                 row = self.db.execute('SELECT * FROM accounts WHERE username=?', (username,)).fetchone()
-                digest = await password_hash(password, row['salt'] if row else '00'*16)
-                if not row or not hmac.compare_digest(digest, row['password_hash']):
+                iterations, expected = password_parameters(row['password_hash']) if row else (PASSWORD_ITERATIONS, '')
+                digest = await password_hash(password, row['salt'] if row else '00'*16, iterations)
+                if not row or not hmac.compare_digest(digest, expected):
                     return reply({'error': '账号或密码不正确'}, 401)
                 uid = row['uid']
             token = issue_session(uid, setting(self.env,'AUTH_SECRET'))

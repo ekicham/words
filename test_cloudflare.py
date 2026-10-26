@@ -1,6 +1,11 @@
 import json
 import tempfile
 import unittest
+import asyncio
+import hashlib
+import sys
+from types import SimpleNamespace
+from unittest.mock import patch
 from pathlib import Path
 from app import App, ROOT
 
@@ -38,6 +43,28 @@ class AssessmentTests(unittest.TestCase):
             self.assertEqual(state['position'], 1)
 
 class AuthTests(unittest.TestCase):
+    def test_password_hash_respects_production_crypto_limit(self):
+        from cloudflare.auth import webcrypto_password_hash, password_parameters, encode_password_hash
+        calls = []
+        async def import_key(_format, data, *_args): return data
+        async def derive_bits(options, key, bits):
+            calls.append(options['iterations'])
+            if options['iterations'] > 100_000:
+                raise RuntimeError('Cloudflare production PBKDF2 iteration limit exceeded')
+            return hashlib.pbkdf2_hmac('sha256', key, options['salt'], options['iterations'], bits // 8)
+        runtime = SimpleNamespace(
+            crypto=SimpleNamespace(subtle=SimpleNamespace(importKey=import_key, deriveBits=derive_bits)),
+            Object=SimpleNamespace(fromEntries=dict),
+            Uint8Array=SimpleNamespace(new=lambda data: SimpleNamespace(to_bytes=lambda: data)))
+        with patch.dict(sys.modules, {'js':runtime, 'pyodide.ffi':SimpleNamespace(to_js=lambda value, **kwargs: value)}):
+            digest = asyncio.run(webcrypto_password_hash('a strong password', '00'*16))
+        expected = hashlib.pbkdf2_hmac('sha256', b'a strong password', bytes(16), 100_000).hex()
+        self.assertEqual(digest, expected)
+        self.assertEqual(calls, [100_000])
+        self.assertEqual(password_parameters(encode_password_hash(digest)), (100_000, digest))
+        self.assertEqual(password_parameters('a'*64), (600_000, 'a'*64))
+        with self.assertRaises(ValueError): password_parameters('pbkdf2_sha256$1$'+'a'*64)
+
     def test_signed_sessions_reject_tampering_expiry_and_key_rotation(self):
         from cloudflare.auth import issue_session, verify_session
         token = issue_session('a'*32, 's'*32, now=100)
