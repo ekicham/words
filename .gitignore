@@ -1,0 +1,10 @@
+__pycache__/
+data/*.sqlite3*
+data/audio/
+output/
+.DS_Store
+.playwright-cli/
+data/backups/
+data/phonetics-service.json
+.build/
+dist/

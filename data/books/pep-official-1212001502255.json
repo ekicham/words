@@ -1,0 +1,861 @@
+{
+  "id": "pep-official-1212001502255",
+  "title": "人教 PEP · 五年级下册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 5,
+  "term": "下",
+  "source_url": "https://book.pep.com.cn/1212001502255/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。",
+  "words": [
+    {
+      "english": "must",
+      "meaning": "必须",
+      "unit": "Unit 1 Following the rules",
+      "page": "4"
+    },
+    {
+      "english": "sir",
+      "meaning": "先生",
+      "unit": "Unit 1 Following the rules",
+      "page": "4"
+    },
+    {
+      "english": "inside",
+      "meaning": "在……里",
+      "unit": "Unit 1 Following the rules",
+      "page": "4"
+    },
+    {
+      "english": "scare",
+      "meaning": "惊吓；使害怕",
+      "unit": "Unit 1 Following the rules",
+      "page": "4"
+    },
+    {
+      "english": "password",
+      "meaning": "密码",
+      "unit": "Unit 1 Following the rules",
+      "page": "5"
+    },
+    {
+      "english": "line",
+      "meaning": "队伍；行列；线条",
+      "unit": "Unit 1 Following the rules",
+      "page": "7"
+    },
+    {
+      "english": "wait",
+      "meaning": "等待；等候",
+      "unit": "Unit 1 Following the rules",
+      "page": "7"
+    },
+    {
+      "english": "guard",
+      "meaning": "门卫；看守",
+      "unit": "Unit 1 Following the rules",
+      "page": "7"
+    },
+    {
+      "english": "stand",
+      "meaning": "站立；立",
+      "unit": "Unit 1 Following the rules",
+      "page": "7"
+    },
+    {
+      "english": "shout",
+      "meaning": "大声说；叫",
+      "unit": "Unit 1 Following the rules",
+      "page": "7"
+    },
+    {
+      "english": "smoke",
+      "meaning": "吸（烟）",
+      "unit": "Unit 1 Following the rules",
+      "page": "8"
+    },
+    {
+      "english": "flash",
+      "meaning": "闪光灯",
+      "unit": "Unit 1 Following the rules",
+      "page": "8"
+    },
+    {
+      "english": "open",
+      "meaning": "开放；打开",
+      "unit": "Unit 1 Following the rules",
+      "page": "9"
+    },
+    {
+      "english": "return",
+      "meaning": "归还；回去；返回",
+      "unit": "Unit 1 Following the rules",
+      "page": "9"
+    },
+    {
+      "english": "borrow",
+      "meaning": "借；借用",
+      "unit": "Unit 1 Following the rules",
+      "page": "9"
+    },
+    {
+      "english": "write",
+      "meaning": "书写；写字",
+      "unit": "Unit 1 Following the rules",
+      "page": "9"
+    },
+    {
+      "english": "along",
+      "meaning": "沿着；顺着",
+      "unit": "Unit 2 Our community",
+      "page": "16"
+    },
+    {
+      "english": "street",
+      "meaning": "大街；街道",
+      "unit": "Unit 2 Our community",
+      "page": "16"
+    },
+    {
+      "english": "station",
+      "meaning": "局；所；站",
+      "unit": "Unit 2 Our community",
+      "page": "16"
+    },
+    {
+      "english": "next",
+      "meaning": "紧邻；紧接着",
+      "unit": "Unit 2 Our community",
+      "page": "16"
+    },
+    {
+      "english": "far",
+      "meaning": "远的；较远的",
+      "unit": "Unit 2 Our community",
+      "page": "16"
+    },
+    {
+      "english": "cinema",
+      "meaning": "电影院",
+      "unit": "Unit 2 Our community",
+      "page": "17"
+    },
+    {
+      "english": "between",
+      "meaning": "在……中间；介于……之间",
+      "unit": "Unit 2 Our community",
+      "page": "17"
+    },
+    {
+      "english": "city",
+      "meaning": "都市；城市",
+      "unit": "Unit 2 Our community",
+      "page": "17"
+    },
+    {
+      "english": "behind",
+      "meaning": "在……的后面",
+      "unit": "Unit 2 Our community",
+      "page": "17"
+    },
+    {
+      "english": "left",
+      "meaning": "向左；左边",
+      "unit": "Unit 2 Our community",
+      "page": "17"
+    },
+    {
+      "english": "teach",
+      "meaning": "教（课程）；讲授",
+      "unit": "Unit 2 Our community",
+      "page": "19"
+    },
+    {
+      "english": "litter",
+      "meaning": "垃圾；废弃物",
+      "unit": "Unit 2 Our community",
+      "page": "19"
+    },
+    {
+      "english": "recycle",
+      "meaning": "回收利用；再利用",
+      "unit": "Unit 2 Our community",
+      "page": "19"
+    },
+    {
+      "english": "taxi",
+      "meaning": "出租汽车；计程车",
+      "unit": "Unit 2 Our community",
+      "page": "20"
+    },
+    {
+      "english": "traffic",
+      "meaning": "交通",
+      "unit": "Unit 2 Our community",
+      "page": "20"
+    },
+    {
+      "english": "direct",
+      "meaning": "给（某人）指路；指挥",
+      "unit": "Unit 2 Our community",
+      "page": "20"
+    },
+    {
+      "english": "artist",
+      "meaning": "艺术家；画家",
+      "unit": "Unit 2 Our community",
+      "page": "20"
+    },
+    {
+      "english": "Ms",
+      "meaning": "（用于女子的姓氏或姓名前，不指明婚否）女士",
+      "unit": "Unit 2 Our community",
+      "page": "20"
+    },
+    {
+      "english": "scientist",
+      "meaning": "科学家",
+      "unit": "Unit 2 Our community",
+      "page": "20"
+    },
+    {
+      "english": "volunteer",
+      "meaning": "志愿者",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "live",
+      "meaning": "住；居住",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "train",
+      "meaning": "火车；列车",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "lost",
+      "meaning": "迷路的；迷失的",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "sign",
+      "meaning": "指示牌；标志",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "note",
+      "meaning": "笔记；便条",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "foreign",
+      "meaning": "外国的",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "visitor",
+      "meaning": "游客；参观者",
+      "unit": "Unit 2 Our community",
+      "page": "21"
+    },
+    {
+      "english": "January",
+      "meaning": "一月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "28"
+    },
+    {
+      "english": "February",
+      "meaning": "二月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "28"
+    },
+    {
+      "english": "skate",
+      "meaning": "滑冰；溜冰",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "28"
+    },
+    {
+      "english": "holiday",
+      "meaning": "假期",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "March",
+      "meaning": "三月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "April",
+      "meaning": "四月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "May",
+      "meaning": "五月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "June",
+      "meaning": "六月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "party",
+      "meaning": "联欢会；聚会",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "celebrate",
+      "meaning": "庆祝；庆贺",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "31"
+    },
+    {
+      "english": "December",
+      "meaning": "十二月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "31"
+    },
+    {
+      "english": "Christmas",
+      "meaning": "圣诞节",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "31"
+    },
+    {
+      "english": "turkey",
+      "meaning": "火鸡",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "31"
+    },
+    {
+      "english": "July",
+      "meaning": "七月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "August",
+      "meaning": "八月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "September",
+      "meaning": "九月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "October",
+      "meaning": "十月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "November",
+      "meaning": "十一月",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "country",
+      "meaning": "国；国家",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "sit",
+      "meaning": "坐",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "beside",
+      "meaning": "在旁边；在附近",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "west",
+      "meaning": "西；西方",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "cup",
+      "meaning": "一杯（的量）；杯子",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "sunshine",
+      "meaning": "阳光；日光",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "catch",
+      "meaning": "捕捉；接住",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "ago",
+      "meaning": "以前",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "ice",
+      "meaning": "冰；冰块；冰场",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "33"
+    },
+    {
+      "english": "Labour Day",
+      "meaning": "劳动节",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "Dragon Boat Festival",
+      "meaning": "端午节",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "29"
+    },
+    {
+      "english": "CPC Founding Day",
+      "meaning": "中国共产党建党日",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "PLA Day",
+      "meaning": "中国人民解放军建军节",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "National Day",
+      "meaning": "国庆节",
+      "unit": "Unit 3 Life in different seasons",
+      "page": "32"
+    },
+    {
+      "english": "hometown",
+      "meaning": "家乡；故乡",
+      "unit": "Unit 4 My hometown",
+      "page": "40"
+    },
+    {
+      "english": "its",
+      "meaning": "它的",
+      "unit": "Unit 4 My hometown",
+      "page": "40"
+    },
+    {
+      "english": "common",
+      "meaning": "共同的；共有的",
+      "unit": "Unit 4 My hometown",
+      "page": "40"
+    },
+    {
+      "english": "beach",
+      "meaning": "海滩；沙滩",
+      "unit": "Unit 4 My hometown",
+      "page": "41"
+    },
+    {
+      "english": "desert",
+      "meaning": "沙漠；荒漠",
+      "unit": "Unit 4 My hometown",
+      "page": "41"
+    },
+    {
+      "english": "grassland",
+      "meaning": "草原；草地",
+      "unit": "Unit 4 My hometown",
+      "page": "41"
+    },
+    {
+      "english": "special",
+      "meaning": "特别的；特殊的",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "wild",
+      "meaning": "野生的；自然生长的",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "kangaroo",
+      "meaning": "袋鼠",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "koala",
+      "meaning": "考拉",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "wish",
+      "meaning": "希望（做某事）",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "could",
+      "meaning": "（表示可能性）可以，可能",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "high",
+      "meaning": "高的",
+      "unit": "Unit 4 My hometown",
+      "page": "44"
+    },
+    {
+      "english": "island",
+      "meaning": "岛；岛屿",
+      "unit": "Unit 4 My hometown",
+      "page": "44"
+    },
+    {
+      "english": "travel",
+      "meaning": "旅行；长途行走；从一处到另一处",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "feel like",
+      "meaning": "感觉像是……",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "middle",
+      "meaning": "中间；中央",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "painting",
+      "meaning": "油画；绘画",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "pyramid",
+      "meaning": "（古埃及的）金字塔",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "ride",
+      "meaning": "骑；驾驶",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "camel",
+      "meaning": "骆驼",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "even",
+      "meaning": "（强调出乎意料）甚至，连，即使",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "Confucius",
+      "meaning": "孔子",
+      "unit": "Unit 4 My hometown",
+      "page": "40"
+    },
+    {
+      "english": "Beijing opera",
+      "meaning": "京剧",
+      "unit": "Unit 4 My hometown",
+      "page": "41"
+    },
+    {
+      "english": "Mount Taishan",
+      "meaning": "泰山",
+      "unit": "Unit 4 My hometown",
+      "page": "41"
+    },
+    {
+      "english": "India",
+      "meaning": "印度",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "Italy",
+      "meaning": "意大利",
+      "unit": "Unit 4 My hometown",
+      "page": "43"
+    },
+    {
+      "english": "Britain",
+      "meaning": "不列颠（包括英格兰、苏格兰及威尔士）",
+      "unit": "Unit 4 My hometown",
+      "page": "44"
+    },
+    {
+      "english": "Cairo",
+      "meaning": "开罗（埃及首都）",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "Hawaii",
+      "meaning": "夏威夷",
+      "unit": "Unit 4 My hometown",
+      "page": "45"
+    },
+    {
+      "english": "early",
+      "meaning": "早到的；提前的",
+      "unit": "Unit 5 Travelling around",
+      "page": "52"
+    },
+    {
+      "english": "underground",
+      "meaning": "地铁",
+      "unit": "Unit 5 Travelling around",
+      "page": "52"
+    },
+    {
+      "english": "bike",
+      "meaning": "自行车；脚踏车",
+      "unit": "Unit 5 Travelling around",
+      "page": "52"
+    },
+    {
+      "english": "foot",
+      "meaning": "（复数feet） （人或动物的）脚，足",
+      "unit": "Unit 5 Travelling around",
+      "page": "53"
+    },
+    {
+      "english": "on foot",
+      "meaning": "步行",
+      "unit": "Unit 5 Travelling around",
+      "page": "53"
+    },
+    {
+      "english": "plane",
+      "meaning": "飞机",
+      "unit": "Unit 5 Travelling around",
+      "page": "53"
+    },
+    {
+      "english": "ship",
+      "meaning": "（大）船；舰",
+      "unit": "Unit 5 Travelling around",
+      "page": "53"
+    },
+    {
+      "english": "hurt",
+      "meaning": "对……有不良影响；（使）疼痛，受伤",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "environment",
+      "meaning": "自然环境",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "tip",
+      "meaning": "实用的提示；指点",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "health",
+      "meaning": "健康",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "carry",
+      "meaning": "运送；承载",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "finally",
+      "meaning": "（用于列举）最后；终于",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "suggest",
+      "meaning": "建议；提议",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "everyday",
+      "meaning": "每天的；日常的",
+      "unit": "Unit 5 Travelling around",
+      "page": "57"
+    },
+    {
+      "english": "internet",
+      "meaning": "互联网；因特网",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "64"
+    },
+    {
+      "english": "seafood",
+      "meaning": "海鲜",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "64"
+    },
+    {
+      "english": "maybe",
+      "meaning": "（不确定）大概，或许，可能",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "64"
+    },
+    {
+      "english": "join",
+      "meaning": "参与；加入",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "64"
+    },
+    {
+      "english": "hill",
+      "meaning": "山丘；小山",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "explore",
+      "meaning": "探索",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "culture",
+      "meaning": "文化；文明",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "hot pot",
+      "meaning": "火锅",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "tour",
+      "meaning": "旅行；旅游",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "local",
+      "meaning": "当地的；本地的",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "history",
+      "meaning": "历史",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "65"
+    },
+    {
+      "english": "plan",
+      "meaning": "计划；打算",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "67"
+    },
+    {
+      "english": "app",
+      "meaning": "应用软件",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "67"
+    },
+    {
+      "english": "information",
+      "meaning": "信息；消息",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "68"
+    },
+    {
+      "english": "blog",
+      "meaning": "博客",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "68"
+    },
+    {
+      "english": "magazine",
+      "meaning": "杂志；期刊",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "68"
+    },
+    {
+      "english": "northeast",
+      "meaning": "东北；东北方",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "69"
+    },
+    {
+      "english": "building",
+      "meaning": "建筑物；房子",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "69"
+    },
+    {
+      "english": "palace",
+      "meaning": "王宫；宫殿",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "69"
+    },
+    {
+      "english": "stone",
+      "meaning": "石头；岩石",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "69"
+    },
+    {
+      "english": "last",
+      "meaning": "最后的；末尾的",
+      "unit": "Unit 6 Making a travel plan",
+      "page": "69"
+    }
+  ]
+}

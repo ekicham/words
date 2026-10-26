@@ -1,0 +1,939 @@
+{
+  "id": "pep-5-b",
+  "title": "人教 PEP · 五年级下册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 5,
+  "term": "下",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "eat breakfast",
+      "meaning": "吃早饭",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "have … class",
+      "meaning": "上⋯⋯课",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "play sports",
+      "meaning": "进行体育运动",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "exercise",
+      "meaning": "活动；运动",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "do morning exercises",
+      "meaning": "做早操",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "eat dinner",
+      "meaning": "吃晚饭",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "clean my room",
+      "meaning": "打扫我的房间",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "go for a walk",
+      "meaning": "散步",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "go shopping",
+      "meaning": "去买东西；购物",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "take",
+      "meaning": "学习；上（课）",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "dancing",
+      "meaning": "跳舞；舞蹈",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "take a dancing class",
+      "meaning": "上舞蹈课",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "when",
+      "meaning": "什么时候；何时",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "after",
+      "meaning": "在（时间）后",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "start",
+      "meaning": "开始",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "usually",
+      "meaning": "通常地； 惯常地",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "Spain",
+      "meaning": "西班牙",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "late",
+      "meaning": "晚；迟",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "a.m.",
+      "meaning": "午前；上午",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "p.m.",
+      "meaning": "午后；下午",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "why",
+      "meaning": "为什么",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "shop",
+      "meaning": "去买东西；购物",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "work",
+      "meaning": "工作",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "last",
+      "meaning": "上一个的；刚过去的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "sound",
+      "meaning": "听起来好像",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "also",
+      "meaning": "还；也",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "busy",
+      "meaning": "忙的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "need",
+      "meaning": "需要",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "play",
+      "meaning": "戏剧；剧本",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "letter",
+      "meaning": "信",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "live",
+      "meaning": "居住",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "island",
+      "meaning": "岛",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "always",
+      "meaning": "总是；一直",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "cave",
+      "meaning": "山洞；洞穴",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "go swimming",
+      "meaning": "去游泳",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "win",
+      "meaning": "获胜",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "spring",
+      "meaning": "春天",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "summer",
+      "meaning": "夏天",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "autumn",
+      "meaning": "秋天",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "winter",
+      "meaning": "冬天",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "season",
+      "meaning": "季节",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "picnic",
+      "meaning": "野餐",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "go on a picnic",
+      "meaning": "去野餐",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "pick",
+      "meaning": "摘；采集",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "pick apples",
+      "meaning": "摘苹果",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "snowman",
+      "meaning": "雪人",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "make a snowman",
+      "meaning": "堆雪人",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "go swimming",
+      "meaning": "去游泳",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "which",
+      "meaning": "哪一个",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "best",
+      "meaning": "最；最高程度地",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "snow",
+      "meaning": "雪",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "good job",
+      "meaning": "做得好",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "because",
+      "meaning": "因为",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "vacation",
+      "meaning": "假期",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "all",
+      "meaning": "全；完全",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "pink",
+      "meaning": "粉色；粉色的",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "lovely",
+      "meaning": "可爱的；美丽的",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "leaf",
+      "meaning": "叶子 （复数 leaves ）",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "fall",
+      "meaning": "落下；【美】秋天",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "paint",
+      "meaning": "用颜料绘画",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "January",
+      "meaning": "一月",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "February",
+      "meaning": "二月",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "March",
+      "meaning": "三月",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "April",
+      "meaning": "四月",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "May",
+      "meaning": "五月",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "June",
+      "meaning": "六月",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "July",
+      "meaning": "七月",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "August",
+      "meaning": "八月",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "September",
+      "meaning": "九月",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "October",
+      "meaning": "十月",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "November",
+      "meaning": "十一月",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "December",
+      "meaning": "十二月",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "few",
+      "meaning": "不多；很少",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "a few",
+      "meaning": "一些",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "thing",
+      "meaning": "事情",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "meet",
+      "meaning": "集会；开会",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "sports meet",
+      "meaning": "运动会",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "trip",
+      "meaning": "旅行",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "year",
+      "meaning": "年",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "plant",
+      "meaning": "种植",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "contest",
+      "meaning": "比赛；竞赛",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "the Great Wall",
+      "meaning": "长城",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "national",
+      "meaning": "国家的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "National Day",
+      "meaning": "国庆日",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "American",
+      "meaning": "美国的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "Thanksgiving",
+      "meaning": "感恩节",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "Christmas",
+      "meaning": "圣诞节",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "game",
+      "meaning": "游戏",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "riddle",
+      "meaning": "谜；谜语",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "act",
+      "meaning": "扮演",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "act out",
+      "meaning": "把……表演出来",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "RSVP",
+      "meaning": "（尤用于请柬）请赐复",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "by",
+      "meaning": "在……之前",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "first",
+      "meaning": "第一（的）",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "second",
+      "meaning": "第二（的）",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "third",
+      "meaning": "第三（的）",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "fourth",
+      "meaning": "第四（的）",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "fifth",
+      "meaning": "第五（的）",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "twelfth",
+      "meaning": "第十二（的）",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "twentieth",
+      "meaning": "第二十（的）",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "twenty-first",
+      "meaning": "第二十一（的）",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "twenty-third",
+      "meaning": "第二十三（的）",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "thirtieth",
+      "meaning": "第三十（的）",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "other",
+      "meaning": "其他",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "special",
+      "meaning": "特殊的；特别的",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "show",
+      "meaning": "展览",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "festival",
+      "meaning": "节日",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "kitten",
+      "meaning": "小猫",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "diary",
+      "meaning": "日记",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "still",
+      "meaning": "仍然；依旧；还是",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "noise",
+      "meaning": "声音；响声；噪音",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "fur",
+      "meaning": "（某些动物的）浓密的软毛",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "open",
+      "meaning": "开着的",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "walk",
+      "meaning": "行走",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "mine",
+      "meaning": "我的",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "yours",
+      "meaning": "你（们）的",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "his",
+      "meaning": "他的",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "hers",
+      "meaning": "她的",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "theirs",
+      "meaning": "他们的；她们的； 它们的",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "ours",
+      "meaning": "我们的",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "climbing",
+      "meaning": "（climb 的-ing形式）（正在）攀登；攀爬",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "eating",
+      "meaning": "（eat的-ing形式） （正在）吃",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "playing",
+      "meaning": "（play的-ing形式） （正在）玩耍",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "jumping",
+      "meaning": "（jump 的-ing形式）（正在）跳",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "drinking",
+      "meaning": "（drink的-ing 形式）（正在）喝（水）",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "sleeping",
+      "meaning": "（sleep 的-ing形式）（正在）睡觉",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "each",
+      "meaning": "每一；各个",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "each other",
+      "meaning": "相互",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "excited",
+      "meaning": "兴奋的； 激动的",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "like",
+      "meaning": "像……那样",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "doing morning exercises",
+      "meaning": "（正在）做早操",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "having … class",
+      "meaning": "（正在）上……课",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "eating lunch",
+      "meaning": "（正在）吃午饭",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "reading a book",
+      "meaning": "（正在）看书",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "listening to music",
+      "meaning": "（正在） 听音乐",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "keep",
+      "meaning": "保持某种状态",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "keep to the right",
+      "meaning": "靠右",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "keep your desk clean",
+      "meaning": "保持你的课桌干净",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "talk quietly",
+      "meaning": "小声讲话",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "turn",
+      "meaning": "顺序",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "take turns",
+      "meaning": "按顺序来",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "bamboo",
+      "meaning": "竹子",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "its",
+      "meaning": "（指事物、动物或幼儿） 它的；他的；她的",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "show",
+      "meaning": "给人看",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "anything",
+      "meaning": "任何事物",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "else",
+      "meaning": "另外；其他",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "exhibition",
+      "meaning": "展览",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "say",
+      "meaning": "说；讲",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "have a look",
+      "meaning": "看一看",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "sushi",
+      "meaning": "寿司",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "teach",
+      "meaning": "教",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "sure",
+      "meaning": "（表示同意）当然",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "Canadian",
+      "meaning": "加拿大的",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "Spanish",
+      "meaning": "西班牙的",
+      "unit": "Unit 6",
+      "page": "63"
+    }
+  ]
+}

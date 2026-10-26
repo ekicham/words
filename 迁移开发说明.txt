@@ -1,0 +1,134 @@
+词屿 Word Isle — 工程迁移与继续开发
+源码快照日期：2026-10-04
+当前应用版本：1.4.1
+
+一、先完整解压
+
+将“词屿的源码.zip”完整解压到可写目录，进入其中的“词屿”文件夹。
+使用 VS Code、PyCharm 或其他编辑器打开整个文件夹，不要只复制 app.py。
+所有命令均在包含 app.py 的工程根目录执行。
+
+压缩包包含：Python 后端、网页前端、17 册教材及来源说明、音标和离线媒体、
+macOS 原生窗口源码、Windows 启动入口、构建脚本、自动化测试和开发文档。
+未包含：.git 历史、已构建的安装包、Python 运行时、虚拟环境、构建缓存、
+个人学习数据库、录音/音频缓存、备份、云服务密钥配置及本地评测模型。
+无需从原机器复制 .build；构建环境应在新机器重新生成。
+
+二、源码版启动（不必先打包安装程序）
+
+核心应用只使用 Python 标准库，不需要先安装第三方 pip 包。
+网页是原生 HTML/CSS/JavaScript，启动应用不需要 npm 或前端编译。
+安装 Python 3；可使用与 macOS 构建脚本同系列的 Python 3.13。
+本次源码迁移验证实际使用 macOS 上的 Python 3.9.6；其他机器仍应运行下面的测试。
+
+macOS：
+  python3 --version
+  python3 app.py --open
+
+Windows（安装 Python 时启用 Python Launcher）：
+  py -3 --version
+  py -3 -X utf8 app.py --open
+
+若没有 py 命令，使用已加入 PATH 的 python 替代“py -3”。
+Windows 的 -X utf8 用于按 UTF-8 读取中文资源。
+源码目录里的“启动词屿.bat”要求发布包自带 runtime/python.exe，不能直接用于此源码包。
+若要调试 Windows 便携版入口和用户数据目录，执行：
+  py -3 -X utf8 windows/start.py
+
+浏览器地址：http://127.0.0.1:8765
+服务只监听本机。保留启动终端；按 Ctrl+C 退出。
+端口占用时可加 --port 8766，然后访问对应端口。
+源码运行默认在 data/words.sqlite3 新建数据库，自动导入随包教材。
+可用 --db 指定独立开发数据库，例如：
+  python3 app.py --db .build/dev-data/words.sqlite3 --open
+Windows 将上面的 python3 替换为“py -3 -X utf8”。
+
+三、改哪里
+
+app.py                     本地 HTTP 服务、SQLite、学习与奖励逻辑
+phonetics.py               音标练习、录音报告、腾讯云评测接口
+local_assessment.py        可选 OpenPronounce 本地评测进程管理
+static/                    网页结构、样式与交互
+data/books/                教材 JSON
+data/phonetics*.json        离线音标与音标课程
+data/phonetics-media/       离线视频和 MP3
+data/sources/              来源清单及核对材料
+macos/                     Swift 窗口、后端入口、打包配置
+windows/                   Windows 启动入口与使用说明
+scripts/                   打包和资源处理脚本
+test_*.py / test_*.cjs      后端与浏览器测试
+docs/superpowers/plans/     既有开发设计与计划
+
+修改 Python 后重启服务；修改网页资源后刷新浏览器。
+学习数据与工程源码分开管理。此包是全新开发环境，不迁移原机器的学习记录或密钥。
+教材来源和使用边界见 README.md 与 data/sources/。
+
+四、先运行回归测试
+
+macOS：
+  python3 -m unittest test_app test_catalog test_rewards test_dictation test_phonetics test_openpronounce
+
+Windows：
+  py -3 -X utf8 -m unittest test_app test_catalog test_rewards test_dictation test_phonetics test_openpronounce
+
+macOS 后端及打包相关测试：
+  python3 -m unittest test_macos
+未设置 WORD_ISLE_APP 时，安装包专用测试会跳过，不代表已经验收安装包。
+OpenPronounce 的上述测试验证接口契约，未实际下载模型或执行真实发音评分。
+
+可选浏览器自动化需要支持全局 fetch 的 Node.js（18+）、Playwright 和 Google Chrome。
+当前脚本调用 python3 并指定 Chrome channel；先保证这两个程序在新机器可用。
+只运行应用不需要这一环境。可将测试依赖装到已忽略的 .build 下：
+  npm install --prefix .build/ui-tests playwright
+macOS：
+  NODE_PATH="$PWD/.build/ui-tests/node_modules" node test_browser.cjs
+Windows PowerShell：
+  $env:NODE_PATH = (Resolve-Path .build/ui-tests/node_modules).Path
+  $env:PYTHONUTF8 = "1"
+  node test_browser.cjs
+Windows 上若只有 py/python 而没有 python3，需要为测试脚本提供 python3 命令，
+或调整其中的 Python 启动命令；上面的 py 命令本身不会自动满足此条件。
+浏览器测试从工程根目录逐个执行，结果输出到 output/playwright/。
+
+五、在新机器重新打包
+
+macOS DMG：现有完整构建流程要求 Apple 芯片、macOS 14+、
+Xcode Command Line Tools 及网络。执行：
+  bash scripts/build_macos.sh
+脚本先准备固定版本的 Python/PyInstaller，再自动构建可选的本地评测组件。
+首次会下载构建依赖；输出在 dist/macos/，具体版本与校验值以脚本为准。
+如解压工具丢失脚本执行权限，先执行：
+  chmod +x scripts/build_macos.sh scripts/build_openpronounce.sh 启动词屿.command
+之后修改本地评测组件时，执行 bash scripts/build_openpronounce.sh，
+再执行 bash scripts/build_macos.sh，避免复用旧组件。
+全新工程不能先单独运行 build_openpronounce.sh，它依赖主构建脚本准备的 Python 环境。
+Intel Mac 可开发核心源码，但现有完整构建流程及本地评测组件有上述 Apple 芯片限制。
+
+Windows 便携包：
+  py -3 -X utf8 scripts/build_windows.py
+  py -3 -X utf8 -m unittest test_windows
+也可在 macOS 上以 python3 执行这两个命令。
+构建脚本会下载并校验固定 Python 3.8.10 x64 运行时，输出到 dist/windows/。
+构建主机测试不等于 Windows 7 真机验收，目标系统要求见 windows/使用说明.txt。
+
+可选功能：macOS 系统朗读使用系统语音；其他系统尝试浏览器语音。
+腾讯云评测需在新机器自行配置凭证。本地 OpenPronounce 仅支持 Apple 芯片、
+macOS 14+，按上面的流程构建组件后还需在设置中下载模型，模型未收入源码 ZIP。
+
+六、本次打包验证
+
+2026-10-04 在 macOS/Python 3.9.6 上，将包解压到独立的中文及空格路径，
+不使用原工程 .build 或安装包，执行核心测试及 test_macos：
+共 32 项，31 项通过，1 项安装包专用测试按设计跳过。
+另以解压目录的 app.py 启动独立服务：主页、app.js、style.css 均 HTTP 200；
+教材接口返回 17 册、2,048 个词条。测试数据库使用临时目录，未带入此包。
+ZIP CRC 和包内各源码文件与工作区的 SHA-256 对照通过。
+本次未在另一台实体电脑执行，也未重新构建 DMG/Windows 包或运行浏览器自动化。
+
+七、继续使用 Git
+
+源码 ZIP 不包含 .git，但保留 .gitignore。若需要新的版本历史，可在解压目录执行：
+  git init
+  git add .
+  git commit -m "Import Word Isle source"
+虚拟环境和构建依赖建议放在 .build/，该目录已被忽略。

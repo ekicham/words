@@ -1,0 +1,519 @@
+{
+  "id": "pep-4-a",
+  "title": "人教 PEP · 四年级上册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 4,
+  "term": "上",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "classroom",
+      "meaning": "教室",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "window",
+      "meaning": "窗户",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "blackboard",
+      "meaning": "黑板",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "light",
+      "meaning": "电灯",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "picture",
+      "meaning": "图画",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "door",
+      "meaning": "门",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "teacher's desk",
+      "meaning": "讲台",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "computer",
+      "meaning": "计算机",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "fan",
+      "meaning": "风扇",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "wall",
+      "meaning": "墙壁",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "floor",
+      "meaning": "地板",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "really",
+      "meaning": "（表示兴趣或惊讶） 真的",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "near",
+      "meaning": "距离近",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "TV",
+      "meaning": "电视",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "clean",
+      "meaning": "打扫",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "help",
+      "meaning": "帮助",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "schoolbag",
+      "meaning": "书包",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "maths book",
+      "meaning": "数学书",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "English book",
+      "meaning": "英语书",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Chinese book",
+      "meaning": "语文书",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "storybook",
+      "meaning": "故事书",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "candy",
+      "meaning": "糖果",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "notebook",
+      "meaning": "笔记本",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "toy",
+      "meaning": "玩具",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "key",
+      "meaning": "钥匙",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "wow",
+      "meaning": "哇；呀",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "lost",
+      "meaning": "丢失 （lose的过去式形式）",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "so much",
+      "meaning": "非常地",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "cute",
+      "meaning": "可爱的",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "strong",
+      "meaning": "强壮的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "friendly",
+      "meaning": "友好的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "quiet",
+      "meaning": "安静的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "hair",
+      "meaning": "头发",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "shoe",
+      "meaning": "鞋",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "glasses",
+      "meaning": "眼镜",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "his",
+      "meaning": "他的",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "or",
+      "meaning": "或者",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "right",
+      "meaning": "正确的; 对的",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "hat",
+      "meaning": "(常指带檐的) 帽子",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "her",
+      "meaning": "她的",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "bedroom",
+      "meaning": "卧室",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "living room",
+      "meaning": "客厅；起居室",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "study",
+      "meaning": "书房",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "kitchen",
+      "meaning": "厨房",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "bathroom",
+      "meaning": "浴室； 洗手间",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "bed",
+      "meaning": "床",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "phone",
+      "meaning": "电话",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "table",
+      "meaning": "桌子",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "sofa",
+      "meaning": "长沙发",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "fridge",
+      "meaning": "冰箱",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "find",
+      "meaning": "找到",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "them",
+      "meaning": "他（她、它）们",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "beef",
+      "meaning": "牛肉",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "chicken",
+      "meaning": "鸡肉",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "noodles",
+      "meaning": "面条",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "soup",
+      "meaning": "汤",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "vegetable",
+      "meaning": "蔬菜",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "chopsticks",
+      "meaning": "筷子",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "bowl",
+      "meaning": "碗",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "fork",
+      "meaning": "餐叉",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "knife",
+      "meaning": "刀",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "spoon",
+      "meaning": "勺",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "dinner",
+      "meaning": "（中午或晚上吃的） 正餐",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "ready",
+      "meaning": "准备好",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "help yourself",
+      "meaning": "为（自己）取用",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "pass",
+      "meaning": "给；递",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "try",
+      "meaning": "试；尝试",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "parents",
+      "meaning": "父母",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "cousin",
+      "meaning": "同辈表亲 （或堂亲）",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "uncle",
+      "meaning": "舅父；叔父；伯父； 姑父；姨夫",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "aunt",
+      "meaning": "姑母；姨母",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "baby brother",
+      "meaning": "婴儿小弟弟",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "doctor",
+      "meaning": "医生",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "cook",
+      "meaning": "厨师",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "driver",
+      "meaning": "司机",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "farmer",
+      "meaning": "农民",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "nurse",
+      "meaning": "护士",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "people",
+      "meaning": "人们",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "but",
+      "meaning": "但是",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "little",
+      "meaning": "小的",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "puppy",
+      "meaning": "小狗",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "football player",
+      "meaning": "足球运动员",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "job",
+      "meaning": "工作",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "basketball",
+      "meaning": "篮球",
+      "unit": "Unit 6",
+      "page": "63"
+    }
+  ]
+}

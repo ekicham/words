@@ -1,0 +1,639 @@
+{
+  "id": "pep-4-b",
+  "title": "人教 PEP · 四年级下册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 4,
+  "term": "下",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "first floor",
+      "meaning": "一楼",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "second floor",
+      "meaning": "二楼",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "teachers' office",
+      "meaning": "教师办公室",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "library",
+      "meaning": "图书馆",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "playground",
+      "meaning": "操场",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "computer room",
+      "meaning": "计算机房",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "art room",
+      "meaning": "美术教室",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "music room",
+      "meaning": "音乐教室",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "next to",
+      "meaning": "紧邻；在⋯⋯近旁",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "homework",
+      "meaning": "作业",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "class",
+      "meaning": "班；班级",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "forty",
+      "meaning": "四十",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "way",
+      "meaning": "方向",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "breakfast",
+      "meaning": "早餐；早饭",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "English class",
+      "meaning": "英语课",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "lunch",
+      "meaning": "午餐；午饭",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "music class",
+      "meaning": "音乐课",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "PE class",
+      "meaning": "体育课",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "dinner",
+      "meaning": "（中午或晚上吃的）正餐",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "get up",
+      "meaning": "起床",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "go to school",
+      "meaning": "去上学",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "go home",
+      "meaning": "回家",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "go to bed",
+      "meaning": "上床睡觉",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "over",
+      "meaning": "结束",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "now",
+      "meaning": "现在；目前",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "o'clock",
+      "meaning": "（表示整点） ⋯⋯点钟",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "kid",
+      "meaning": "小孩",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "thirty",
+      "meaning": "三十",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "hurry up",
+      "meaning": "快点",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "come on",
+      "meaning": "快；加油",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "just a minute",
+      "meaning": "稍等一会儿",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "cold",
+      "meaning": "寒冷的；冷的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "cool",
+      "meaning": "凉的；凉爽的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "warm",
+      "meaning": "温暖的；暖和的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "hot",
+      "meaning": "热的; 烫的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "sunny",
+      "meaning": "阳光充足的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "windy",
+      "meaning": "多风的；风大的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "cloudy",
+      "meaning": "阴天的；多云的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "snowy",
+      "meaning": "下雪（多）的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "rainy",
+      "meaning": "阴雨的；多雨的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "outside",
+      "meaning": "在户外",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "be careful",
+      "meaning": "小心",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "weather",
+      "meaning": "天气",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "New York",
+      "meaning": "纽约",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "how about",
+      "meaning": "⋯⋯怎么样？⋯⋯情况如何？",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "degree",
+      "meaning": "度；度数",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "world",
+      "meaning": "世界",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "London",
+      "meaning": "伦敦",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "Moscow",
+      "meaning": "莫斯科",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "Singapore",
+      "meaning": "新加坡（ 市 ）",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "Sydney",
+      "meaning": "悉尼",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "fly",
+      "meaning": "放（风筝等）",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "love",
+      "meaning": "（写信结尾的热情问候语） 爱你的",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "tomato",
+      "meaning": "西红柿",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "potato",
+      "meaning": "马铃薯；土豆",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "green beans",
+      "meaning": "豆角；四季豆",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "carrot",
+      "meaning": "胡萝卜",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "horse",
+      "meaning": "马",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "cow",
+      "meaning": "母牛；奶牛",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "sheep",
+      "meaning": "羊；绵羊",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "hen",
+      "meaning": "母鸡",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "these",
+      "meaning": "（this 的复数形式） 这些",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "yum",
+      "meaning": "（ 表示味道或气味非常好 ）",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "animal",
+      "meaning": "兽；动物",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "those",
+      "meaning": "（that 的复数形式） 那些",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "garden",
+      "meaning": "花园；菜园",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "farm",
+      "meaning": "农场",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "goat",
+      "meaning": "山羊",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "eat",
+      "meaning": "吃",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "clothes",
+      "meaning": "衣服；服装",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "pants",
+      "meaning": "裤子",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "hat",
+      "meaning": "（常指带檐的）帽子",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "dress",
+      "meaning": "连衣裙",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "skirt",
+      "meaning": "女裙",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "coat",
+      "meaning": "外衣；大衣",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "sweater",
+      "meaning": "毛衣",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "sock",
+      "meaning": "短袜",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "shorts",
+      "meaning": "短裤",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "jacket",
+      "meaning": "夹克衫",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "shirt",
+      "meaning": "（尤指男士）衬衫",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "yours",
+      "meaning": "你的；你们的",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "whose",
+      "meaning": "谁的",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "mine",
+      "meaning": "我的",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "pack",
+      "meaning": "收拾（行李）",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "wait",
+      "meaning": "等待",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "glove",
+      "meaning": "（分手指的）手套",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "scarf",
+      "meaning": "围巾；披巾",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "umbrella",
+      "meaning": "伞；雨伞",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "sunglasses",
+      "meaning": "太阳镜",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "pretty",
+      "meaning": "美观的；精致的",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "expensive",
+      "meaning": "昂贵的； 花钱多的",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "cheap",
+      "meaning": "花钱少的；便宜的",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "nice",
+      "meaning": "好的",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "try on",
+      "meaning": "试穿",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "size",
+      "meaning": "尺码；号",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "of course",
+      "meaning": "当然",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "too",
+      "meaning": "太；过于",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "just",
+      "meaning": "正好；恰好",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "how much",
+      "meaning": "多少钱",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "eighty",
+      "meaning": "八十",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "dollar",
+      "meaning": "元 （美国、加拿大等国的货币单位）",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "sale",
+      "meaning": "特价销售; 大减价",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "more",
+      "meaning": "更多的",
+      "unit": "Unit 6",
+      "page": "63"
+    },
+    {
+      "english": "us",
+      "meaning": "我们",
+      "unit": "Unit 6",
+      "page": "63"
+    }
+  ]
+}

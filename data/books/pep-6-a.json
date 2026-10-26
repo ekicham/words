@@ -1,0 +1,897 @@
+{
+  "id": "pep-6-a",
+  "title": "人教 PEP · 六年级上册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 6,
+  "term": "上",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "ChinaTextbook 存档旧版，第一单元 How can I get there?。与照片所示 2024 审定新版（第一单元 Amazing places）不同，不可混用。词条来自单元词汇附录，包含词汇与短语。",
+  "words": [
+    {
+      "english": "science",
+      "meaning": "科学",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "museum",
+      "meaning": "博物馆",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "post office",
+      "meaning": "邮局",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "bookstore",
+      "meaning": "书店",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "cinema",
+      "meaning": "电影院",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "hospital",
+      "meaning": "医院",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "crossing",
+      "meaning": "十字路口",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "turn",
+      "meaning": "转弯",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "left",
+      "meaning": "左",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "straight",
+      "meaning": "笔直地",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "right",
+      "meaning": "右",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "ask",
+      "meaning": "问",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "sir",
+      "meaning": "（对男子的礼貌称呼） 先生",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "interesting",
+      "meaning": "有趣的",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "Italian",
+      "meaning": "意大利的",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "restaurant",
+      "meaning": "餐馆",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "pizza",
+      "meaning": "比萨饼",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "street",
+      "meaning": "大街；街道",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "get",
+      "meaning": "到达",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "BDS",
+      "meaning": "北斗卫星导航系统",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "gave",
+      "meaning": "（give 的过去式） 提供；交给",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "feature",
+      "meaning": "特点",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "follow",
+      "meaning": "跟着",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "far",
+      "meaning": "远的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "tell",
+      "meaning": "告诉",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "on foot",
+      "meaning": "步行",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "by",
+      "meaning": "（表示方式）乘",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "bus",
+      "meaning": "公共汽车",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "plane",
+      "meaning": "飞机",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "taxi",
+      "meaning": "出租汽车",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "ship",
+      "meaning": "（大）船",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "subway",
+      "meaning": "地铁",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "train",
+      "meaning": "火车",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "slow",
+      "meaning": "（使）放慢速度；慢的",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "down",
+      "meaning": "减少；降低",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "slow down",
+      "meaning": "慢下来",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "stop",
+      "meaning": "停下",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "Mrs",
+      "meaning": "夫人",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "early",
+      "meaning": "早到的",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "helmet",
+      "meaning": "头盔",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "must",
+      "meaning": "必须",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "wear",
+      "meaning": "戴",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "attention",
+      "meaning": "注意",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "pay attention to",
+      "meaning": "注意",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "traffic",
+      "meaning": "交通",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "traffic lights",
+      "meaning": "交通信号灯",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "Munich",
+      "meaning": "慕尼黑（德国城市）",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "Germany",
+      "meaning": "德国",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "Alaska",
+      "meaning": "阿拉斯加州（美国州名）",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "sled",
+      "meaning": "雪橇",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "fast",
+      "meaning": "快",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "ferry",
+      "meaning": "轮渡",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "Papa Westray",
+      "meaning": "帕帕韦斯特雷岛",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "Scotland",
+      "meaning": "苏格兰",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "visit",
+      "meaning": "拜访",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "film",
+      "meaning": "电影",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "see a film",
+      "meaning": "看电影",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "trip",
+      "meaning": "旅行",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "take a trip",
+      "meaning": "去旅行",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "supermarket",
+      "meaning": "超市",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "evening",
+      "meaning": "晚上；傍晚",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "tonight",
+      "meaning": "在今晚",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "tomorrow",
+      "meaning": "明天",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "next week",
+      "meaning": "下周",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "dictionary",
+      "meaning": "词典",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "comic",
+      "meaning": "滑稽的",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "comic book",
+      "meaning": "（儿童的） 连环画册",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "word",
+      "meaning": "单词",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "word book",
+      "meaning": "单词书",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "postcard",
+      "meaning": "明信片",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "lesson",
+      "meaning": "课",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "space",
+      "meaning": "太空",
+      "unit": "Unit 3",
+      "page": "26"
+    },
+    {
+      "english": "travel",
+      "meaning": "（尤指长途）旅行",
+      "unit": "Unit 3",
+      "page": "26"
+    },
+    {
+      "english": "half",
+      "meaning": "一半",
+      "unit": "Unit 3",
+      "page": "26"
+    },
+    {
+      "english": "price",
+      "meaning": "价格",
+      "unit": "Unit 3",
+      "page": "26"
+    },
+    {
+      "english": "Mid-Autumn Festival",
+      "meaning": "中秋节",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "together",
+      "meaning": "一起",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "get together",
+      "meaning": "聚会",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "mooncake",
+      "meaning": "月饼",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "poem",
+      "meaning": "诗",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "moon",
+      "meaning": "月亮",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "studies",
+      "meaning": "（study 的第三人称单数形式）学习",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "puzzle",
+      "meaning": "谜",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "hiking",
+      "meaning": "远足",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "pen pal",
+      "meaning": "笔友",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "hobby",
+      "meaning": "业余爱好",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "jasmine",
+      "meaning": "茉莉",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "idea",
+      "meaning": "想法；主意",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "Canberra",
+      "meaning": "堪培拉（澳大利亚首都）",
+      "unit": "Unit 4",
+      "page": "40"
+    },
+    {
+      "english": "amazing",
+      "meaning": "令人惊奇的",
+      "unit": "Unit 4",
+      "page": "40"
+    },
+    {
+      "english": "shall",
+      "meaning": "表示征求意见",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "goal",
+      "meaning": "射门",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "join",
+      "meaning": "加入",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "club",
+      "meaning": "俱乐部",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "share",
+      "meaning": "分享",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "factory",
+      "meaning": "工厂",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "worker",
+      "meaning": "工人",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "postman",
+      "meaning": "邮递员",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "businessman",
+      "meaning": "商人； 企业家",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "police officer",
+      "meaning": "警察",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "fisherman",
+      "meaning": "渔民",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "scientist",
+      "meaning": "科学家",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "pilot",
+      "meaning": "飞行员",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "coach",
+      "meaning": "教练",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "country",
+      "meaning": "国家",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "head teacher",
+      "meaning": "校长",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "sea",
+      "meaning": "大海",
+      "unit": "Unit 5",
+      "page": "50"
+    },
+    {
+      "english": "stay",
+      "meaning": "保持",
+      "unit": "Unit 5",
+      "page": "50"
+    },
+    {
+      "english": "university",
+      "meaning": "大学",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "gym",
+      "meaning": "体育馆",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "if",
+      "meaning": "如果",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "reporter",
+      "meaning": "记者",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "use",
+      "meaning": "使用",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "type",
+      "meaning": "打字",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "quickly",
+      "meaning": "迅速地",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "secretary",
+      "meaning": "秘书",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "angry",
+      "meaning": "生气的",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "afraid",
+      "meaning": "害怕",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "sad",
+      "meaning": "难过的",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "worried",
+      "meaning": "担心的；发愁的",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "happy",
+      "meaning": "高兴的",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "see a doctor",
+      "meaning": "看病",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "wear",
+      "meaning": "穿",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "more",
+      "meaning": "更多的",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "deep",
+      "meaning": "深的",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "breath",
+      "meaning": "呼吸",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "take a deep breath",
+      "meaning": "深深吸一口气",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "count",
+      "meaning": "数数",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "count to ten",
+      "meaning": "数到十",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "chase",
+      "meaning": "追赶",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "mice",
+      "meaning": "（mouse 的复数） 老鼠",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "bad",
+      "meaning": "邪恶的；坏的",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "hurt",
+      "meaning": "（使）受伤",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "ill",
+      "meaning": "有病；不舒服",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "wrong",
+      "meaning": "有毛病",
+      "unit": "Unit 6",
+      "page": "60"
+    },
+    {
+      "english": "should",
+      "meaning": "应该",
+      "unit": "Unit 6",
+      "page": "60"
+    },
+    {
+      "english": "feel",
+      "meaning": "觉得；感到",
+      "unit": "Unit 6",
+      "page": "60"
+    },
+    {
+      "english": "well",
+      "meaning": "健康；身体好",
+      "unit": "Unit 6",
+      "page": "60"
+    },
+    {
+      "english": "sit",
+      "meaning": "坐",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "grass",
+      "meaning": "草坪",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "hear",
+      "meaning": "听见",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "ant",
+      "meaning": "蚂蚁",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "worry",
+      "meaning": "担心；担忧",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "stuck",
+      "meaning": "陷住；无法移动",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "mud",
+      "meaning": "泥",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "pull",
+      "meaning": "拉；拽",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "everyone",
+      "meaning": "每人",
+      "unit": "Unit 6",
+      "page": "62"
+    }
+  ]
+}

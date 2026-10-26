@@ -1,0 +1,67 @@
+词屿 Word Isle 1.4.1 r2 — Windows 7 旗舰版 64 位便携网页包
+
+打开方法
+1. 右键 ZIP → 全部提取。不要在压缩包预览窗口里直接运行。
+2. 打开解压后的 WordIsle-1.4.1-Win7-x64-r2 文件夹。
+3. 双击 Start-WordIsle.bat（或“启动词屿.bat”）。程序自动打开浏览器。
+4. 保留黑色启动窗口；退出时按 Ctrl+C 或关闭它。下次启动继续保留记录。
+若浏览器没有打开，用下面的兼容浏览器访问 http://127.0.0.1:8765/ 。
+无需另装 Python、无需管理员权限；完整文件夹可以放在任意可读取的位置。
+
+Windows 7 必备环境
+• 64 位 Windows 7 SP1；运行 winver 可查看是否为 Service Pack 1。
+• 系统已安装 KB2533623（或包含它的后续更新），以及 Universal C Runtime
+  （KB2999226 或等效运行库）。未更新的原版 Win7 不保证直接启动。
+• 使用 Chrome 109、Edge 109 或 Firefox 115 ESR；自带 IE 不支持。
+  包内不含浏览器；启动器优先寻找已安装的 Chrome、Edge、Firefox。
+  不要在 Win7 上安装只支持新系统的当前 Chrome / Edge。
+• 听写使用浏览器可用的英文、中文语音；缺少某种语音时需在系统中补充该语音。
+  浏览器可能需要第一次手动点击“再听一遍”后才允许朗读。
+
+已包含的内容
+17 册教材、2,048 个词条和短语，包含河南省外研版四年级上册（封面2024年审定）。
+提示拼写、英文听写、中文听写、自动/手动模式、倒计时设置、学习报告、错词巩固，
+以及英美音标学习、离线歌谣视频/音频和视频全屏。
+教材、离线音标、视频、学习记录不需要联网。剑桥音标点读需要联网。
+腾讯云评测入口保留：在设置中填写自己的凭证，录音提交后联网评分。
+OpenPronounce 当前本地组件仅支持 Apple 芯片 macOS 14+，不包含 Windows 引擎；
+此 Windows 包无法使用 OpenPronounce 本地评分，不会自动转用云服务。
+
+记录与升级
+学习数据：%LOCALAPPDATA%\WordIsleWeb\
+在资源管理器地址栏粘贴该路径即可打开。数据库、录音、评测配置均在此目录。
+浏览器设置（教材选择、听写模式等）保存在同一浏览器的本地存储中。
+更换程序包不会覆盖学习数据；升级前关闭原启动窗口，解压新包后启动。
+备份时先退出词屿，再复制整个 WordIsleWeb 数据文件夹。
+包内没有开发者的学习记录、录音和腾讯云密钥。密钥文件继承 Windows 用户目录权限，
+请勿分享自己的数据目录。每个 Windows 用户各自保存一份学习档案。
+
+启动故障
+• r2 将 Python 的中文输出和错误重定向到 UTF-8 日志，避免输出依赖 Win7 控制台。
+  黑色窗口使用英文提示；日志在 %LOCALAPPDATA%\WordIsleWeb\startup.log。
+  若启动失败会自动用记事本打开日志，请保留最后一次报错的完整内容。
+  日志可能含本机用户名和文件夹路径，但不包含应用主动打印的密钥或学生答案。
+• 若旧版报错位于 windows/start.py 第 69 行，这是启动信息输出语句；
+  不能仅凭脚本末尾的通用补丁提示认定缺少补丁。
+• 缺少 api-ms-win-crt-*.dll / ucrtbase.dll：安装微软 UCRT 更新 KB2999226 后重试。
+• 提示入口点找不到 / 无法定位程序输入点：核对 Win7 SP1 和 KB2533623 或后续更新。
+• 缺少 python38.dll：请完整解压，保留 runtime 文件夹，不要只复制启动脚本。
+• 已有词屿运行：回到原窗口或原浏览器页面，无需启动多个副本。
+• 8765 端口占用：先关闭占用该端口的其他程序再启动。
+• 页面空白：不要用 IE；检查浏览器版本，或复制地址到上述兼容浏览器。
+• 缺少中文/英文语音：安装相应系统语音，再重开浏览器；普通拼写仍可关闭声音使用。
+• 录音失败：在浏览器允许麦克风权限，并检查 Windows 麦克风输入设备。
+
+兼容性与来源
+本包在 macOS 构建，已检查 Windows x64 运行文件、资源完整性和解压后的网页流程，
+但尚未在 Windows 7 真机执行；真实声音、视频解码及麦克风仍需目标设备核验。
+Python 3.8.10 官方嵌入式运行环境，许可证在 runtime\LICENSE.txt。
+https://www.python.org/downloads/release/python-3810/
+https://docs.python.org/3.8/using/windows.html
+微软 UCRT 说明：
+https://learn.microsoft.com/en-us/cpp/windows/universal-crt-deployment
+浏览器兼容性：
+https://support.google.com/chrome/a/answer/7100626
+https://learn.microsoft.com/en-us/lifecycle/products/microsoft-edge
+https://support.mozilla.org/en-US/kb/firefox-users-windows-7-8-and-81-moving-extended-support
+词库、音标和教学视频来源详见 data\sources\。这些材料的权利仍归原权利人。

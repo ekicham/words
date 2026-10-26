@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="词屿，本地教材单词练习。听一听，补全单词，每天进步一点点。">
+  <title>词屿 Word Isle · 单词探险</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/style.css"><script src="/phonetics.js" defer></script><script src="/app.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#home" aria-label="词屿首页"><span class="brand-mark">W<span>✦</span></span><span>词屿<small>WORD ISLE</small></span></a>
+    <div class="nav-label">我的学习空间</div>
+    <nav aria-label="主导航">
+      <button data-nav="phonetics"><span aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 10v4m4-8v12m4-15v18m4-15v12m4-8v4"/></svg></span> 音标学习</button>
+      <button data-nav="home" class="selected"><span aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m12 3 8 9-8 9-8-9z"/><path d="m8 12 4-4 4 4-4 4z"/></svg></span> 单词探险</button>
+      <button data-nav="mistakes"><span aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m12 3 2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5z"/></svg></span> 错词巩固 <b id="mistake-count">0</b></button>
+      <button data-nav="history"><span aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 20h16M7 16v-5m5 5V5m5 11V8"/></svg></span> 学习足迹</button>
+      <button data-nav="library"><span aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="3"/><path d="M8 3v18m4-13h4m-4 4h4"/></svg></span> 我的词库</button>
+      <button data-nav="settings"><span aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m9 3-1 3-3 1-2 5 2 5 3 1 1 3h6l1-3 3-1 2-5-2-5-3-1-1-3z"/><circle cx="12" cy="12" r="3"/></svg></span> 设置</button>
+    </nav>
+    <div class="sidebar-bottom"><p>每一个小进步，<br>都值得被记住。</p></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span id="breadcrumb">我的学习 / 单词探险</span><div class="topbar-right"><div class="calendar-clock"><span id="date-label"></span><span id="lunar-label"></span></div><span class="avatar" aria-label="本机学习者">W</span></div></header>
+    <main id="main" tabindex="-1"><div class="loading">正在打开你的单词岛…</div></main>
+    <footer>词屿 Word Isle <span>·</span> 听见单词，记住每一步</footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="end-dialog" aria-labelledby="end-title" aria-describedby="end-description"><form method="dialog"><div class="eyebrow">休息一下也很好</div><h2 id="end-title">结束这次练习？</h2><p id="end-description">已完成的答案会保存，剩余单词标记为未完成。</p><div class="button-row"><button value="cancel" class="secondary">继续练习</button><button value="end" class="primary">结束并看报告</button></div></form></dialog>
+  <noscript>请启用浏览器 JavaScript 后使用词屿。</noscript>
+</body>
+</html>

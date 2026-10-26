@@ -1,0 +1,879 @@
+{
+  "id": "pep-official-1212001601265",
+  "title": "人教 PEP · 六年级上册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 6,
+  "term": "上",
+  "source_url": "https://book.pep.com.cn/1212001601265/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。",
+  "words": [
+    {
+      "english": "was",
+      "meaning": "（be 的第一和第三人称单数过去式）",
+      "unit": "Unit 1 Amazing places",
+      "page": "4"
+    },
+    {
+      "english": "climb",
+      "meaning": "攀登；爬",
+      "unit": "Unit 1 Amazing places",
+      "page": "4"
+    },
+    {
+      "english": "kilometre",
+      "meaning": "（=km）千米；公里",
+      "unit": "Unit 1 Amazing places",
+      "page": "4"
+    },
+    {
+      "english": "gingerbread house",
+      "meaning": "姜饼屋",
+      "unit": "Unit 1 Amazing places",
+      "page": "4"
+    },
+    {
+      "english": "send",
+      "meaning": "邮寄；发送",
+      "unit": "Unit 1 Amazing places",
+      "page": "4"
+    },
+    {
+      "english": "go",
+      "meaning": "（过去式 went）去；走",
+      "unit": "Unit 1 Amazing places",
+      "page": "6"
+    },
+    {
+      "english": "thousand",
+      "meaning": "一千",
+      "unit": "Unit 1 Amazing places",
+      "page": "6"
+    },
+    {
+      "english": "clay",
+      "meaning": "黏土；陶土",
+      "unit": "Unit 1 Amazing places",
+      "page": "6"
+    },
+    {
+      "english": "see",
+      "meaning": "（过去式 saw）看见",
+      "unit": "Unit 1 Amazing places",
+      "page": "6"
+    },
+    {
+      "english": "village",
+      "meaning": "村庄；村镇",
+      "unit": "Unit 1 Amazing places",
+      "page": "7"
+    },
+    {
+      "english": "eat",
+      "meaning": "（过去式 ate）吃",
+      "unit": "Unit 1 Amazing places",
+      "page": "7"
+    },
+    {
+      "english": "dry",
+      "meaning": "干的",
+      "unit": "Unit 1 Amazing places",
+      "page": "7"
+    },
+    {
+      "english": "take",
+      "meaning": "（过去式 took）做（某个动作；和名词连用代替某个动词）",
+      "unit": "Unit 1 Amazing places",
+      "page": "7"
+    },
+    {
+      "english": "view",
+      "meaning": "景色",
+      "unit": "Unit 1 Amazing places",
+      "page": "7"
+    },
+    {
+      "english": "inspiring",
+      "meaning": "鼓舞人心的",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "bamboo",
+      "meaning": "竹；竹子",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "pumpkin",
+      "meaning": "南瓜",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "restaurant",
+      "meaning": "餐馆；餐厅",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "airport",
+      "meaning": "机场",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "New Zealand",
+      "meaning": "新西兰",
+      "unit": "Unit 1 Amazing places",
+      "page": "4"
+    },
+    {
+      "english": "Hong Kong-Zhuhai-Macao Bridge",
+      "meaning": "港珠澳大桥",
+      "unit": "Unit 1 Amazing places",
+      "page": "5"
+    },
+    {
+      "english": "Paris",
+      "meaning": "巴黎",
+      "unit": "Unit 1 Amazing places",
+      "page": "5"
+    },
+    {
+      "english": "Eiffel Tower",
+      "meaning": "埃菲尔铁塔",
+      "unit": "Unit 1 Amazing places",
+      "page": "5"
+    },
+    {
+      "english": "Terracotta Warriors",
+      "meaning": "兵马俑",
+      "unit": "Unit 1 Amazing places",
+      "page": "6"
+    },
+    {
+      "english": "Jinggangshan Revolution Museum",
+      "meaning": "井冈山革命博物馆",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "the Red Army",
+      "meaning": "红军",
+      "unit": "Unit 1 Amazing places",
+      "page": "8"
+    },
+    {
+      "english": "paste",
+      "meaning": "粘贴",
+      "unit": "Unit 2 Getting together",
+      "page": "16"
+    },
+    {
+      "english": "dress",
+      "meaning": "穿衣服",
+      "unit": "Unit 2 Getting together",
+      "page": "17"
+    },
+    {
+      "english": "gala",
+      "meaning": "演出；庆典",
+      "unit": "Unit 2 Getting together",
+      "page": "17"
+    },
+    {
+      "english": "count down",
+      "meaning": "倒计时",
+      "unit": "Unit 2 Getting together",
+      "page": "17"
+    },
+    {
+      "english": "marathon",
+      "meaning": "马拉松赛跑",
+      "unit": "Unit 2 Getting together",
+      "page": "18"
+    },
+    {
+      "english": "as",
+      "meaning": "作为",
+      "unit": "Unit 2 Getting together",
+      "page": "18"
+    },
+    {
+      "english": "race",
+      "meaning": "赛跑；速度竞赛",
+      "unit": "Unit 2 Getting together",
+      "page": "18"
+    },
+    {
+      "english": "run",
+      "meaning": "（过去式 ran）跑；奔跑",
+      "unit": "Unit 2 Getting together",
+      "page": "18"
+    },
+    {
+      "english": "cheer",
+      "meaning": "欢呼；加油",
+      "unit": "Unit 2 Getting together",
+      "page": "18"
+    },
+    {
+      "english": "book fair",
+      "meaning": "书市",
+      "unit": "Unit 2 Getting together",
+      "page": "18"
+    },
+    {
+      "english": "writer",
+      "meaning": "作家；作者",
+      "unit": "Unit 2 Getting together",
+      "page": "19"
+    },
+    {
+      "english": "read",
+      "meaning": "（过去式 read）阅读",
+      "unit": "Unit 2 Getting together",
+      "page": "19"
+    },
+    {
+      "english": "make",
+      "meaning": "（过去式 made）做；使出现",
+      "unit": "Unit 2 Getting together",
+      "page": "19"
+    },
+    {
+      "english": "sing",
+      "meaning": "（过去式 sang）唱（歌）；演唱",
+      "unit": "Unit 2 Getting together",
+      "page": "19"
+    },
+    {
+      "english": "wear",
+      "meaning": "（过去式 wore）穿；戴",
+      "unit": "Unit 2 Getting together",
+      "page": "19"
+    },
+    {
+      "english": "yesterday",
+      "meaning": "昨天",
+      "unit": "Unit 2 Getting together",
+      "page": "19"
+    },
+    {
+      "english": "notice",
+      "meaning": "通知",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "wake",
+      "meaning": "（过去式 woke）醒；醒来",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "later",
+      "meaning": "随后；后来",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "judge",
+      "meaning": "裁判",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "begin",
+      "meaning": "（过去式 began）开始",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "win",
+      "meaning": "（过去式 won）获胜",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "winner",
+      "meaning": "获胜的人（或队）；成功者",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "ever",
+      "meaning": "（进行比较时用于加强语气）以往任何时候",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "exciting",
+      "meaning": "令人激动的",
+      "unit": "Unit 2 Getting together",
+      "page": "20"
+    },
+    {
+      "english": "cold",
+      "meaning": "感冒",
+      "unit": "Unit 3 Healthy life",
+      "page": "28"
+    },
+    {
+      "english": "ill",
+      "meaning": "不舒服；生病的",
+      "unit": "Unit 3 Healthy life",
+      "page": "28"
+    },
+    {
+      "english": "head",
+      "meaning": "头；头部",
+      "unit": "Unit 3 Healthy life",
+      "page": "28"
+    },
+    {
+      "english": "runny nose",
+      "meaning": "流鼻涕",
+      "unit": "Unit 3 Healthy life",
+      "page": "28"
+    },
+    {
+      "english": "soon",
+      "meaning": "很快；马上",
+      "unit": "Unit 3 Healthy life",
+      "page": "28"
+    },
+    {
+      "english": "fever",
+      "meaning": "发烧；发热",
+      "unit": "Unit 3 Healthy life",
+      "page": "29"
+    },
+    {
+      "english": "cough",
+      "meaning": "咳嗽",
+      "unit": "Unit 3 Healthy life",
+      "page": "29"
+    },
+    {
+      "english": "discuss",
+      "meaning": "讨论；商量",
+      "unit": "Unit 3 Healthy life",
+      "page": "30"
+    },
+    {
+      "english": "diet",
+      "meaning": "日常饮食",
+      "unit": "Unit 3 Healthy life",
+      "page": "31"
+    },
+    {
+      "english": "stay up",
+      "meaning": "熬夜",
+      "unit": "Unit 3 Healthy life",
+      "page": "31"
+    },
+    {
+      "english": "cry",
+      "meaning": "哭；哭泣",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "another",
+      "meaning": "另一；不同的（人或事物）",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "call",
+      "meaning": "（给……）打电话",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "email",
+      "meaning": "电子邮件",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "unhappy",
+      "meaning": "不快乐的；难过的",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "glass",
+      "meaning": "一杯（的量）；玻璃",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "may",
+      "meaning": "也许；可能",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "add",
+      "meaning": "补充说；增加",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "video",
+      "meaning": "视频；录像",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "better",
+      "meaning": "舒畅些的；（病势）好转的",
+      "unit": "Unit 3 Healthy life",
+      "page": "32"
+    },
+    {
+      "english": "money",
+      "meaning": "钱",
+      "unit": "Unit 4 Managing money well",
+      "page": "40"
+    },
+    {
+      "english": "pocket money",
+      "meaning": "零花钱",
+      "unit": "Unit 4 Managing money well",
+      "page": "40"
+    },
+    {
+      "english": "schoolbag",
+      "meaning": "书包",
+      "unit": "Unit 4 Managing money well",
+      "page": "40"
+    },
+    {
+      "english": "goods",
+      "meaning": "商品",
+      "unit": "Unit 4 Managing money well",
+      "page": "41"
+    },
+    {
+      "english": "drink",
+      "meaning": "饮料",
+      "unit": "Unit 4 Managing money well",
+      "page": "41"
+    },
+    {
+      "english": "service",
+      "meaning": "服务",
+      "unit": "Unit 4 Managing money well",
+      "page": "41"
+    },
+    {
+      "english": "haircut",
+      "meaning": "理发；发型",
+      "unit": "Unit 4 Managing money well",
+      "page": "41"
+    },
+    {
+      "english": "microscope",
+      "meaning": "显微镜",
+      "unit": "Unit 4 Managing money well",
+      "page": "42"
+    },
+    {
+      "english": "lucky",
+      "meaning": "幸运的",
+      "unit": "Unit 4 Managing money well",
+      "page": "42"
+    },
+    {
+      "english": "half",
+      "meaning": "一半",
+      "unit": "Unit 4 Managing money well",
+      "page": "42"
+    },
+    {
+      "english": "save up",
+      "meaning": "攒钱",
+      "unit": "Unit 4 Managing money well",
+      "page": "43"
+    },
+    {
+      "english": "sale",
+      "meaning": "特价销售；出售",
+      "unit": "Unit 4 Managing money well",
+      "page": "43"
+    },
+    {
+      "english": "ticket",
+      "meaning": "票",
+      "unit": "Unit 4 Managing money well",
+      "page": "43"
+    },
+    {
+      "english": "manage",
+      "meaning": "管理",
+      "unit": "Unit 4 Managing money well",
+      "page": "44"
+    },
+    {
+      "english": "sell",
+      "meaning": "出售；售卖",
+      "unit": "Unit 4 Managing money well",
+      "page": "44"
+    },
+    {
+      "english": "jar",
+      "meaning": "罐子",
+      "unit": "Unit 4 Managing money well",
+      "page": "44"
+    },
+    {
+      "english": "for example",
+      "meaning": "例如",
+      "unit": "Unit 4 Managing money well",
+      "page": "44"
+    },
+    {
+      "english": "astronaut",
+      "meaning": "航天员；宇航员",
+      "unit": "Unit 5 Exploring space",
+      "page": "55"
+    },
+    {
+      "english": "spaceship",
+      "meaning": "宇宙飞船",
+      "unit": "Unit 5 Exploring space",
+      "page": "55"
+    },
+    {
+      "english": "month",
+      "meaning": "月；月份",
+      "unit": "Unit 5 Exploring space",
+      "page": "55"
+    },
+    {
+      "english": "taikonaut",
+      "meaning": "中国航天员",
+      "unit": "Unit 5 Exploring space",
+      "page": "56"
+    },
+    {
+      "english": "cloth",
+      "meaning": "（一块）布；织物",
+      "unit": "Unit 5 Exploring space",
+      "page": "56"
+    },
+    {
+      "english": "toothpaste",
+      "meaning": "牙膏",
+      "unit": "Unit 5 Exploring space",
+      "page": "56"
+    },
+    {
+      "english": "question",
+      "meaning": "问题",
+      "unit": "Unit 5 Exploring space",
+      "page": "56"
+    },
+    {
+      "english": "sunset",
+      "meaning": "日落",
+      "unit": "Unit 5 Exploring space",
+      "page": "56"
+    },
+    {
+      "english": "time",
+      "meaning": "次；回",
+      "unit": "Unit 5 Exploring space",
+      "page": "56"
+    },
+    {
+      "english": "Mars",
+      "meaning": "火星",
+      "unit": "Unit 5 Exploring space",
+      "page": "54"
+    },
+    {
+      "english": "planet",
+      "meaning": "行星",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "earth",
+      "meaning": "（also Earth）地球",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "sky",
+      "meaning": "天；天空",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "daytime",
+      "meaning": "白天",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "cloud",
+      "meaning": "云",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "moon",
+      "meaning": "（also the Moon）月球；月亮；卫星",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "star",
+      "meaning": "恒星；星",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "space",
+      "meaning": "太空；空间",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "outer space",
+      "meaning": "外太空",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "space station",
+      "meaning": "空间站",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "ocean",
+      "meaning": "大海；海洋",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "marble",
+      "meaning": "（玻璃）弹子",
+      "unit": "Unit 5 Exploring space",
+      "page": "52"
+    },
+    {
+      "english": "satellite",
+      "meaning": "人造卫星",
+      "unit": "Unit 5 Exploring space",
+      "page": "53"
+    },
+    {
+      "english": "soil",
+      "meaning": "土壤",
+      "unit": "Unit 5 Exploring space",
+      "page": "54"
+    },
+    {
+      "english": "alien",
+      "meaning": "外星生物",
+      "unit": "Unit 5 Exploring space",
+      "page": "54"
+    },
+    {
+      "english": "sunrise",
+      "meaning": "日出",
+      "unit": "Unit 5 Exploring space",
+      "page": "54"
+    },
+    {
+      "english": "rover",
+      "meaning": "探测器",
+      "unit": "Unit 5 Exploring space",
+      "page": "54"
+    },
+    {
+      "english": "into",
+      "meaning": "朝；进入",
+      "unit": "Unit 5 Exploring space",
+      "page": "55"
+    },
+    {
+      "english": "telescope",
+      "meaning": "望远镜",
+      "unit": "Unit 5 Exploring space",
+      "page": "55"
+    },
+    {
+      "english": "power",
+      "meaning": "能；能量",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "64"
+    },
+    {
+      "english": "electricity",
+      "meaning": "电",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "64"
+    },
+    {
+      "english": "solar",
+      "meaning": "太阳的",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "type",
+      "meaning": "类型；种类",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "energy",
+      "meaning": "能源",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "light",
+      "meaning": "照亮",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "heat",
+      "meaning": "加热；（使）变暖；热量",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "cool",
+      "meaning": "（使）变凉，冷却",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "run",
+      "meaning": "（使）运转",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "65"
+    },
+    {
+      "english": "resource",
+      "meaning": "资源",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "run out",
+      "meaning": "用完",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "change",
+      "meaning": "（使）不同；改变",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "quick",
+      "meaning": "迅速的；快的",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "shower",
+      "meaning": "淋浴",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "unplug",
+      "meaning": "拔掉……的电源插头",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "difference",
+      "meaning": "差别；不同（之处）",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "66"
+    },
+    {
+      "english": "reduce",
+      "meaning": "减少",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "air conditioner",
+      "meaning": "空调机",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "drive",
+      "meaning": "驾驶；开车",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "reuse",
+      "meaning": "再次使用；重复使用",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "own",
+      "meaning": "自己的",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "market",
+      "meaning": "集市；市场",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "bottle",
+      "meaning": "瓶子",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "67"
+    },
+    {
+      "english": "top",
+      "meaning": "（位置、级别或程度）最高的",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "68"
+    },
+    {
+      "english": "useful",
+      "meaning": "有用的；有益的",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "68"
+    },
+    {
+      "english": "dirty",
+      "meaning": "脏的",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "68"
+    },
+    {
+      "english": "side",
+      "meaning": "一面；一边",
+      "unit": "Unit 6 Energy, nature and us",
+      "page": "68"
+    }
+  ]
+}

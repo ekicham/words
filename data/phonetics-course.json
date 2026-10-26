@@ -1,0 +1,1264 @@
+[
+  {
+    "id": "1",
+    "group": "长元音",
+    "tip": "张大嘴，舌位偏后，声音舒展。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɑː",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_father_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_father_2023feb.mp3",
+      "example": "father",
+      "kind": "sound",
+      "phones": [
+        "aa"
+      ]
+    },
+    "us": {
+      "symbol": "ɑː",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_father_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_father_2023feb.mp3",
+      "example": "father",
+      "kind": "sound",
+      "phones": [
+        "aa"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "group": "长元音",
+    "tip": "嘴唇略圆，舌位偏后。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɔː",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_horse_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_horse_2023feb.mp3",
+      "example": "horse",
+      "kind": "sound",
+      "phones": [
+        "ao"
+      ]
+    },
+    "us": {
+      "symbol": "ɔː",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_horse_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_horse_2023feb.mp3",
+      "example": "horse",
+      "kind": "sound",
+      "phones": [
+        "ao"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "group": "长元音",
+    "tip": "英式舌位居中；美式对应音带卷舌色彩。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɜː",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_bird_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_bird_2023feb.mp3",
+      "example": "bird",
+      "kind": "sound",
+      "phones": [
+        "er"
+      ]
+    },
+    "us": {
+      "symbol": "ɝː",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_bird_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_bird_2023feb.mp3",
+      "example": "bird",
+      "kind": "sound",
+      "phones": [
+        "er"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "group": "长元音",
+    "tip": "嘴角向两侧展开，舌位靠前且高。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "iː",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sheep_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_sheep_2023feb.mp3",
+      "example": "sheep",
+      "kind": "sound",
+      "phones": [
+        "iy"
+      ]
+    },
+    "us": {
+      "symbol": "iː",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_sheep_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_sheep_2023feb.mp3",
+      "example": "sheep",
+      "kind": "sound",
+      "phones": [
+        "iy"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "group": "长元音",
+    "tip": "嘴唇收圆，舌位较高。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "uː",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_blue_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_blue_2023feb.mp3",
+      "example": "blue",
+      "kind": "sound",
+      "phones": [
+        "uw"
+      ]
+    },
+    "us": {
+      "symbol": "uː",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_blue_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_blue_2023feb.mp3",
+      "example": "blue",
+      "kind": "sound",
+      "phones": [
+        "uw"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "group": "短元音",
+    "tip": "嘴唇放松，短促发声，不读成汉语“啊”。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ʌ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cup_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_cup_2023feb.mp3",
+      "example": "cup",
+      "kind": "sound",
+      "phones": [
+        "ah"
+      ]
+    },
+    "us": {
+      "symbol": "ʌ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_cup_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_cup_2023feb.mp3",
+      "example": "cup",
+      "kind": "sound",
+      "phones": [
+        "ah"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "group": "短元音",
+    "tip": "英式嘴唇略圆；美式通常对应张口的 /ɑː/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɒ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sock_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_sock_2023feb.mp3",
+      "example": "sock",
+      "kind": "sound",
+      "phones": [
+        "ao"
+      ]
+    },
+    "us": {
+      "symbol": "ɑː",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_father_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_father_2023feb.mp3",
+      "example": "father",
+      "kind": "sound",
+      "phones": [
+        "aa"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "group": "短元音",
+    "tip": "嘴唇与舌头放松，常出现在非重读音节。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ə",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_above_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_above_2023feb.mp3",
+      "example": "above",
+      "kind": "sound",
+      "phones": [
+        "ah"
+      ]
+    },
+    "us": {
+      "symbol": "ə",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_above_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_above_2023feb.mp3",
+      "example": "above",
+      "kind": "sound",
+      "phones": [
+        "ah"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "group": "短元音",
+    "tip": "舌位比 /iː/ 略低，嘴唇放松，发音短。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_ship_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_ship_2023feb.mp3",
+      "example": "ship",
+      "kind": "sound",
+      "phones": [
+        "ih"
+      ]
+    },
+    "us": {
+      "symbol": "ɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_ship_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_ship_2023feb.mp3",
+      "example": "ship",
+      "kind": "sound",
+      "phones": [
+        "ih"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "group": "短元音",
+    "tip": "嘴唇微圆，发音短于 /uː/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ʊ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_foot_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_foot_2023feb.mp3",
+      "example": "foot",
+      "kind": "sound",
+      "phones": [
+        "uh"
+      ]
+    },
+    "us": {
+      "symbol": "ʊ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_foot_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_foot_2023feb.mp3",
+      "example": "foot",
+      "kind": "sound",
+      "phones": [
+        "uh"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "group": "短元音",
+    "tip": "嘴巴打开，舌位靠前，不把它读成 /e/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "æ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hat_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_hat_2023feb.mp3",
+      "example": "hat",
+      "kind": "sound",
+      "phones": [
+        "ae"
+      ]
+    },
+    "us": {
+      "symbol": "æ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_hat_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_hat_2023feb.mp3",
+      "example": "hat",
+      "kind": "sound",
+      "phones": [
+        "ae"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "group": "短元音",
+    "tip": "嘴唇自然张开，舌位靠前。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "e",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_head_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_head_2023feb.mp3",
+      "example": "head",
+      "kind": "sound",
+      "phones": [
+        "eh"
+      ]
+    },
+    "us": {
+      "symbol": "e",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_head_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_head_2023feb.mp3",
+      "example": "head",
+      "kind": "sound",
+      "phones": [
+        "eh"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "group": "双元音",
+    "tip": "从 /e/ 平滑滑向 /ɪ/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "eɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_day_2023feb_002.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_day_2023feb_002.mp3",
+      "example": "day",
+      "kind": "sound",
+      "phones": [
+        "ey"
+      ]
+    },
+    "us": {
+      "symbol": "eɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_day_2023feb_002.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_day_2023feb_002.mp3",
+      "example": "day",
+      "kind": "sound",
+      "phones": [
+        "ey"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "group": "双元音",
+    "tip": "从开口音滑向 /ɪ/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "aɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_eye_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_eye_2023feb.mp3",
+      "example": "eye",
+      "kind": "sound",
+      "phones": [
+        "ay"
+      ]
+    },
+    "us": {
+      "symbol": "aɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_eye_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_eye_2023feb.mp3",
+      "example": "eye",
+      "kind": "sound",
+      "phones": [
+        "ay"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "group": "双元音",
+    "tip": "从圆唇的 /ɔ/ 滑向 /ɪ/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɔɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_boy_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_boy_2023feb.mp3",
+      "example": "boy",
+      "kind": "sound",
+      "phones": [
+        "oy"
+      ]
+    },
+    "us": {
+      "symbol": "ɔɪ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_boy_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_boy_2023feb.mp3",
+      "example": "boy",
+      "kind": "sound",
+      "phones": [
+        "oy"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "group": "双元音",
+    "tip": "英式向中央元音滑动；美式对应带 /r/ 的音。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɪə",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_ear_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_ear_2023feb.mp3",
+      "example": "ear",
+      "kind": "sound",
+      "phones": [
+        "ih",
+        "r"
+      ]
+    },
+    "us": {
+      "symbol": "ɪr",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/e/ear/ear__/ear.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/e/ear/ear__/ear.mp3",
+      "example": "ear",
+      "kind": "example",
+      "phones": [
+        "ih",
+        "r"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "group": "双元音",
+    "tip": "英式从 /e/ 向中央元音滑动；美式对应带 /r/ 的音。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "eə",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hair_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_hair_2023feb.mp3",
+      "example": "hair",
+      "kind": "sound",
+      "phones": [
+        "eh",
+        "r"
+      ]
+    },
+    "us": {
+      "symbol": "er",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/h/hai/hair_/hair.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/h/hai/hair_/hair.mp3",
+      "example": "hair",
+      "kind": "example",
+      "phones": [
+        "eh",
+        "r"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "group": "双元音",
+    "tip": "英式从 /ʊ/ 向中央元音滑动；美式对应带 /r/ 的音；不同说话者可能有变体。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ʊə",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_pure_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_pure_2023feb.mp3",
+      "example": "pure",
+      "kind": "sound",
+      "phones": [
+        "uh",
+        "r"
+      ]
+    },
+    "us": {
+      "symbol": "ʊr",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pur/pure_/pure.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pur/pure_/pure.mp3",
+      "example": "pure",
+      "kind": "example",
+      "phones": [
+        "uh",
+        "r"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "group": "双元音",
+    "tip": "英式 /əʊ/ 与美式 /oʊ/ 起点不同，结尾都滑向 /ʊ/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "əʊ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_nose_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_nose_2023feb.mp3",
+      "example": "nose",
+      "kind": "sound",
+      "phones": [
+        "ow"
+      ]
+    },
+    "us": {
+      "symbol": "oʊ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_nose_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_nose_2023feb.mp3",
+      "example": "nose",
+      "kind": "sound",
+      "phones": [
+        "ow"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "group": "双元音",
+    "tip": "从张口音滑向圆唇的 /ʊ/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "aʊ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_mouth_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_mouth_2023feb.mp3",
+      "example": "mouth",
+      "kind": "sound",
+      "phones": [
+        "aw"
+      ]
+    },
+    "us": {
+      "symbol": "aʊ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_mouth_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_mouth_2023feb.mp3",
+      "example": "mouth",
+      "kind": "sound",
+      "phones": [
+        "aw"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "group": "爆破音",
+    "tip": "双唇先闭合再放开；声带不振动，不额外加元音。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "p",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_pen_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_pen_2023feb.mp3",
+      "example": "pen",
+      "kind": "sound",
+      "phones": [
+        "p"
+      ]
+    },
+    "us": {
+      "symbol": "p",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_pen_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_pen_2023feb.mp3",
+      "example": "pen",
+      "kind": "sound",
+      "phones": [
+        "p"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "group": "爆破音",
+    "tip": "双唇先闭合再放开，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "b",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_book_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_book_2023feb.mp3",
+      "example": "book",
+      "kind": "sound",
+      "phones": [
+        "b"
+      ]
+    },
+    "us": {
+      "symbol": "b",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_book_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_book_2023feb.mp3",
+      "example": "book",
+      "kind": "sound",
+      "phones": [
+        "b"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "group": "爆破音",
+    "tip": "舌尖抵住上齿龈再放开，声带不振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "t",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_town_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_town_2023feb.mp3",
+      "example": "town",
+      "kind": "sound",
+      "phones": [
+        "t"
+      ]
+    },
+    "us": {
+      "symbol": "t",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_town_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_town_2023feb.mp3",
+      "example": "town",
+      "kind": "sound",
+      "phones": [
+        "t"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "group": "爆破音",
+    "tip": "舌尖抵住上齿龈再放开，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "d",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_day_2023feb_001.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_day_2023feb_001.mp3",
+      "example": "day",
+      "kind": "sound",
+      "phones": [
+        "d"
+      ]
+    },
+    "us": {
+      "symbol": "d",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_day_2023feb_001.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_day_2023feb_001.mp3",
+      "example": "day",
+      "kind": "sound",
+      "phones": [
+        "d"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "group": "爆破音",
+    "tip": "舌后部抵住软腭再放开，声带不振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "k",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cat_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_cat_2023feb.mp3",
+      "example": "cat",
+      "kind": "sound",
+      "phones": [
+        "k"
+      ]
+    },
+    "us": {
+      "symbol": "k",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_cat_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_cat_2023feb.mp3",
+      "example": "cat",
+      "kind": "sound",
+      "phones": [
+        "k"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "group": "爆破音",
+    "tip": "舌后部抵住软腭再放开，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ɡ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_give_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_give_2023feb.mp3",
+      "example": "give",
+      "kind": "sound",
+      "phones": [
+        "g"
+      ]
+    },
+    "us": {
+      "symbol": "ɡ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_give_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_give_2023feb.mp3",
+      "example": "give",
+      "kind": "sound",
+      "phones": [
+        "g"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "group": "摩擦音",
+    "tip": "上齿轻触下唇，让气流摩擦通过。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "f",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_fish_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_fish_2023feb.mp3",
+      "example": "fish",
+      "kind": "sound",
+      "phones": [
+        "f"
+      ]
+    },
+    "us": {
+      "symbol": "f",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_fish_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_fish_2023feb.mp3",
+      "example": "fish",
+      "kind": "sound",
+      "phones": [
+        "f"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "group": "摩擦音",
+    "tip": "口型同 /f/，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "v",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_very_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_very_2023feb.mp3",
+      "example": "very",
+      "kind": "sound",
+      "phones": [
+        "v"
+      ]
+    },
+    "us": {
+      "symbol": "v",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_very_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_very_2023feb.mp3",
+      "example": "very",
+      "kind": "sound",
+      "phones": [
+        "v"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "group": "摩擦音",
+    "tip": "舌尖靠近齿龈，气流从窄缝通过。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "s",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_say_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_say_2023feb.mp3",
+      "example": "say",
+      "kind": "sound",
+      "phones": [
+        "s"
+      ]
+    },
+    "us": {
+      "symbol": "s",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_say_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_say_2023feb.mp3",
+      "example": "say",
+      "kind": "sound",
+      "phones": [
+        "s"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "group": "摩擦音",
+    "tip": "口型同 /s/，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "z",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_zoo_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_zoo_2023feb.mp3",
+      "example": "zoo",
+      "kind": "sound",
+      "phones": [
+        "z"
+      ]
+    },
+    "us": {
+      "symbol": "z",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_zoo_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_zoo_2023feb.mp3",
+      "example": "zoo",
+      "kind": "sound",
+      "phones": [
+        "z"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "group": "摩擦音",
+    "tip": "舌尖轻放上下齿之间，送出气流，声带不振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "θ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_think_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_think_2023feb.mp3",
+      "example": "think",
+      "kind": "sound",
+      "phones": [
+        "th"
+      ]
+    },
+    "us": {
+      "symbol": "θ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_think_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_think_2023feb.mp3",
+      "example": "think",
+      "kind": "sound",
+      "phones": [
+        "th"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "group": "摩擦音",
+    "tip": "舌位同 /θ/，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ð",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_this_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_this_2023feb.mp3",
+      "example": "this",
+      "kind": "sound",
+      "phones": [
+        "dh"
+      ]
+    },
+    "us": {
+      "symbol": "ð",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_this_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_this_2023feb.mp3",
+      "example": "this",
+      "kind": "sound",
+      "phones": [
+        "dh"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "group": "摩擦音",
+    "tip": "嘴唇稍向前，舌前部抬起，让气流摩擦通过。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ʃ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_she_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_she_2023feb.mp3",
+      "example": "she",
+      "kind": "sound",
+      "phones": [
+        "sh"
+      ]
+    },
+    "us": {
+      "symbol": "ʃ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_she_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_she_2023feb.mp3",
+      "example": "she",
+      "kind": "sound",
+      "phones": [
+        "sh"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "group": "摩擦音",
+    "tip": "口型同 /ʃ/，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ʒ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_vision_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_vision_2023feb.mp3",
+      "example": "vision",
+      "kind": "sound",
+      "phones": [
+        "zh"
+      ]
+    },
+    "us": {
+      "symbol": "ʒ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_vision_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_vision_2023feb.mp3",
+      "example": "vision",
+      "kind": "sound",
+      "phones": [
+        "zh"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "group": "摩擦音",
+    "tip": "口腔放松，让气流轻轻通过声门。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "h",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hand_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_hand_2023feb.mp3",
+      "example": "hand",
+      "kind": "sound",
+      "phones": [
+        "hh"
+      ]
+    },
+    "us": {
+      "symbol": "h",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_hand_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_hand_2023feb.mp3",
+      "example": "hand",
+      "kind": "sound",
+      "phones": [
+        "hh"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "group": "塞擦音",
+    "tip": "先阻住气流再摩擦放开，两个动作连在一起。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "tʃ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cheese_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_cheese_2023feb.mp3",
+      "example": "cheese",
+      "kind": "sound",
+      "phones": [
+        "ch"
+      ]
+    },
+    "us": {
+      "symbol": "tʃ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_cheese_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_cheese_2023feb.mp3",
+      "example": "cheese",
+      "kind": "sound",
+      "phones": [
+        "ch"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "group": "塞擦音",
+    "tip": "口型同 /tʃ/，声带振动。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "dʒ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_jump_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_jump_2023feb.mp3",
+      "example": "jump",
+      "kind": "sound",
+      "phones": [
+        "jh"
+      ]
+    },
+    "us": {
+      "symbol": "dʒ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_jump_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_jump_2023feb.mp3",
+      "example": "jump",
+      "kind": "sound",
+      "phones": [
+        "jh"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "group": "组合音",
+    "tip": "/t/ 与 /r/ 连读；例词 tree，只练开头的组合音。",
+    "source": "https://dictionary.cambridge.org/dictionary/english/tree",
+    "uk": {
+      "symbol": "tr",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/uktre/uktreac020.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/uktre/uktreac020.mp3",
+      "example": "tree",
+      "kind": "example",
+      "phones": [
+        "t",
+        "r"
+      ]
+    },
+    "us": {
+      "symbol": "tr",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/t/tre/tree_/tree.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/t/tre/tree_/tree.mp3",
+      "example": "tree",
+      "kind": "example",
+      "phones": [
+        "t",
+        "r"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "group": "组合音",
+    "tip": "/d/ 与 /r/ 连读；例词 dream，只练开头的组合音。",
+    "source": "https://dictionary.cambridge.org/dictionary/english/dream",
+    "uk": {
+      "symbol": "dr",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdre/ukdread006.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdre/ukdread006.mp3",
+      "example": "dream",
+      "kind": "example",
+      "phones": [
+        "d",
+        "r"
+      ]
+    },
+    "us": {
+      "symbol": "dr",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/d/dre/dream/dream.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/d/dre/dream/dream.mp3",
+      "example": "dream",
+      "kind": "example",
+      "phones": [
+        "d",
+        "r"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "group": "组合音",
+    "tip": "/t/ 与 /s/ 连读；例词 pizza，只练中间的组合音。",
+    "source": "https://dictionary.cambridge.org/dictionary/english/pizza",
+    "uk": {
+      "symbol": "ts",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpit/ukpitfa027.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpit/ukpitfa027.mp3",
+      "example": "pizza",
+      "kind": "example",
+      "phones": [
+        "t",
+        "s"
+      ]
+    },
+    "us": {
+      "symbol": "ts",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/piz/pizza/pizza.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/p/piz/pizza/pizza.mp3",
+      "example": "pizza",
+      "kind": "example",
+      "phones": [
+        "t",
+        "s"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "group": "组合音",
+    "tip": "/d/ 与 /z/ 连读；例词 goods，只练结尾的组合音。",
+    "source": "https://dictionary.cambridge.org/dictionary/english/goods",
+    "uk": {
+      "symbol": "dz",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukg/ukgon/ukgonad017.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukg/ukgon/ukgonad017.mp3",
+      "example": "goods",
+      "kind": "example",
+      "phones": [
+        "d",
+        "z"
+      ]
+    },
+    "us": {
+      "symbol": "dz",
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/g/goo/goods/goods.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_pron/g/goo/goods/goods.mp3",
+      "example": "goods",
+      "kind": "example",
+      "phones": [
+        "d",
+        "z"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "group": "鼻音",
+    "tip": "双唇闭合，声音从鼻腔通过。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "m",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_moon_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_moon_2023feb.mp3",
+      "example": "moon",
+      "kind": "sound",
+      "phones": [
+        "m"
+      ]
+    },
+    "us": {
+      "symbol": "m",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_moon_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_moon_2023feb.mp3",
+      "example": "moon",
+      "kind": "sound",
+      "phones": [
+        "m"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "group": "鼻音",
+    "tip": "舌尖抵住上齿龈，声音从鼻腔通过。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "n",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_name_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_name_2023feb.mp3",
+      "example": "name",
+      "kind": "sound",
+      "phones": [
+        "n"
+      ]
+    },
+    "us": {
+      "symbol": "n",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_name_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_name_2023feb.mp3",
+      "example": "name",
+      "kind": "sound",
+      "phones": [
+        "n"
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "group": "鼻音",
+    "tip": "舌后部抬起抵住软腭，声音从鼻腔通过，勿加 /g/。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "ŋ",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sing_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_sing_2023feb.mp3",
+      "example": "sing",
+      "kind": "sound",
+      "phones": [
+        "ng"
+      ]
+    },
+    "us": {
+      "symbol": "ŋ",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_sing_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_sing_2023feb.mp3",
+      "example": "sing",
+      "kind": "sound",
+      "phones": [
+        "ng"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "group": "近音与边音",
+    "tip": "舌尖抵住上齿龈，气流从舌头两侧通过。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "l",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_look_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_look_2023feb.mp3",
+      "example": "look",
+      "kind": "sound",
+      "phones": [
+        "l"
+      ]
+    },
+    "us": {
+      "symbol": "l",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_look_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_look_2023feb.mp3",
+      "example": "look",
+      "kind": "sound",
+      "phones": [
+        "l"
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "group": "近音与边音",
+    "tip": "英语教材常写 /r/，这里为近音 [ɹ]，不是颤音；舌尖不碰上颚。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "r",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_run_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_run_2023feb.mp3",
+      "example": "run",
+      "kind": "sound",
+      "phones": [
+        "r"
+      ]
+    },
+    "us": {
+      "symbol": "r",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_run_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_run_2023feb.mp3",
+      "example": "run",
+      "kind": "sound",
+      "phones": [
+        "r"
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "group": "近音与边音",
+    "tip": "舌前部靠近硬腭，迅速滑向后面的元音。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "j",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_yes_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_yes_2023feb.mp3",
+      "example": "yes",
+      "kind": "sound",
+      "phones": [
+        "y"
+      ]
+    },
+    "us": {
+      "symbol": "j",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_yes_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_yes_2023feb.mp3",
+      "example": "yes",
+      "kind": "sound",
+      "phones": [
+        "y"
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "group": "近音与边音",
+    "tip": "双唇先收圆，再滑向后面的元音。",
+    "source": "https://dictionary.cambridge.org/help/phonetics.html",
+    "uk": {
+      "symbol": "w",
+      "audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_we_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_word_we_2023feb.mp3",
+      "example": "we",
+      "kind": "sound",
+      "phones": [
+        "w"
+      ]
+    },
+    "us": {
+      "symbol": "w",
+      "audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_sound_we_2023feb.mp3",
+      "example_audio": "https://dictionary.cambridge.org/media/english/us_phonetic/us_phonetics_word_we_2023feb.mp3",
+      "example": "we",
+      "kind": "sound",
+      "phones": [
+        "w"
+      ]
+    }
+  }
+]

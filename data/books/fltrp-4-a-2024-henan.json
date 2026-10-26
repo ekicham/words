@@ -1,0 +1,1047 @@
+{
+  "id": "fltrp-4-a-2024-henan",
+  "title": "外研版 · 四年级上册（2024 审定）",
+  "publisher": "外语教学与研究出版社 · 外研版",
+  "edition": "2024 审定 · 用户提供教材",
+  "grade": 4,
+  "term": "上",
+  "regions": [
+    "河南省"
+  ],
+  "source_url": "https://www.fltrp.com/",
+  "source_note": "来源为用户提供的《4年级上册 外研版.pdf》，并非来源链接中的在线教材；链接仅指向出版社主页。封面标注2024年审定，主编孙有中；PDF未见可核实的ISBN和版权版次。按教材第82–85页词汇表整理六个单元，另收录第91页专名与第92页课本剧词汇；页码为词汇表所在教材页。河南省标签由用户指定，不表示全省统一使用。because of sb / sth仅练习because of，其他短语保留；感叹号省略，弯引号统一为直引号。原词表未附音标，软件沿用参考音标，未收录项显示待补充。",
+  "words": [
+    {
+      "english": "sport",
+      "meaning": "体育运动",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "jump",
+      "meaning": "跳",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "high",
+      "meaning": "高高地",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "far",
+      "meaning": "远",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "ping-pong",
+      "meaning": "乒乓球运动",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "volleyball",
+      "meaning": "排球（运动）",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "across",
+      "meaning": "从一边到另一边；穿过，越过",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "hope",
+      "meaning": "希望",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "lose",
+      "meaning": "失去",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "because",
+      "meaning": "因为",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "because of",
+      "meaning": "因为某人/某事物",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "cancer",
+      "meaning": "癌（症）",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "money",
+      "meaning": "钱",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "hard",
+      "meaning": "困难的",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "kind",
+      "meaning": "亲切的；友好的；善良的",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "keep",
+      "meaning": "持续；继续",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "month",
+      "meaning": "一个月",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "ill",
+      "meaning": "生病的",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "year",
+      "meaning": "年；年度",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "remember",
+      "meaning": "纪念；记住",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "fail",
+      "meaning": "失败",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "give",
+      "meaning": "给予",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "give up",
+      "meaning": "放弃",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "never",
+      "meaning": "决不，永不",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "try",
+      "meaning": "努力；尝试",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "try your best",
+      "meaning": "尽最大努力",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "star",
+      "meaning": "明星，最出色者",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "ability",
+      "meaning": "才能；能力",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "player",
+      "meaning": "运动员，选手，球员",
+      "unit": "Unit 1 I love sports",
+      "page": "82"
+    },
+    {
+      "english": "phew",
+      "meaning": "啊，唷，唉",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "wash",
+      "meaning": "洗",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "dish",
+      "meaning": "盘子，碟子",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "feed",
+      "meaning": "喂养，给……食物",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "sweep",
+      "meaning": "扫，打扫，清扫",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "floor",
+      "meaning": "地板，地面",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "rubbish",
+      "meaning": "垃圾",
+      "unit": "Unit 2 Helping at home",
+      "page": "82"
+    },
+    {
+      "english": "chore",
+      "meaning": "家庭杂务",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "to-do list",
+      "meaning": "待办清单",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "may",
+      "meaning": "可以（表示允许某人做某事）",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "outside",
+      "meaning": "在室外，在外面",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "tidy",
+      "meaning": "整理，收拾",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "easy",
+      "meaning": "容易的",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "clean",
+      "meaning": "（把……）弄干净，（使）清洁",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "woof",
+      "meaning": "汪汪（形容狗吠声）",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "job",
+      "meaning": "任务，事情",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "Good job",
+      "meaning": "干得好！真不错！",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "dirty",
+      "meaning": "脏的",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "desk",
+      "meaning": "书桌，写字台",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "wall",
+      "meaning": "墙",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "again",
+      "meaning": "又，再一次",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "also",
+      "meaning": "除此之外，还",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "sunshine",
+      "meaning": "阳光",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "sometimes",
+      "meaning": "有时",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "feel",
+      "meaning": "感受到，觉得",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "tired",
+      "meaning": "疲惫的，累的",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "helpful",
+      "meaning": "乐于助人的",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "warm",
+      "meaning": "（使）温暖起来",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "warm up",
+      "meaning": "（使）变暖",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "water",
+      "meaning": "给……浇水",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "yard",
+      "meaning": "庭院",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "helper",
+      "meaning": "帮手；助手",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "pick",
+      "meaning": "采，摘",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "pig",
+      "meaning": "猪",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "cow",
+      "meaning": "奶牛",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "cut",
+      "meaning": "修剪",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "grass",
+      "meaning": "草地；草，青草",
+      "unit": "Unit 2 Helping at home",
+      "page": "83"
+    },
+    {
+      "english": "weather",
+      "meaning": "天气",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "sunny",
+      "meaning": "阳光充足的",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "cloud",
+      "meaning": "云",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "by",
+      "meaning": "经过",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "cloudy",
+      "meaning": "多云的，阴天的",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "wind",
+      "meaning": "风",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "blow",
+      "meaning": "吹，刮",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "windy",
+      "meaning": "风大的；多风的",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "rain",
+      "meaning": "雨",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "rainy",
+      "meaning": "多雨的",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "snow",
+      "meaning": "雪",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "any",
+      "meaning": "任何一个",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "83"
+    },
+    {
+      "english": "cold",
+      "meaning": "冷的，寒冷的",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "or",
+      "meaning": "或者",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "enjoy",
+      "meaning": "享受……的乐趣",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "diary",
+      "meaning": "日记",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "teacher",
+      "meaning": "教师，老师",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "taste",
+      "meaning": "有……的味道",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "ice cream",
+      "meaning": "冰激凌，雪糕",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "real",
+      "meaning": "真的，真正的",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "later",
+      "meaning": "之后",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "coat",
+      "meaning": "外套",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "turn",
+      "meaning": "转身；转动",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "turn on",
+      "meaning": "打开",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "TV",
+      "meaning": "电视",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "report",
+      "meaning": "报道",
+      "unit": "Unit 3 What's the weather like?",
+      "page": "84"
+    },
+    {
+      "english": "season",
+      "meaning": "季节",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "spring",
+      "meaning": "春天，春季",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "summer",
+      "meaning": "夏天，夏季",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "autumn",
+      "meaning": "秋天，秋季",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "winter",
+      "meaning": "冬天，冬季",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "favourite",
+      "meaning": "最喜欢的",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "birthday",
+      "meaning": "生日",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "fly",
+      "meaning": "放飞",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "snowstorm",
+      "meaning": "雪暴，暴风雪",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "beach",
+      "meaning": "海滩，沙滩",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "sea",
+      "meaning": "海，海洋",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "equator",
+      "meaning": "赤道",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "round",
+      "meaning": "循环地，周而复始地",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "all year round",
+      "meaning": "全年",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "quite",
+      "meaning": "非常，十分",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "join",
+      "meaning": "参与，加入",
+      "unit": "Unit 4 Wonderful seasons",
+      "page": "84"
+    },
+    {
+      "english": "bus",
+      "meaning": "公交车，公共汽车",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "car",
+      "meaning": "汽车",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "train",
+      "meaning": "火车，列车",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "city",
+      "meaning": "城市",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "town",
+      "meaning": "镇，城镇",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "ship",
+      "meaning": "大船",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "plane",
+      "meaning": "飞机",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "sky",
+      "meaning": "天，天空",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "place",
+      "meaning": "地方，地点",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "near",
+      "meaning": "（距离）近的",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "travel",
+      "meaning": "旅行",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "way",
+      "meaning": "方式",
+      "unit": "Unit 5 Let's go!",
+      "page": "84"
+    },
+    {
+      "english": "picnic",
+      "meaning": "野餐",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "minute",
+      "meaning": "分钟",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "wear",
+      "meaning": "穿；戴",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "live",
+      "meaning": "住，居住",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "away",
+      "meaning": "离开，相距",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "truck",
+      "meaning": "货车，卡车",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "bamboo",
+      "meaning": "竹，竹子",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "bike",
+      "meaning": "自行车",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "ring",
+      "meaning": "（钟、铃）鸣响",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "beep",
+      "meaning": "（使）（汽车喇叭）鸣响",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "subway",
+      "meaning": "地铁",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "whoosh",
+      "meaning": "（呼呼地）飞快移动",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "tram",
+      "meaning": "有轨电车",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "chug",
+      "meaning": "（汽车、火车等）突突地缓慢前进",
+      "unit": "Unit 5 Let's go!",
+      "page": "85"
+    },
+    {
+      "english": "wheel",
+      "meaning": "车轮",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "left",
+      "meaning": "向左，朝左",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "straight",
+      "meaning": "笔直地",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "library",
+      "meaning": "图书室；图书馆",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "centre",
+      "meaning": "中心",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "cinema",
+      "meaning": "电影院",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "hospital",
+      "meaning": "医院",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "supermarket",
+      "meaning": "超市",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "museum",
+      "meaning": "博物馆，博物院",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "tomorrow",
+      "meaning": "（在）明天",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "woman",
+      "meaning": "成年女子，妇女",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "wish",
+      "meaning": "愿望",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "step",
+      "meaning": "步；一步（的距离）",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "own",
+      "meaning": "自己的",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "on one's own",
+      "meaning": "独立地",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "cross",
+      "meaning": "横穿",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "careful",
+      "meaning": "谨慎的",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "be careful",
+      "meaning": "当心，小心",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "underground",
+      "meaning": "在地（面）下",
+      "unit": "Unit 6 Find your way",
+      "page": "85"
+    },
+    {
+      "english": "Terry Fox",
+      "meaning": "特里·福克斯",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Bobby",
+      "meaning": "博比",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Cody",
+      "meaning": "科迪",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Luca",
+      "meaning": "卢卡",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Jane",
+      "meaning": "简",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Canada",
+      "meaning": "加拿大",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Harbin",
+      "meaning": "哈尔滨",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Singapore",
+      "meaning": "新加坡",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Qatar",
+      "meaning": "卡塔尔",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "Terry Fox Run",
+      "meaning": "希望马拉松",
+      "unit": "附录 · 专有名词",
+      "page": "91"
+    },
+    {
+      "english": "take off",
+      "meaning": "脱下，脱掉（衣物）",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "shine",
+      "meaning": "发光，发亮",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "cry",
+      "meaning": "哭，哭泣",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "I'm fine.",
+      "meaning": "我很好。",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "Martin",
+      "meaning": "马丁",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "Mike",
+      "meaning": "迈克",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "restaurant",
+      "meaning": "饭店，餐馆",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "duck",
+      "meaning": "鸭",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    },
+    {
+      "english": "at last",
+      "meaning": "终于",
+      "unit": "附录 · 课本剧词汇",
+      "page": "92"
+    }
+  ]
+}

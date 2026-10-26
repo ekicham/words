@@ -1,0 +1,4903 @@
+{
+  "source": "https://github.com/open-dict-data/ipa-dict",
+  "dialect": "en_US",
+  "source_sha256": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",
+  "entries": {
+    "a box of": {
+      "ipa": "/ə/ /ˈbɑks/ /ˈəv/",
+      "note": "美式分词参考"
+    },
+    "a few": {
+      "ipa": "/ə/ /ˈfju/",
+      "note": "美式分词参考"
+    },
+    "a lot of": {
+      "ipa": "/ə/ /ˈɫɑt/ /ˈəv/",
+      "note": "美式分词参考"
+    },
+    "a.m.": {
+      "ipa": "/ˌeɪˈɛm/",
+      "note": "美式参考"
+    },
+    "ability": {
+      "ipa": "/əˈbɪɫəˌti/",
+      "note": "美式参考"
+    },
+    "about": {
+      "ipa": "/əˈbaʊt/",
+      "note": "美式参考"
+    },
+    "above": {
+      "ipa": "/əˈbəv/",
+      "note": "美式参考"
+    },
+    "across": {
+      "ipa": "/əˈkɹɔs/",
+      "note": "美式参考"
+    },
+    "act": {
+      "ipa": "/ˈækt/",
+      "note": "美式参考"
+    },
+    "act out": {
+      "ipa": "/ˈækt/ /ˈaʊt/",
+      "note": "美式分词参考"
+    },
+    "active": {
+      "ipa": "/ˈæktɪv/",
+      "note": "美式参考"
+    },
+    "add": {
+      "ipa": "/ˈæd/",
+      "note": "美式参考"
+    },
+    "afraid": {
+      "ipa": "/əˈfɹeɪd/",
+      "note": "美式参考"
+    },
+    "after": {
+      "ipa": "/ˈæftɝ/",
+      "note": "美式参考"
+    },
+    "afternoon": {
+      "ipa": "/ˌæftɝˈnun/",
+      "note": "美式参考"
+    },
+    "again": {
+      "ipa": "/əˈɡeɪn/, /əˈɡɛn/",
+      "note": "美式参考"
+    },
+    "ago": {
+      "ipa": "/əˈɡoʊ/",
+      "note": "美式参考"
+    },
+    "agree": {
+      "ipa": "/əˈɡɹi/",
+      "note": "美式参考"
+    },
+    "air": {
+      "ipa": "/ˈɛɹ/",
+      "note": "美式参考"
+    },
+    "air conditioner": {
+      "ipa": "/ˈɛɹ/ /kənˈdɪʃənɝ/",
+      "note": "美式分词参考"
+    },
+    "airport": {
+      "ipa": "/ˈɛɹˌpɔɹt/",
+      "note": "美式参考"
+    },
+    "alaska": {
+      "ipa": "/əˈɫæskə/",
+      "note": "美式参考"
+    },
+    "alien": {
+      "ipa": "/ˈeɪɫiən/",
+      "note": "美式参考"
+    },
+    "all": {
+      "ipa": "/ˈɔɫ/",
+      "note": "美式参考"
+    },
+    "all year round": {
+      "ipa": "/ˈɔɫ/ /ˈjɪɹ/ /ˈɹaʊnd/",
+      "note": "美式分词参考"
+    },
+    "along": {
+      "ipa": "/əˈɫɔŋ/",
+      "note": "美式参考"
+    },
+    "also": {
+      "ipa": "/ˈɔɫsoʊ/",
+      "note": "美式参考"
+    },
+    "always": {
+      "ipa": "/ˈɔɫˌweɪz/, /ˈɔɫwiz/",
+      "note": "美式参考"
+    },
+    "amazing": {
+      "ipa": "/əˈmeɪzɪŋ/",
+      "note": "美式参考"
+    },
+    "american": {
+      "ipa": "/əˈmɛɹəkən/, /əˈmɛɹɪkən/",
+      "note": "美式参考"
+    },
+    "and": {
+      "ipa": "/ˈænd/, /ənd/",
+      "note": "美式参考"
+    },
+    "angry": {
+      "ipa": "/ˈæŋɡɹi/",
+      "note": "美式参考"
+    },
+    "animal": {
+      "ipa": "/ˈænəməɫ/",
+      "note": "美式参考"
+    },
+    "another": {
+      "ipa": "/əˈnəðɝ/",
+      "note": "美式参考"
+    },
+    "answer": {
+      "ipa": "/ˈænsɝ/",
+      "note": "美式参考"
+    },
+    "ant": {
+      "ipa": "/ˈænt/",
+      "note": "美式参考"
+    },
+    "any": {
+      "ipa": "/ˈɛni/",
+      "note": "美式参考"
+    },
+    "anything": {
+      "ipa": "/ˈɛniˌθɪŋ/",
+      "note": "美式参考"
+    },
+    "app": {
+      "ipa": "/ˈæp/",
+      "note": "美式参考"
+    },
+    "apple": {
+      "ipa": "/ˈæpəɫ/",
+      "note": "美式参考"
+    },
+    "april": {
+      "ipa": "/ˈeɪpɹəɫ/",
+      "note": "美式参考"
+    },
+    "arm": {
+      "ipa": "/ˈɑɹm/",
+      "note": "美式参考"
+    },
+    "art": {
+      "ipa": "/ˈɑɹt/",
+      "note": "美式参考"
+    },
+    "art room": {
+      "ipa": "/ˈɑɹt/ /ˈɹum/",
+      "note": "美式分词参考"
+    },
+    "artist": {
+      "ipa": "/ˈɑɹtəst/, /ˈɑɹtɪst/",
+      "note": "美式参考"
+    },
+    "as": {
+      "ipa": "/ˈæz/, /ˈɛz/",
+      "note": "美式参考"
+    },
+    "ask": {
+      "ipa": "/ˈæsk/",
+      "note": "美式参考"
+    },
+    "astronaut": {
+      "ipa": "/ˈæstɹəˌnɑt/",
+      "note": "美式参考"
+    },
+    "at": {
+      "ipa": "/ˈæt/",
+      "note": "美式参考"
+    },
+    "at last": {
+      "ipa": "/ˈæt/ /ˈɫæs/",
+      "note": "美式分词参考"
+    },
+    "ate": {
+      "ipa": "/ˈeɪt/",
+      "note": "美式参考"
+    },
+    "attention": {
+      "ipa": "/əˈtɛnʃən/",
+      "note": "美式参考"
+    },
+    "august": {
+      "ipa": "/ˈɑɡəst/, /ˈɔɡəst/",
+      "note": "美式参考"
+    },
+    "aunt": {
+      "ipa": "/ˈænt/, /ˈɔnt/",
+      "note": "美式参考"
+    },
+    "australia": {
+      "ipa": "/ɔˈstɹeɪɫjə/",
+      "note": "美式参考"
+    },
+    "autumn": {
+      "ipa": "/ˈɔtəm/",
+      "note": "美式参考"
+    },
+    "away": {
+      "ipa": "/əˈweɪ/",
+      "note": "美式参考"
+    },
+    "baby": {
+      "ipa": "/ˈbeɪbi/",
+      "note": "美式参考"
+    },
+    "baby brother": {
+      "ipa": "/ˈbeɪbi/ /ˈbɹəðɝ/",
+      "note": "美式分词参考"
+    },
+    "back": {
+      "ipa": "/ˈbæk/",
+      "note": "美式参考"
+    },
+    "bad": {
+      "ipa": "/ˈbæd/",
+      "note": "美式参考"
+    },
+    "badminton": {
+      "ipa": "/ˈbædˌmɪntən/",
+      "note": "美式参考"
+    },
+    "bag": {
+      "ipa": "/ˈbæɡ/",
+      "note": "美式参考"
+    },
+    "ball": {
+      "ipa": "/ˈbɔɫ/",
+      "note": "美式参考"
+    },
+    "bamboo": {
+      "ipa": "/bæmˈbu/",
+      "note": "美式参考"
+    },
+    "banana": {
+      "ipa": "/bəˈnænə/",
+      "note": "美式参考"
+    },
+    "basket": {
+      "ipa": "/ˈbæskət/",
+      "note": "美式参考"
+    },
+    "basketball": {
+      "ipa": "/ˈbæskətˌbɔɫ/",
+      "note": "美式参考"
+    },
+    "bathroom": {
+      "ipa": "/ˈbæˌθɹum/",
+      "note": "美式参考"
+    },
+    "bds": {
+      "ipa": "/ˈbi ˈdi ˈɛs/",
+      "note": "美式参考"
+    },
+    "be careful": {
+      "ipa": "/ˈbi/ /ˈkɛɹfəɫ/",
+      "note": "美式分词参考"
+    },
+    "beach": {
+      "ipa": "/ˈbitʃ/",
+      "note": "美式参考"
+    },
+    "bear": {
+      "ipa": "/ˈbɛɹ/",
+      "note": "美式参考"
+    },
+    "beautiful": {
+      "ipa": "/ˈbjutəfəɫ/",
+      "note": "美式参考"
+    },
+    "because": {
+      "ipa": "/bɪˈkɑz/, /bɪˈkəz/, /bɪˈkɔz/, /bɪkəz/",
+      "note": "美式参考"
+    },
+    "because of": {
+      "ipa": "/bɪˈkɑz/ /ˈəv/",
+      "note": "美式分词参考"
+    },
+    "become": {
+      "ipa": "/bɪˈkəm/",
+      "note": "美式参考"
+    },
+    "bed": {
+      "ipa": "/ˈbɛd/",
+      "note": "美式参考"
+    },
+    "bedroom": {
+      "ipa": "/ˈbɛˌdɹum/",
+      "note": "美式参考"
+    },
+    "bee": {
+      "ipa": "/ˈbi/",
+      "note": "美式参考"
+    },
+    "beef": {
+      "ipa": "/ˈbif/",
+      "note": "美式参考"
+    },
+    "beep": {
+      "ipa": "/ˈbip/",
+      "note": "美式参考"
+    },
+    "before": {
+      "ipa": "/ˌbiˈfɔɹ/, /bɪˈfɔɹ/",
+      "note": "美式参考"
+    },
+    "begin": {
+      "ipa": "/bɪˈɡɪn/",
+      "note": "美式参考"
+    },
+    "behind": {
+      "ipa": "/bɪˈhaɪnd/",
+      "note": "美式参考"
+    },
+    "beijing opera": {
+      "ipa": "/ˌbeɪˈʒɪŋ/ /ˈɑpɹə/",
+      "note": "美式分词参考"
+    },
+    "beside": {
+      "ipa": "/ˌbiˈsaɪd/, /bɪˈsaɪd/",
+      "note": "美式参考"
+    },
+    "best": {
+      "ipa": "/ˈbɛst/",
+      "note": "美式参考"
+    },
+    "better": {
+      "ipa": "/ˈbɛtɝ/",
+      "note": "美式参考"
+    },
+    "between": {
+      "ipa": "/bitˈwin/, /bɪtˈwin/",
+      "note": "美式参考"
+    },
+    "big": {
+      "ipa": "/ˈbɪɡ/",
+      "note": "美式参考"
+    },
+    "bigger": {
+      "ipa": "/ˈbɪɡɝ/",
+      "note": "美式参考"
+    },
+    "bike": {
+      "ipa": "/ˈbaɪk/",
+      "note": "美式参考"
+    },
+    "bird": {
+      "ipa": "/ˈbɝd/",
+      "note": "美式参考"
+    },
+    "birthday": {
+      "ipa": "/ˈbɝθˌdeɪ/",
+      "note": "美式参考"
+    },
+    "black": {
+      "ipa": "/ˈbɫæk/",
+      "note": "美式参考"
+    },
+    "blackboard": {
+      "ipa": "/ˈbɫækˌbɔɹd/",
+      "note": "美式参考"
+    },
+    "blog": {
+      "ipa": "/ˈbɫɔɡ/",
+      "note": "美式参考"
+    },
+    "blow": {
+      "ipa": "/ˈbɫoʊ/",
+      "note": "美式参考"
+    },
+    "blue": {
+      "ipa": "/ˈbɫu/",
+      "note": "美式参考"
+    },
+    "boat": {
+      "ipa": "/ˈboʊt/",
+      "note": "美式参考"
+    },
+    "boating": {
+      "ipa": "/ˈboʊtɪŋ/",
+      "note": "美式参考"
+    },
+    "bobby": {
+      "ipa": "/ˈbɑbi/",
+      "note": "美式参考"
+    },
+    "body": {
+      "ipa": "/ˈbɑdi/",
+      "note": "美式参考"
+    },
+    "book": {
+      "ipa": "/ˈbʊk/",
+      "note": "美式参考"
+    },
+    "book fair": {
+      "ipa": "/ˈbʊk/ /ˈfɛɹ/",
+      "note": "美式分词参考"
+    },
+    "bookstore": {
+      "ipa": "/ˈbʊkˌstɔɹ/",
+      "note": "美式参考"
+    },
+    "borrow": {
+      "ipa": "/ˈbɑˌɹoʊ/",
+      "note": "美式参考"
+    },
+    "both": {
+      "ipa": "/ˈboʊθ/",
+      "note": "美式参考"
+    },
+    "bottle": {
+      "ipa": "/ˈbɑtəɫ/",
+      "note": "美式参考"
+    },
+    "bought": {
+      "ipa": "/ˈbɑt/, /ˈbɔt/",
+      "note": "美式参考"
+    },
+    "bowl": {
+      "ipa": "/ˈboʊɫ/",
+      "note": "美式参考"
+    },
+    "box": {
+      "ipa": "/ˈbɑks/",
+      "note": "美式参考"
+    },
+    "boy": {
+      "ipa": "/ˈbɔɪ/",
+      "note": "美式参考"
+    },
+    "bread": {
+      "ipa": "/ˈbɹɛd/",
+      "note": "美式参考"
+    },
+    "breakfast": {
+      "ipa": "/ˈbɹɛkfəst/",
+      "note": "美式参考"
+    },
+    "breath": {
+      "ipa": "/ˈbɹɛθ/",
+      "note": "美式参考"
+    },
+    "bridge": {
+      "ipa": "/ˈbɹɪdʒ/",
+      "note": "美式参考"
+    },
+    "bring": {
+      "ipa": "/ˈbɹɪŋ/",
+      "note": "美式参考"
+    },
+    "britain": {
+      "ipa": "/ˈbɹɪtən/",
+      "note": "美式参考"
+    },
+    "broken": {
+      "ipa": "/ˈbɹoʊkən/",
+      "note": "美式参考"
+    },
+    "brother": {
+      "ipa": "/ˈbɹəðɝ/",
+      "note": "美式参考"
+    },
+    "brown": {
+      "ipa": "/ˈbɹaʊn/",
+      "note": "美式参考"
+    },
+    "brush": {
+      "ipa": "/ˈbɹəʃ/",
+      "note": "美式参考"
+    },
+    "building": {
+      "ipa": "/ˈbɪɫdɪŋ/",
+      "note": "美式参考"
+    },
+    "bus": {
+      "ipa": "/ˈbəs/",
+      "note": "美式参考"
+    },
+    "bus stop": {
+      "ipa": "/ˈbəs/ /ˈstɑp/",
+      "note": "美式分词参考"
+    },
+    "businessman": {
+      "ipa": "/ˈbɪznəsˌmæn/, /ˈbɪznɪsˌmæn/",
+      "note": "美式参考"
+    },
+    "busy": {
+      "ipa": "/ˈbɪzi/",
+      "note": "美式参考"
+    },
+    "but": {
+      "ipa": "/ˈbət/",
+      "note": "美式参考"
+    },
+    "buy": {
+      "ipa": "/ˈbaɪ/",
+      "note": "美式参考"
+    },
+    "by": {
+      "ipa": "/ˈbaɪ/",
+      "note": "美式参考"
+    },
+    "cairo": {
+      "ipa": "/ˈkaɪɹoʊ/",
+      "note": "美式参考"
+    },
+    "cake": {
+      "ipa": "/ˈkeɪk/",
+      "note": "美式参考"
+    },
+    "call": {
+      "ipa": "/ˈkɔɫ/",
+      "note": "美式参考"
+    },
+    "camel": {
+      "ipa": "/ˈkæməɫ/",
+      "note": "美式参考"
+    },
+    "camp": {
+      "ipa": "/ˈkæmp/",
+      "note": "美式参考"
+    },
+    "can": {
+      "ipa": "/ˈkæn/, /kən/",
+      "note": "美式参考"
+    },
+    "canada": {
+      "ipa": "/ˈkænədə/",
+      "note": "美式参考"
+    },
+    "canadian": {
+      "ipa": "/kəˈneɪdiən/",
+      "note": "美式参考"
+    },
+    "canberra": {
+      "ipa": "/ˌkænˈbɛɹə/",
+      "note": "美式参考"
+    },
+    "cancer": {
+      "ipa": "/ˈkænsɝ/",
+      "note": "美式参考"
+    },
+    "candy": {
+      "ipa": "/ˈkændi/",
+      "note": "美式参考"
+    },
+    "cap": {
+      "ipa": "/ˈkæp/",
+      "note": "美式参考"
+    },
+    "car": {
+      "ipa": "/ˈkɑɹ/",
+      "note": "美式参考"
+    },
+    "card": {
+      "ipa": "/ˈkɑɹd/",
+      "note": "美式参考"
+    },
+    "careful": {
+      "ipa": "/ˈkɛɹfəɫ/",
+      "note": "美式参考"
+    },
+    "carrot": {
+      "ipa": "/ˈkæɹət/, /ˈkɛɹət/",
+      "note": "美式参考"
+    },
+    "carry": {
+      "ipa": "/ˈkæɹi/, /ˈkɛɹi/",
+      "note": "美式参考"
+    },
+    "cartoon": {
+      "ipa": "/kɑɹˈtun/",
+      "note": "美式参考"
+    },
+    "cat": {
+      "ipa": "/ˈkæt/",
+      "note": "美式参考"
+    },
+    "catch": {
+      "ipa": "/ˈkætʃ/",
+      "note": "美式参考"
+    },
+    "cave": {
+      "ipa": "/ˈkeɪv/",
+      "note": "美式参考"
+    },
+    "celebrate": {
+      "ipa": "/ˈsɛɫəˌbɹeɪt/",
+      "note": "美式参考"
+    },
+    "centre": {
+      "ipa": "/ˈsɛntɝ/",
+      "note": "美式参考"
+    },
+    "chair": {
+      "ipa": "/ˈtʃɛɹ/",
+      "note": "美式参考"
+    },
+    "change": {
+      "ipa": "/ˈtʃeɪndʒ/",
+      "note": "美式参考"
+    },
+    "chase": {
+      "ipa": "/ˈtʃeɪs/",
+      "note": "美式参考"
+    },
+    "cheap": {
+      "ipa": "/ˈtʃip/",
+      "note": "美式参考"
+    },
+    "check": {
+      "ipa": "/ˈtʃɛk/",
+      "note": "美式参考"
+    },
+    "cheer": {
+      "ipa": "/ˈtʃɪɹ/",
+      "note": "美式参考"
+    },
+    "cheetah": {
+      "ipa": "/ˈtʃitə/",
+      "note": "美式参考"
+    },
+    "chess": {
+      "ipa": "/ˈtʃɛs/",
+      "note": "美式参考"
+    },
+    "chicken": {
+      "ipa": "/ˈtʃɪkən/",
+      "note": "美式参考"
+    },
+    "child": {
+      "ipa": "/ˈtʃaɪɫd/",
+      "note": "美式参考"
+    },
+    "children": {
+      "ipa": "/ˈtʃɪɫdɹən/",
+      "note": "美式参考"
+    },
+    "china": {
+      "ipa": "/ˈtʃaɪnə/",
+      "note": "美式参考"
+    },
+    "chinese": {
+      "ipa": "/tʃaɪˈniz/",
+      "note": "美式参考"
+    },
+    "chinese book": {
+      "ipa": "/tʃaɪˈniz/ /ˈbʊk/",
+      "note": "美式分词参考"
+    },
+    "chopstick": {
+      "ipa": "/ˈtʃɑpˌstɪk/",
+      "note": "美式参考"
+    },
+    "chopsticks": {
+      "ipa": "/ˈtʃɑpˌstɪks/",
+      "note": "美式参考"
+    },
+    "chore": {
+      "ipa": "/ˈtʃɔɹ/",
+      "note": "美式参考"
+    },
+    "christmas": {
+      "ipa": "/ˈkɹɪsməs/",
+      "note": "美式参考"
+    },
+    "chug": {
+      "ipa": "/ˈtʃəɡ/",
+      "note": "美式参考"
+    },
+    "cinema": {
+      "ipa": "/ˈsɪnəmə/",
+      "note": "美式参考"
+    },
+    "city": {
+      "ipa": "/ˈsɪti/",
+      "note": "美式参考"
+    },
+    "class": {
+      "ipa": "/ˈkɫæs/",
+      "note": "美式参考"
+    },
+    "classmate": {
+      "ipa": "/ˈkɫæsˌmeɪt/",
+      "note": "美式参考"
+    },
+    "classroom": {
+      "ipa": "/ˈkɫæsˌɹum/",
+      "note": "美式参考"
+    },
+    "clay": {
+      "ipa": "/ˈkɫeɪ/",
+      "note": "美式参考"
+    },
+    "clean": {
+      "ipa": "/ˈkɫin/",
+      "note": "美式参考"
+    },
+    "clean my room": {
+      "ipa": "/ˈkɫin/ /ˈmaɪ/ /ˈɹum/",
+      "note": "美式分词参考"
+    },
+    "cleaned": {
+      "ipa": "/ˈkɫind/",
+      "note": "美式参考"
+    },
+    "cleaner": {
+      "ipa": "/ˈkɫinɝ/",
+      "note": "美式参考"
+    },
+    "clear the table": {
+      "ipa": "/ˈkɫɪɹ/ /ˈðə/ /ˈteɪbəɫ/",
+      "note": "美式分词参考"
+    },
+    "clever": {
+      "ipa": "/ˈkɫɛvɝ/",
+      "note": "美式参考"
+    },
+    "climb": {
+      "ipa": "/ˈkɫaɪm/",
+      "note": "美式参考"
+    },
+    "climbing": {
+      "ipa": "/ˈkɫaɪmɪŋ/",
+      "note": "美式参考"
+    },
+    "clock": {
+      "ipa": "/ˈkɫɑk/",
+      "note": "美式参考"
+    },
+    "close": {
+      "ipa": "/ˈkɫoʊs/, /ˈkɫoʊz/",
+      "note": "美式参考"
+    },
+    "closed": {
+      "ipa": "/ˈkɫoʊzd/",
+      "note": "美式参考"
+    },
+    "cloth": {
+      "ipa": "/ˈkɫɔθ/",
+      "note": "美式参考"
+    },
+    "clothes": {
+      "ipa": "/ˈkɫoʊðz/, /ˈkɫoʊz/",
+      "note": "美式参考"
+    },
+    "cloud": {
+      "ipa": "/ˈkɫaʊd/",
+      "note": "美式参考"
+    },
+    "cloudy": {
+      "ipa": "/ˈkɫaʊdi/",
+      "note": "美式参考"
+    },
+    "club": {
+      "ipa": "/ˈkɫəb/",
+      "note": "美式参考"
+    },
+    "coach": {
+      "ipa": "/ˈkoʊtʃ/",
+      "note": "美式参考"
+    },
+    "coat": {
+      "ipa": "/ˈkoʊt/",
+      "note": "美式参考"
+    },
+    "coconut": {
+      "ipa": "/ˈkoʊkəˌnət/",
+      "note": "美式参考"
+    },
+    "cody": {
+      "ipa": "/ˈkoʊdi/",
+      "note": "美式参考"
+    },
+    "cold": {
+      "ipa": "/ˈkoʊɫd/",
+      "note": "美式参考"
+    },
+    "colour": {
+      "ipa": "/ˈkəɫɝ/",
+      "note": "美式参考"
+    },
+    "colourful": {
+      "ipa": "/ˈkəɫɝfəɫ/",
+      "note": "美式参考"
+    },
+    "come on": {
+      "ipa": "/ˈkəm/ /ˈɑn/",
+      "note": "美式分词参考"
+    },
+    "comic": {
+      "ipa": "/ˈkɑmɪk/",
+      "note": "美式参考"
+    },
+    "comic book": {
+      "ipa": "/ˈkɑmɪk/ /ˈbʊk/",
+      "note": "美式分词参考"
+    },
+    "common": {
+      "ipa": "/ˈkɑmən/",
+      "note": "美式参考"
+    },
+    "community": {
+      "ipa": "/kəmˈjunəti/, /kəmˈjunɪti/",
+      "note": "美式参考"
+    },
+    "computer": {
+      "ipa": "/kəmˈpjutɝ/",
+      "note": "美式参考"
+    },
+    "computer room": {
+      "ipa": "/kəmˈpjutɝ/ /ˈɹum/",
+      "note": "美式分词参考"
+    },
+    "confucius": {
+      "ipa": "/kənˈfjuʃəs/",
+      "note": "美式参考"
+    },
+    "contest": {
+      "ipa": "/ˈkɑntɛst/, /kənˈtɛst/",
+      "note": "美式参考"
+    },
+    "cook": {
+      "ipa": "/ˈkʊk/",
+      "note": "美式参考"
+    },
+    "cooking": {
+      "ipa": "/ˈkʊkɪŋ/",
+      "note": "美式参考"
+    },
+    "cool": {
+      "ipa": "/ˈkuɫ/",
+      "note": "美式参考"
+    },
+    "cough": {
+      "ipa": "/ˈkɑf/, /ˈkɔf/",
+      "note": "美式参考"
+    },
+    "could": {
+      "ipa": "/ˈkʊd/",
+      "note": "美式参考"
+    },
+    "count": {
+      "ipa": "/ˈkaʊnt/",
+      "note": "美式参考"
+    },
+    "count down": {
+      "ipa": "/ˈkaʊnt/ /ˈdaʊn/",
+      "note": "美式分词参考"
+    },
+    "count to ten": {
+      "ipa": "/ˈkaʊnt/ /ˈtu/ /ˈtɛn/",
+      "note": "美式分词参考"
+    },
+    "country": {
+      "ipa": "/ˈkəntɹi/",
+      "note": "美式参考"
+    },
+    "countryside": {
+      "ipa": "/ˈkəntɹiˌsaɪd/",
+      "note": "美式参考"
+    },
+    "cousin": {
+      "ipa": "/ˈkəzən/",
+      "note": "美式参考"
+    },
+    "cow": {
+      "ipa": "/ˈkaʊ/",
+      "note": "美式参考"
+    },
+    "cpc founding day": {
+      "ipa": "/ˈsi ˈpi ˈsi/ /ˈfaʊndɪŋ/ /ˈdeɪ/",
+      "note": "美式分词参考"
+    },
+    "crayon": {
+      "ipa": "/ˈkɹeɪˌɑn/",
+      "note": "美式参考"
+    },
+    "cross": {
+      "ipa": "/ˈkɹɔs/",
+      "note": "美式参考"
+    },
+    "crossing": {
+      "ipa": "/ˈkɹɔsɪŋ/",
+      "note": "美式参考"
+    },
+    "cry": {
+      "ipa": "/ˈkɹaɪ/",
+      "note": "美式参考"
+    },
+    "culture": {
+      "ipa": "/ˈkəɫtʃɝ/",
+      "note": "美式参考"
+    },
+    "cup": {
+      "ipa": "/ˈkəp/",
+      "note": "美式参考"
+    },
+    "cut": {
+      "ipa": "/ˈkət/",
+      "note": "美式参考"
+    },
+    "cute": {
+      "ipa": "/ˈkjut/",
+      "note": "美式参考"
+    },
+    "cycling": {
+      "ipa": "/ˈsaɪkəɫɪŋ/, /ˈsaɪkɫɪŋ/",
+      "note": "美式参考"
+    },
+    "dad": {
+      "ipa": "/ˈdæd/",
+      "note": "美式参考"
+    },
+    "dance": {
+      "ipa": "/ˈdæns/",
+      "note": "美式参考"
+    },
+    "dancing": {
+      "ipa": "/ˈdænsɪŋ/",
+      "note": "美式参考"
+    },
+    "dangerous": {
+      "ipa": "/ˈdeɪndʒɝəs/",
+      "note": "美式参考"
+    },
+    "day": {
+      "ipa": "/ˈdeɪ/",
+      "note": "美式参考"
+    },
+    "daytime": {
+      "ipa": "/ˈdeɪˌtaɪm/",
+      "note": "美式参考"
+    },
+    "dear": {
+      "ipa": "/ˈdɪɹ/",
+      "note": "美式参考"
+    },
+    "december": {
+      "ipa": "/dɪˈsɛmbɝ/",
+      "note": "美式参考"
+    },
+    "deep": {
+      "ipa": "/ˈdip/",
+      "note": "美式参考"
+    },
+    "degree": {
+      "ipa": "/dɪˈɡɹi/",
+      "note": "美式参考"
+    },
+    "delicious": {
+      "ipa": "/dɪˈɫɪʃəs/",
+      "note": "美式参考"
+    },
+    "delivery worker": {
+      "ipa": "/dɪˈɫɪvɝi/ /ˈwɝkɝ/",
+      "note": "美式分词参考"
+    },
+    "desert": {
+      "ipa": "/ˈdɛzɝt/, /dɪˈzɝt/",
+      "note": "美式参考"
+    },
+    "desk": {
+      "ipa": "/ˈdɛsk/",
+      "note": "美式参考"
+    },
+    "diary": {
+      "ipa": "/ˈdaɪɝi/, /ˈdaɪɹi/",
+      "note": "美式参考"
+    },
+    "dictionary": {
+      "ipa": "/ˈdɪkʃəˌnɛɹi/",
+      "note": "美式参考"
+    },
+    "diet": {
+      "ipa": "/ˈdaɪət/",
+      "note": "美式参考"
+    },
+    "difference": {
+      "ipa": "/ˈdɪfɝəns/, /ˈdɪfɹəns/",
+      "note": "美式参考"
+    },
+    "different": {
+      "ipa": "/ˈdɪfɝənt/, /ˈdɪfɹənt/",
+      "note": "美式参考"
+    },
+    "dining hall": {
+      "ipa": "/ˈdaɪnɪŋ/ /ˈhɔɫ/",
+      "note": "美式分词参考"
+    },
+    "dinner": {
+      "ipa": "/ˈdɪnɝ/",
+      "note": "美式参考"
+    },
+    "dinosaur": {
+      "ipa": "/ˈdaɪnəˌsɔɹ/",
+      "note": "美式参考"
+    },
+    "direct": {
+      "ipa": "/daɪˈɹɛkt/, /dɝˈɛkt/, /dɪˈɹɛkt/",
+      "note": "美式参考"
+    },
+    "dirty": {
+      "ipa": "/ˈdɝti/",
+      "note": "美式参考"
+    },
+    "discuss": {
+      "ipa": "/dɪˈskəs/",
+      "note": "美式参考"
+    },
+    "dish": {
+      "ipa": "/ˈdɪʃ/",
+      "note": "美式参考"
+    },
+    "do": {
+      "ipa": "/ˈdu/",
+      "note": "美式参考"
+    },
+    "do homework": {
+      "ipa": "/ˈdu/ /ˈhoʊmˌwɝk/",
+      "note": "美式分词参考"
+    },
+    "do kung fu": {
+      "ipa": "/ˈdu/ /ˈkəŋ/ /ˈfu/",
+      "note": "美式分词参考"
+    },
+    "do morning exercises": {
+      "ipa": "/ˈdu/ /ˈmɔɹnɪŋ/ /ˈɛksɝˌsaɪzəz/",
+      "note": "美式分词参考"
+    },
+    "doctor": {
+      "ipa": "/ˈdɑktɝ/, /ˈdɔktɝ/",
+      "note": "美式参考"
+    },
+    "dog": {
+      "ipa": "/ˈdɔɡ/",
+      "note": "美式参考"
+    },
+    "doing morning exercises": {
+      "ipa": "/ˈduɪŋ/ /ˈmɔɹnɪŋ/ /ˈɛksɝˌsaɪzəz/",
+      "note": "美式分词参考"
+    },
+    "doll": {
+      "ipa": "/ˈdɑɫ/",
+      "note": "美式参考"
+    },
+    "dollar": {
+      "ipa": "/ˈdɑɫɝ/, /ˈdɔɫɝ/",
+      "note": "美式参考"
+    },
+    "door": {
+      "ipa": "/ˈdɔɹ/",
+      "note": "美式参考"
+    },
+    "down": {
+      "ipa": "/ˈdaʊn/",
+      "note": "美式参考"
+    },
+    "dragon boat festival": {
+      "ipa": "/ˈdɹæɡən/ /ˈboʊt/ /ˈfɛstəvəɫ/",
+      "note": "美式分词参考"
+    },
+    "drank": {
+      "ipa": "/ˈdɹæŋk/",
+      "note": "美式参考"
+    },
+    "draw": {
+      "ipa": "/ˈdɹɔ/",
+      "note": "美式参考"
+    },
+    "draw cartoons": {
+      "ipa": "/ˈdɹɔ/ /kɑɹˈtunz/",
+      "note": "美式分词参考"
+    },
+    "dream": {
+      "ipa": "/ˈdɹim/",
+      "note": "美式参考"
+    },
+    "dress": {
+      "ipa": "/ˈdɹɛs/",
+      "note": "美式参考"
+    },
+    "drink": {
+      "ipa": "/ˈdɹɪŋk/",
+      "note": "美式参考"
+    },
+    "drinking": {
+      "ipa": "/ˈdɹɪŋkɪŋ/",
+      "note": "美式参考"
+    },
+    "drive": {
+      "ipa": "/ˈdɹaɪv/",
+      "note": "美式参考"
+    },
+    "driver": {
+      "ipa": "/ˈdɹaɪvɝ/",
+      "note": "美式参考"
+    },
+    "dry": {
+      "ipa": "/ˈdɹaɪ/",
+      "note": "美式参考"
+    },
+    "duck": {
+      "ipa": "/ˈdək/",
+      "note": "美式参考"
+    },
+    "dumpling": {
+      "ipa": "/ˈdəmpɫɪŋ/",
+      "note": "美式参考"
+    },
+    "each": {
+      "ipa": "/ˈitʃ/",
+      "note": "美式参考"
+    },
+    "each other": {
+      "ipa": "/ˈitʃ/ /ˈəðɝ/",
+      "note": "美式分词参考"
+    },
+    "ear": {
+      "ipa": "/ˈiɹ/, /ˈɪɹ/",
+      "note": "美式参考"
+    },
+    "early": {
+      "ipa": "/ˈɝɫi/",
+      "note": "美式参考"
+    },
+    "earth": {
+      "ipa": "/ˈɝθ/",
+      "note": "美式参考"
+    },
+    "easy": {
+      "ipa": "/ˈizi/",
+      "note": "美式参考"
+    },
+    "eat": {
+      "ipa": "/ˈit/",
+      "note": "美式参考"
+    },
+    "eat breakfast": {
+      "ipa": "/ˈit/ /ˈbɹɛkfəst/",
+      "note": "美式分词参考"
+    },
+    "eat dinner": {
+      "ipa": "/ˈit/ /ˈdɪnɝ/",
+      "note": "美式分词参考"
+    },
+    "eating": {
+      "ipa": "/ˈitɪŋ/",
+      "note": "美式参考"
+    },
+    "eating lunch": {
+      "ipa": "/ˈitɪŋ/ /ˈɫəntʃ/",
+      "note": "美式分词参考"
+    },
+    "egg": {
+      "ipa": "/ˈɛɡ/",
+      "note": "美式参考"
+    },
+    "eiffel tower": {
+      "ipa": "/ˈaɪfəɫ/ /ˈtaʊɝ/",
+      "note": "美式分词参考"
+    },
+    "eight": {
+      "ipa": "/ˈeɪt/",
+      "note": "美式参考"
+    },
+    "eighteen": {
+      "ipa": "/ˈeɪˈtin/, /eɪˈtin/",
+      "note": "美式参考"
+    },
+    "eighty": {
+      "ipa": "/ˈeɪti/",
+      "note": "美式参考"
+    },
+    "electricity": {
+      "ipa": "/ɪˌɫɛkˈtɹɪsəti/",
+      "note": "美式参考"
+    },
+    "elephant": {
+      "ipa": "/ˈɛɫəfənt/",
+      "note": "美式参考"
+    },
+    "eleven": {
+      "ipa": "/ˈiɫɛvən/, /ɪˈɫɛvən/",
+      "note": "美式参考"
+    },
+    "else": {
+      "ipa": "/ˈɛɫs/",
+      "note": "美式参考"
+    },
+    "email": {
+      "ipa": "/iˈmeɪɫ/",
+      "note": "美式参考"
+    },
+    "energy": {
+      "ipa": "/ˈɛnɝdʒi/",
+      "note": "美式参考"
+    },
+    "english": {
+      "ipa": "/ˈɪŋɡɫɪʃ/, /ˈɪŋɫɪʃ/",
+      "note": "美式参考"
+    },
+    "english book": {
+      "ipa": "/ˈɪŋɡɫɪʃ/ /ˈbʊk/",
+      "note": "美式分词参考"
+    },
+    "english class": {
+      "ipa": "/ˈɪŋɡɫɪʃ/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "enjoy": {
+      "ipa": "/ˌɛnˈdʒɔɪ/, /ɪnˈdʒɔɪ/",
+      "note": "美式参考"
+    },
+    "enough": {
+      "ipa": "/iˈnəf/, /ɪˈnəf/",
+      "note": "美式参考"
+    },
+    "environment": {
+      "ipa": "/ɪnˈvaɪɹənmənt/",
+      "note": "美式参考"
+    },
+    "equator": {
+      "ipa": "/ɪˈkweɪtɝ/",
+      "note": "美式参考"
+    },
+    "eraser": {
+      "ipa": "/iˈɹeɪsɝ/, /ɪˈɹeɪsɝ/",
+      "note": "美式参考"
+    },
+    "even": {
+      "ipa": "/ˈivɪn/",
+      "note": "美式参考"
+    },
+    "evening": {
+      "ipa": "/ˈivnɪŋ/",
+      "note": "美式参考"
+    },
+    "ever": {
+      "ipa": "/ˈɛvɝ/",
+      "note": "美式参考"
+    },
+    "every": {
+      "ipa": "/ˈɛvɝi/, /ˈɛvɹi/",
+      "note": "美式参考"
+    },
+    "everyday": {
+      "ipa": "/ˈɛvɹiˈdeɪ/",
+      "note": "美式参考"
+    },
+    "everyone": {
+      "ipa": "/ˈɛvɹiˌwən/",
+      "note": "美式参考"
+    },
+    "everywhere": {
+      "ipa": "/ˈɛvɹiˌwɛɹ/, /ˈɛvɹihˌwɛɹ/",
+      "note": "美式参考"
+    },
+    "excited": {
+      "ipa": "/ɪkˈsaɪtəd/, /ɪkˈsaɪtɪd/",
+      "note": "美式参考"
+    },
+    "exciting": {
+      "ipa": "/ɪkˈsaɪtɪŋ/",
+      "note": "美式参考"
+    },
+    "exercise": {
+      "ipa": "/ˈɛksɝˌsaɪz/",
+      "note": "美式参考"
+    },
+    "exhibition": {
+      "ipa": "/ˌɛksəˈbɪʃən/",
+      "note": "美式参考"
+    },
+    "expensive": {
+      "ipa": "/ɪkˈspɛnsɪv/",
+      "note": "美式参考"
+    },
+    "explore": {
+      "ipa": "/ɪksˈpɫɔɹ/",
+      "note": "美式参考"
+    },
+    "eye": {
+      "ipa": "/ˈaɪ/",
+      "note": "美式参考"
+    },
+    "face": {
+      "ipa": "/ˈfeɪs/",
+      "note": "美式参考"
+    },
+    "factory": {
+      "ipa": "/ˈfæktɝi/",
+      "note": "美式参考"
+    },
+    "factory worker": {
+      "ipa": "/ˈfæktɝi/ /ˈwɝkɝ/",
+      "note": "美式分词参考"
+    },
+    "fail": {
+      "ipa": "/ˈfeɪɫ/",
+      "note": "美式参考"
+    },
+    "fall": {
+      "ipa": "/ˈfɑɫ/, /ˈfɔɫ/",
+      "note": "美式参考"
+    },
+    "family": {
+      "ipa": "/ˈfæməɫi/, /ˈfæmɫi/",
+      "note": "美式参考"
+    },
+    "famous": {
+      "ipa": "/ˈfeɪməs/",
+      "note": "美式参考"
+    },
+    "fan": {
+      "ipa": "/ˈfæn/",
+      "note": "美式参考"
+    },
+    "far": {
+      "ipa": "/ˈfɑɹ/",
+      "note": "美式参考"
+    },
+    "farm": {
+      "ipa": "/ˈfɑɹm/",
+      "note": "美式参考"
+    },
+    "farmer": {
+      "ipa": "/ˈfɑɹmɝ/",
+      "note": "美式参考"
+    },
+    "fast": {
+      "ipa": "/ˈfæst/",
+      "note": "美式参考"
+    },
+    "faster": {
+      "ipa": "/ˈfæstɝ/",
+      "note": "美式参考"
+    },
+    "fat": {
+      "ipa": "/ˈfæt/",
+      "note": "美式参考"
+    },
+    "father": {
+      "ipa": "/ˈfɑðɝ/",
+      "note": "美式参考"
+    },
+    "favourite": {
+      "ipa": "/ˈfeɪvɝɪt/",
+      "note": "美式参考"
+    },
+    "feature": {
+      "ipa": "/ˈfitʃɝ/",
+      "note": "美式参考"
+    },
+    "february": {
+      "ipa": "/ˈfɛbjəˌwɛɹi/, /ˈfɛbɹuˌɛɹi/",
+      "note": "美式参考"
+    },
+    "feed": {
+      "ipa": "/ˈfid/",
+      "note": "美式参考"
+    },
+    "feel": {
+      "ipa": "/ˈfiɫ/",
+      "note": "美式参考"
+    },
+    "feel like": {
+      "ipa": "/ˈfiɫ/ /ˈɫaɪk/",
+      "note": "美式分词参考"
+    },
+    "fell": {
+      "ipa": "/ˈfɛɫ/",
+      "note": "美式参考"
+    },
+    "felt": {
+      "ipa": "/ˈfɛɫt/",
+      "note": "美式参考"
+    },
+    "ferry": {
+      "ipa": "/ˈfɛɹi/",
+      "note": "美式参考"
+    },
+    "festival": {
+      "ipa": "/ˈfɛstəvəɫ/, /ˈfɛstɪvəɫ/",
+      "note": "美式参考"
+    },
+    "fever": {
+      "ipa": "/ˈfivɝ/",
+      "note": "美式参考"
+    },
+    "few": {
+      "ipa": "/ˈfju/",
+      "note": "美式参考"
+    },
+    "fifteen": {
+      "ipa": "/ˈfɪfˈtin/, /fɪfˈtin/",
+      "note": "美式参考"
+    },
+    "fifth": {
+      "ipa": "/ˈfɪfθ/, /ˈfɪθ/",
+      "note": "美式参考"
+    },
+    "fifty": {
+      "ipa": "/ˈfɪfti/",
+      "note": "美式参考"
+    },
+    "film": {
+      "ipa": "/ˈfɪɫm/",
+      "note": "美式参考"
+    },
+    "finally": {
+      "ipa": "/ˈfaɪnəɫi/",
+      "note": "美式参考"
+    },
+    "find": {
+      "ipa": "/ˈfaɪnd/",
+      "note": "美式参考"
+    },
+    "fine": {
+      "ipa": "/ˈfaɪn/",
+      "note": "美式参考"
+    },
+    "finish": {
+      "ipa": "/ˈfɪnɪʃ/",
+      "note": "美式参考"
+    },
+    "fire": {
+      "ipa": "/ˈfaɪɝ/, /ˈfaɪɹ/",
+      "note": "美式参考"
+    },
+    "firefighter": {
+      "ipa": "/ˈfaɪɹˌfaɪtɝ/",
+      "note": "美式参考"
+    },
+    "first": {
+      "ipa": "/ˈfɝst/",
+      "note": "美式参考"
+    },
+    "first floor": {
+      "ipa": "/ˈfɝst/ /ˈfɫɔɹ/",
+      "note": "美式分词参考"
+    },
+    "fish": {
+      "ipa": "/ˈfɪʃ/",
+      "note": "美式参考"
+    },
+    "fisherman": {
+      "ipa": "/ˈfɪʃɝˌmæn/, /ˈfɪʃɝmən/",
+      "note": "美式参考"
+    },
+    "five": {
+      "ipa": "/ˈfaɪv/",
+      "note": "美式参考"
+    },
+    "fixed": {
+      "ipa": "/ˈfɪkst/",
+      "note": "美式参考"
+    },
+    "flash": {
+      "ipa": "/ˈfɫæʃ/",
+      "note": "美式参考"
+    },
+    "flood": {
+      "ipa": "/ˈfɫəd/",
+      "note": "美式参考"
+    },
+    "floor": {
+      "ipa": "/ˈfɫɔɹ/",
+      "note": "美式参考"
+    },
+    "flower": {
+      "ipa": "/ˈfɫaʊɝ/",
+      "note": "美式参考"
+    },
+    "flu": {
+      "ipa": "/ˈfɫu/",
+      "note": "美式参考"
+    },
+    "fly": {
+      "ipa": "/ˈfɫaɪ/",
+      "note": "美式参考"
+    },
+    "fog": {
+      "ipa": "/ˈfɑɡ/, /ˈfɔɡ/",
+      "note": "美式参考"
+    },
+    "follow": {
+      "ipa": "/ˈfɑɫoʊ/",
+      "note": "美式参考"
+    },
+    "food": {
+      "ipa": "/ˈfud/",
+      "note": "美式参考"
+    },
+    "foot": {
+      "ipa": "/ˈfʊt/",
+      "note": "美式参考"
+    },
+    "football": {
+      "ipa": "/ˈfʊtˌbɔɫ/",
+      "note": "美式参考"
+    },
+    "football player": {
+      "ipa": "/ˈfʊtˌbɔɫ/ /ˈpɫeɪɝ/",
+      "note": "美式分词参考"
+    },
+    "for example": {
+      "ipa": "/ˈfɔɹ/ /ɪɡˈzæmpəɫ/",
+      "note": "美式分词参考"
+    },
+    "foreign": {
+      "ipa": "/ˈfɑɹən/, /ˈfɔɹən/",
+      "note": "美式参考"
+    },
+    "forest": {
+      "ipa": "/ˈfɔɹəst/, /ˈfɔɹɪst/",
+      "note": "美式参考"
+    },
+    "fork": {
+      "ipa": "/ˈfɔɹk/",
+      "note": "美式参考"
+    },
+    "forty": {
+      "ipa": "/ˈfɔɹti/",
+      "note": "美式参考"
+    },
+    "four": {
+      "ipa": "/ˈfɔɹ/",
+      "note": "美式参考"
+    },
+    "fourteen": {
+      "ipa": "/ˈfɔɹˈtin/, /ˌfɔɹˈtin/",
+      "note": "美式参考"
+    },
+    "fourth": {
+      "ipa": "/ˈfɔɹθ/",
+      "note": "美式参考"
+    },
+    "fox": {
+      "ipa": "/ˈfɑks/",
+      "note": "美式参考"
+    },
+    "free": {
+      "ipa": "/ˈfɹi/",
+      "note": "美式参考"
+    },
+    "fresh": {
+      "ipa": "/ˈfɹɛʃ/",
+      "note": "美式参考"
+    },
+    "friday": {
+      "ipa": "/ˈfɹaɪˌdeɪ/, /ˈfɹaɪdi/",
+      "note": "美式参考"
+    },
+    "fridge": {
+      "ipa": "/ˈfɹɪdʒ/",
+      "note": "美式参考"
+    },
+    "friend": {
+      "ipa": "/ˈfɹɛnd/",
+      "note": "美式参考"
+    },
+    "friendly": {
+      "ipa": "/ˈfɹɛndɫi/, /ˈfɹɛnɫi/",
+      "note": "美式参考"
+    },
+    "from": {
+      "ipa": "/ˈfɹəm/",
+      "note": "美式参考"
+    },
+    "front": {
+      "ipa": "/ˈfɹənt/",
+      "note": "美式参考"
+    },
+    "fruit": {
+      "ipa": "/ˈfɹut/",
+      "note": "美式参考"
+    },
+    "fun": {
+      "ipa": "/ˈfən/",
+      "note": "美式参考"
+    },
+    "funny": {
+      "ipa": "/ˈfəni/",
+      "note": "美式参考"
+    },
+    "fur": {
+      "ipa": "/ˈfɝ/",
+      "note": "美式参考"
+    },
+    "gala": {
+      "ipa": "/ˈɡæɫə/, /ˈɡeɪɫə/",
+      "note": "美式参考"
+    },
+    "game": {
+      "ipa": "/ˈɡeɪm/",
+      "note": "美式参考"
+    },
+    "garden": {
+      "ipa": "/ˈɡɑɹdən/",
+      "note": "美式参考"
+    },
+    "gave": {
+      "ipa": "/ˈɡeɪv/",
+      "note": "美式参考"
+    },
+    "germany": {
+      "ipa": "/ˈdʒɝməni/",
+      "note": "美式参考"
+    },
+    "get": {
+      "ipa": "/ˈɡɛt/, /ˈɡɪt/",
+      "note": "美式参考"
+    },
+    "get together": {
+      "ipa": "/ˈɡɛt/ /təˈɡɛðɝ/",
+      "note": "美式分词参考"
+    },
+    "get up": {
+      "ipa": "/ˈɡɛt/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "gift": {
+      "ipa": "/ˈɡɪft/",
+      "note": "美式参考"
+    },
+    "gingerbread house": {
+      "ipa": "/ˈdʒɪndʒɝˌbɹɛd/ /ˈhaʊs/",
+      "note": "美式分词参考"
+    },
+    "giraffe": {
+      "ipa": "/dʒɝˈæf/",
+      "note": "美式参考"
+    },
+    "girl": {
+      "ipa": "/ˈɡɝɫ/",
+      "note": "美式参考"
+    },
+    "give": {
+      "ipa": "/ˈɡɪv/",
+      "note": "美式参考"
+    },
+    "give up": {
+      "ipa": "/ˈɡɪv/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "glass": {
+      "ipa": "/ˈɡɫæs/",
+      "note": "美式参考"
+    },
+    "glasses": {
+      "ipa": "/ˈɡɫæsəz/, /ˈɡɫæsɪz/",
+      "note": "美式参考"
+    },
+    "glove": {
+      "ipa": "/ˈɡɫəv/",
+      "note": "美式参考"
+    },
+    "go": {
+      "ipa": "/ˈɡoʊ/",
+      "note": "美式参考"
+    },
+    "go boating": {
+      "ipa": "/ˈɡoʊ/ /ˈboʊtɪŋ/",
+      "note": "美式分词参考"
+    },
+    "go cycling": {
+      "ipa": "/ˈɡoʊ/ /ˈsaɪkəɫɪŋ/",
+      "note": "美式分词参考"
+    },
+    "go for a walk": {
+      "ipa": "/ˈɡoʊ/ /ˈfɔɹ/ /ə/ /ˈwɑk/",
+      "note": "美式分词参考"
+    },
+    "go hiking": {
+      "ipa": "/ˈɡoʊ/ /ˈhaɪkɪŋ/",
+      "note": "美式分词参考"
+    },
+    "go home": {
+      "ipa": "/ˈɡoʊ/ /ˈhoʊm/",
+      "note": "美式分词参考"
+    },
+    "go on a picnic": {
+      "ipa": "/ˈɡoʊ/ /ˈɑn/ /ə/ /ˈpɪkˌnɪk/",
+      "note": "美式分词参考"
+    },
+    "go shopping": {
+      "ipa": "/ˈɡoʊ/ /ˈʃɑpɪŋ/",
+      "note": "美式分词参考"
+    },
+    "go swimming": {
+      "ipa": "/ˈɡoʊ/ /ˈswɪmɪŋ/",
+      "note": "美式分词参考"
+    },
+    "go to bed": {
+      "ipa": "/ˈɡoʊ/ /ˈtu/ /ˈbɛd/",
+      "note": "美式分词参考"
+    },
+    "go to school": {
+      "ipa": "/ˈɡoʊ/ /ˈtu/ /ˈskuɫ/",
+      "note": "美式分词参考"
+    },
+    "goal": {
+      "ipa": "/ˈɡoʊɫ/",
+      "note": "美式参考"
+    },
+    "goat": {
+      "ipa": "/ˈɡoʊt/",
+      "note": "美式参考"
+    },
+    "good": {
+      "ipa": "/ˈɡʊd/, /ɡɪd/",
+      "note": "美式参考"
+    },
+    "good job": {
+      "ipa": "/ˈɡʊd/ /ˈdʒɑb/",
+      "note": "美式分词参考"
+    },
+    "goods": {
+      "ipa": "/ˈɡʊdz/",
+      "note": "美式参考"
+    },
+    "grandfather": {
+      "ipa": "/ˈɡɹænˌfɑðɝ/, /ˈɡɹændˌfɑðɝ/",
+      "note": "美式参考"
+    },
+    "grandma": {
+      "ipa": "/ˈɡɹændmɑ/",
+      "note": "美式参考"
+    },
+    "grandmother": {
+      "ipa": "/ˈɡɹændˌməðɝ/",
+      "note": "美式参考"
+    },
+    "grandpa": {
+      "ipa": "/ˈɡɹændˌpɑ/",
+      "note": "美式参考"
+    },
+    "grandparent": {
+      "ipa": "/ˈɡɹændˌpɛɹənt/",
+      "note": "美式参考"
+    },
+    "grape": {
+      "ipa": "/ˈɡɹeɪp/",
+      "note": "美式参考"
+    },
+    "grass": {
+      "ipa": "/ˈɡɹæs/",
+      "note": "美式参考"
+    },
+    "grassland": {
+      "ipa": "/ˈɡɹæsˌɫænd/",
+      "note": "美式参考"
+    },
+    "green": {
+      "ipa": "/ˈɡɹin/",
+      "note": "美式参考"
+    },
+    "green bean": {
+      "ipa": "/ˈɡɹin/ /ˈbin/",
+      "note": "美式分词参考"
+    },
+    "green beans": {
+      "ipa": "/ˈɡɹin/ /ˈbinz/",
+      "note": "美式分词参考"
+    },
+    "guard": {
+      "ipa": "/ˈɡɑɹd/",
+      "note": "美式参考"
+    },
+    "gym": {
+      "ipa": "/ˈdʒɪm/",
+      "note": "美式参考"
+    },
+    "habit": {
+      "ipa": "/ˈhæbət/",
+      "note": "美式参考"
+    },
+    "had": {
+      "ipa": "/ˈhæd/",
+      "note": "美式参考"
+    },
+    "had a cold": {
+      "ipa": "/ˈhæd/ /ə/ /ˈkoʊɫd/",
+      "note": "美式分词参考"
+    },
+    "hair": {
+      "ipa": "/ˈhɛɹ/",
+      "note": "美式参考"
+    },
+    "haircut": {
+      "ipa": "/ˈhɛɹˌkət/",
+      "note": "美式参考"
+    },
+    "half": {
+      "ipa": "/ˈhæf/",
+      "note": "美式参考"
+    },
+    "hall": {
+      "ipa": "/ˈhɔɫ/",
+      "note": "美式参考"
+    },
+    "hamburger": {
+      "ipa": "/ˈhæmbɝɡɝ/",
+      "note": "美式参考"
+    },
+    "hand": {
+      "ipa": "/ˈhænd/",
+      "note": "美式参考"
+    },
+    "hand out": {
+      "ipa": "/ˈhænd/ /ˈaʊt/",
+      "note": "美式分词参考"
+    },
+    "happy": {
+      "ipa": "/ˈhæpi/",
+      "note": "美式参考"
+    },
+    "harbin": {
+      "ipa": "/ˈhɑɹbɪn/",
+      "note": "美式参考"
+    },
+    "hard": {
+      "ipa": "/ˈhɑɹd/",
+      "note": "美式参考"
+    },
+    "hard-working": {
+      "ipa": "/ˌhɑɹdhˈwɝkɪŋ/",
+      "note": "美式参考"
+    },
+    "has": {
+      "ipa": "/ˈhæz/, /həz/",
+      "note": "美式参考"
+    },
+    "hat": {
+      "ipa": "/ˈhæt/",
+      "note": "美式参考"
+    },
+    "have": {
+      "ipa": "/ˈhæv/",
+      "note": "美式参考"
+    },
+    "have a look": {
+      "ipa": "/ˈhæv/ /ə/ /ˈɫʊk/",
+      "note": "美式分词参考"
+    },
+    "have … class": {
+      "ipa": "/ˈhæv/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "having … class": {
+      "ipa": "/ˈhævɪŋ/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "hawaii": {
+      "ipa": "/həˈwaɪˌi/",
+      "note": "美式参考"
+    },
+    "he": {
+      "ipa": "/ˈhi/",
+      "note": "美式参考"
+    },
+    "head": {
+      "ipa": "/ˈhɛd/",
+      "note": "美式参考"
+    },
+    "head teacher": {
+      "ipa": "/ˈhɛd/ /ˈtitʃɝ/",
+      "note": "美式分词参考"
+    },
+    "health": {
+      "ipa": "/ˈhɛɫθ/",
+      "note": "美式参考"
+    },
+    "healthy": {
+      "ipa": "/ˈhɛɫθi/",
+      "note": "美式参考"
+    },
+    "hear": {
+      "ipa": "/ˈhiɹ/",
+      "note": "美式参考"
+    },
+    "heat": {
+      "ipa": "/ˈhit/",
+      "note": "美式参考"
+    },
+    "heavier": {
+      "ipa": "/ˈhɛviɝ/",
+      "note": "美式参考"
+    },
+    "heavy": {
+      "ipa": "/ˈhɛvi/",
+      "note": "美式参考"
+    },
+    "helmet": {
+      "ipa": "/ˈhɛɫmət/",
+      "note": "美式参考"
+    },
+    "help": {
+      "ipa": "/ˈhɛɫp/",
+      "note": "美式参考"
+    },
+    "help yourself": {
+      "ipa": "/ˈhɛɫp/ /ˈjɔɹsɛɫf/",
+      "note": "美式分词参考"
+    },
+    "helper": {
+      "ipa": "/ˈhɛɫpɝ/",
+      "note": "美式参考"
+    },
+    "helpful": {
+      "ipa": "/ˈhɛɫpfəɫ/",
+      "note": "美式参考"
+    },
+    "hen": {
+      "ipa": "/ˈhɛn/",
+      "note": "美式参考"
+    },
+    "her": {
+      "ipa": "/ˈhɝ/, /hɝ/",
+      "note": "美式参考"
+    },
+    "hers": {
+      "ipa": "/ˈhɝz/, /hɝz/",
+      "note": "美式参考"
+    },
+    "herself": {
+      "ipa": "/hɝˈsɛɫf/",
+      "note": "美式参考"
+    },
+    "high": {
+      "ipa": "/ˈhaɪ/",
+      "note": "美式参考"
+    },
+    "hiking": {
+      "ipa": "/ˈhaɪkɪŋ/",
+      "note": "美式参考"
+    },
+    "hill": {
+      "ipa": "/ˈhɪɫ/",
+      "note": "美式参考"
+    },
+    "him": {
+      "ipa": "/ˈhɪm/, /ɪm/",
+      "note": "美式参考"
+    },
+    "his": {
+      "ipa": "/ˈhɪz/, /hɪz/",
+      "note": "美式参考"
+    },
+    "history": {
+      "ipa": "/ˈhɪstɝi/, /ˈhɪstɹi/",
+      "note": "美式参考"
+    },
+    "hobby": {
+      "ipa": "/ˈhɑbi/",
+      "note": "美式参考"
+    },
+    "holiday": {
+      "ipa": "/ˈhɑɫəˌdeɪ/, /ˈhɑɫɪˌdeɪ/",
+      "note": "美式参考"
+    },
+    "home": {
+      "ipa": "/ˈhoʊm/",
+      "note": "美式参考"
+    },
+    "hometown": {
+      "ipa": "/ˈhoʊmˌtaʊn/",
+      "note": "美式参考"
+    },
+    "homework": {
+      "ipa": "/ˈhoʊmˌwɝk/",
+      "note": "美式参考"
+    },
+    "hong kong-zhuhai-macao bridge": {
+      "ipa": "/ˈhɔŋ/ /ˈkɔŋ/ /ˈʒuˈhaɪ/ /məˈkaʊ/ /ˈbɹɪdʒ/",
+      "note": "美式分词参考"
+    },
+    "hope": {
+      "ipa": "/ˈhoʊp/",
+      "note": "美式参考"
+    },
+    "horse": {
+      "ipa": "/ˈhɔɹs/",
+      "note": "美式参考"
+    },
+    "hospital": {
+      "ipa": "/ˈhɑˌspɪtəɫ/",
+      "note": "美式参考"
+    },
+    "hot": {
+      "ipa": "/ˈhɑt/",
+      "note": "美式参考"
+    },
+    "hot pot": {
+      "ipa": "/ˈhɑt/ /ˈpɑt/",
+      "note": "美式分词参考"
+    },
+    "hotel": {
+      "ipa": "/hoʊˈtɛɫ/",
+      "note": "美式参考"
+    },
+    "hour": {
+      "ipa": "/ˈaʊɝ/, /ˈaʊɹ/",
+      "note": "美式参考"
+    },
+    "house": {
+      "ipa": "/ˈhaʊs/",
+      "note": "美式参考"
+    },
+    "how about": {
+      "ipa": "/ˈhaʊ/ /əˈbaʊt/",
+      "note": "美式分词参考"
+    },
+    "how much": {
+      "ipa": "/ˈhaʊ/ /ˈmətʃ/",
+      "note": "美式分词参考"
+    },
+    "hundred": {
+      "ipa": "/ˈhəndɝd/, /ˈhəndɹəd/, /ˈhəndɹɪd/, /ˈhənɝd/",
+      "note": "美式参考"
+    },
+    "hungry": {
+      "ipa": "/ˈhəŋɡɹi/",
+      "note": "美式参考"
+    },
+    "hurry up": {
+      "ipa": "/ˈhɝi/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "hurt": {
+      "ipa": "/ˈhɝt/",
+      "note": "美式参考"
+    },
+    "i'm fine.": {
+      "ipa": "/ˈaɪm/ /ˈfaɪn/",
+      "note": "美式分词参考"
+    },
+    "ice": {
+      "ipa": "/ˈaɪs/",
+      "note": "美式参考"
+    },
+    "ice cream": {
+      "ipa": "/ˈaɪs/ /ˈkɹim/",
+      "note": "美式分词参考"
+    },
+    "ice-skate": {
+      "ipa": "/ˈaɪs/ /ˈskeɪt/",
+      "note": "美式分词参考"
+    },
+    "idea": {
+      "ipa": "/aɪˈdiə/",
+      "note": "美式参考"
+    },
+    "if": {
+      "ipa": "/ˈɪf/, /ɪf/",
+      "note": "美式参考"
+    },
+    "ill": {
+      "ipa": "/ˈɪɫ/",
+      "note": "美式参考"
+    },
+    "important": {
+      "ipa": "/ˌɪmˈpɔɹtənt/",
+      "note": "美式参考"
+    },
+    "in": {
+      "ipa": "/ˈɪn/, /ɪn/",
+      "note": "美式参考"
+    },
+    "in class": {
+      "ipa": "/ˈɪn/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "in front of": {
+      "ipa": "/ˈɪn/ /ˈfɹənt/ /ˈəv/",
+      "note": "美式分词参考"
+    },
+    "india": {
+      "ipa": "/ˈɪndiə/",
+      "note": "美式参考"
+    },
+    "information": {
+      "ipa": "/ˌɪnfɝˈmeɪʃən/, /ɪnˈfɔɹˈmeɪʃən/",
+      "note": "美式参考"
+    },
+    "inside": {
+      "ipa": "/ˈɪnˌsaɪd/, /ˌɪnˈsaɪd/",
+      "note": "美式参考"
+    },
+    "inspiring": {
+      "ipa": "/ˌɪnˈspaɪɝɪŋ/, /ˌɪnˈspaɪɹɪŋ/",
+      "note": "美式参考"
+    },
+    "interesting": {
+      "ipa": "/ˈɪntɝəstɪŋ/, /ˈɪntɝɪstɪŋ/, /ˈɪntɹəstɪŋ/, /ˈɪntɹɪstɪŋ/",
+      "note": "美式参考"
+    },
+    "internet": {
+      "ipa": "/ˈɪntɝˌnɛt/",
+      "note": "美式参考"
+    },
+    "into": {
+      "ipa": "/ˈɪntu/, /ɪnˈtu/, /ɪntə/",
+      "note": "美式参考"
+    },
+    "island": {
+      "ipa": "/ˈaɪɫənd/",
+      "note": "美式参考"
+    },
+    "italian": {
+      "ipa": "/ˌɪˈtæɫjən/",
+      "note": "美式参考"
+    },
+    "italy": {
+      "ipa": "/ˈɪtəɫi/",
+      "note": "美式参考"
+    },
+    "its": {
+      "ipa": "/ˈɪts/, /ɪts/",
+      "note": "美式参考"
+    },
+    "jacket": {
+      "ipa": "/ˈdʒækət/, /ˈdʒækɪt/",
+      "note": "美式参考"
+    },
+    "jane": {
+      "ipa": "/ˈdʒeɪn/",
+      "note": "美式参考"
+    },
+    "january": {
+      "ipa": "/ˈdʒænjuˌɛɹi/",
+      "note": "美式参考"
+    },
+    "jar": {
+      "ipa": "/ˈdʒɑɹ/",
+      "note": "美式参考"
+    },
+    "jasmine": {
+      "ipa": "/ˈdʒæzmən/, /ˈdʒæzmɪn/",
+      "note": "美式参考"
+    },
+    "job": {
+      "ipa": "/ˈdʒɑb/, /ˈdʒoʊb/",
+      "note": "美式参考"
+    },
+    "join": {
+      "ipa": "/ˈdʒɔɪn/",
+      "note": "美式参考"
+    },
+    "judge": {
+      "ipa": "/ˈdʒədʒ/",
+      "note": "美式参考"
+    },
+    "juice": {
+      "ipa": "/ˈdʒus/",
+      "note": "美式参考"
+    },
+    "july": {
+      "ipa": "/ˌdʒuˈɫaɪ/, /dʒəˈɫaɪ/",
+      "note": "美式参考"
+    },
+    "jump": {
+      "ipa": "/ˈdʒəmp/",
+      "note": "美式参考"
+    },
+    "jumping": {
+      "ipa": "/ˈdʒəmpɪŋ/",
+      "note": "美式参考"
+    },
+    "june": {
+      "ipa": "/ˈdʒun/",
+      "note": "美式参考"
+    },
+    "just": {
+      "ipa": "/ˈdʒəst/, /dʒɪst/",
+      "note": "美式参考"
+    },
+    "just a minute": {
+      "ipa": "/ˈdʒəst/ /ə/ /ˈmɪnət/",
+      "note": "美式分词参考"
+    },
+    "kangaroo": {
+      "ipa": "/ˌkæŋɡɝˈu/",
+      "note": "美式参考"
+    },
+    "keep": {
+      "ipa": "/ˈkip/",
+      "note": "美式参考"
+    },
+    "keep to the right": {
+      "ipa": "/ˈkip/ /ˈtu/ /ˈðə/ /ˈɹaɪt/",
+      "note": "美式分词参考"
+    },
+    "keep your desk clean": {
+      "ipa": "/ˈkip/ /ˈjɔɹ/ /ˈdɛsk/ /ˈkɫin/",
+      "note": "美式分词参考"
+    },
+    "key": {
+      "ipa": "/ˈki/",
+      "note": "美式参考"
+    },
+    "kid": {
+      "ipa": "/ˈkɪd/",
+      "note": "美式参考"
+    },
+    "kilogram": {
+      "ipa": "/ˈkɪɫəˌɡɹæm/",
+      "note": "美式参考"
+    },
+    "kilometre": {
+      "ipa": "/ˌkɪˈɫɔˌmətɝ/, /ˌkɪɫəˈmitɝ/",
+      "note": "美式参考"
+    },
+    "kind": {
+      "ipa": "/ˈkaɪnd/",
+      "note": "美式参考"
+    },
+    "kitchen": {
+      "ipa": "/ˈkɪtʃən/",
+      "note": "美式参考"
+    },
+    "kite": {
+      "ipa": "/ˈkaɪt/",
+      "note": "美式参考"
+    },
+    "kitten": {
+      "ipa": "/ˈkɪtən/",
+      "note": "美式参考"
+    },
+    "knife": {
+      "ipa": "/ˈnaɪf/",
+      "note": "美式参考"
+    },
+    "know": {
+      "ipa": "/ˈnoʊ/",
+      "note": "美式参考"
+    },
+    "koala": {
+      "ipa": "/koʊˈɑɫə/",
+      "note": "美式参考"
+    },
+    "kung fu": {
+      "ipa": "/ˈkəŋ/ /ˈfu/",
+      "note": "美式分词参考"
+    },
+    "labour": {
+      "ipa": "/ˈɫeɪbɝ/",
+      "note": "美式参考"
+    },
+    "labour day": {
+      "ipa": "/ˈɫeɪbɝ/ /ˈdeɪ/",
+      "note": "美式分词参考"
+    },
+    "lake": {
+      "ipa": "/ˈɫeɪk/",
+      "note": "美式参考"
+    },
+    "lamp": {
+      "ipa": "/ˈɫæmp/",
+      "note": "美式参考"
+    },
+    "large": {
+      "ipa": "/ˈɫɑɹdʒ/",
+      "note": "美式参考"
+    },
+    "last": {
+      "ipa": "/ˈɫæs/, /ˈɫæst/",
+      "note": "美式参考"
+    },
+    "late": {
+      "ipa": "/ˈɫeɪt/",
+      "note": "美式参考"
+    },
+    "later": {
+      "ipa": "/ˈɫeɪtɝ/",
+      "note": "美式参考"
+    },
+    "laugh": {
+      "ipa": "/ˈɫæf/",
+      "note": "美式参考"
+    },
+    "laughed": {
+      "ipa": "/ˈɫæft/",
+      "note": "美式参考"
+    },
+    "leaf": {
+      "ipa": "/ˈɫif/",
+      "note": "美式参考"
+    },
+    "learn": {
+      "ipa": "/ˈɫɝn/",
+      "note": "美式参考"
+    },
+    "left": {
+      "ipa": "/ˈɫɛft/",
+      "note": "美式参考"
+    },
+    "leg": {
+      "ipa": "/ˈɫɛɡ/",
+      "note": "美式参考"
+    },
+    "less": {
+      "ipa": "/ˈɫɛs/",
+      "note": "美式参考"
+    },
+    "lesson": {
+      "ipa": "/ˈɫɛsən/",
+      "note": "美式参考"
+    },
+    "letter": {
+      "ipa": "/ˈɫɛtɝ/",
+      "note": "美式参考"
+    },
+    "library": {
+      "ipa": "/ˈɫaɪbɹɛˌɹi/",
+      "note": "美式参考"
+    },
+    "licked": {
+      "ipa": "/ˈɫɪkt/",
+      "note": "美式参考"
+    },
+    "light": {
+      "ipa": "/ˈɫaɪt/",
+      "note": "美式参考"
+    },
+    "like": {
+      "ipa": "/ˈɫaɪk/",
+      "note": "美式参考"
+    },
+    "line": {
+      "ipa": "/ˈɫaɪn/",
+      "note": "美式参考"
+    },
+    "lion": {
+      "ipa": "/ˈɫaɪən/",
+      "note": "美式参考"
+    },
+    "list": {
+      "ipa": "/ˈɫɪst/",
+      "note": "美式参考"
+    },
+    "listen": {
+      "ipa": "/ˈɫɪsən/",
+      "note": "美式参考"
+    },
+    "listening to music": {
+      "ipa": "/ˈɫɪsənɪŋ/ /ˈtu/ /ˈmjuzɪk/",
+      "note": "美式分词参考"
+    },
+    "litter": {
+      "ipa": "/ˈɫɪtɝ/",
+      "note": "美式参考"
+    },
+    "little": {
+      "ipa": "/ˈɫɪtəɫ/",
+      "note": "美式参考"
+    },
+    "live": {
+      "ipa": "/ˈɫɪv/",
+      "note": "美式参考"
+    },
+    "living room": {
+      "ipa": "/ˈɫɪvɪŋ/ /ˈɹum/",
+      "note": "美式分词参考"
+    },
+    "local": {
+      "ipa": "/ˈɫoʊkəɫ/",
+      "note": "美式参考"
+    },
+    "london": {
+      "ipa": "/ˈɫəndən/",
+      "note": "美式参考"
+    },
+    "long": {
+      "ipa": "/ˈɫɔŋ/",
+      "note": "美式参考"
+    },
+    "longer": {
+      "ipa": "/ˈɫɔŋɡɝ/",
+      "note": "美式参考"
+    },
+    "look after": {
+      "ipa": "/ˈɫʊk/ /ˈæftɝ/",
+      "note": "美式分词参考"
+    },
+    "look up": {
+      "ipa": "/ˈɫʊk/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "lose": {
+      "ipa": "/ˈɫuz/",
+      "note": "美式参考"
+    },
+    "lost": {
+      "ipa": "/ˈɫɔst/",
+      "note": "美式参考"
+    },
+    "lot": {
+      "ipa": "/ˈɫɑt/, /ˈɫɔt/",
+      "note": "美式参考"
+    },
+    "lots of": {
+      "ipa": "/ˈɫɑts/ /ˈəv/",
+      "note": "美式分词参考"
+    },
+    "lotus": {
+      "ipa": "/ˈɫoʊtəs/",
+      "note": "美式参考"
+    },
+    "loud": {
+      "ipa": "/ˈɫaʊd/",
+      "note": "美式参考"
+    },
+    "love": {
+      "ipa": "/ˈɫəv/",
+      "note": "美式参考"
+    },
+    "lovely": {
+      "ipa": "/ˈɫəvɫi/",
+      "note": "美式参考"
+    },
+    "lower": {
+      "ipa": "/ˈɫoʊɝ/",
+      "note": "美式参考"
+    },
+    "luca": {
+      "ipa": "/ˈɫukə/",
+      "note": "美式参考"
+    },
+    "lucky": {
+      "ipa": "/ˈɫəki/",
+      "note": "美式参考"
+    },
+    "lunch": {
+      "ipa": "/ˈɫəntʃ/",
+      "note": "美式参考"
+    },
+    "magazine": {
+      "ipa": "/ˈmæɡəˌzin/",
+      "note": "美式参考"
+    },
+    "make": {
+      "ipa": "/ˈmeɪk/",
+      "note": "美式参考"
+    },
+    "make a snowman": {
+      "ipa": "/ˈmeɪk/ /ə/ /ˈsnoʊˌmæn/",
+      "note": "美式分词参考"
+    },
+    "make the bed": {
+      "ipa": "/ˈmeɪk/ /ˈðə/ /ˈbɛd/",
+      "note": "美式分词参考"
+    },
+    "man": {
+      "ipa": "/ˈmæn/",
+      "note": "美式参考"
+    },
+    "manage": {
+      "ipa": "/ˈmænədʒ/, /ˈmænɪdʒ/",
+      "note": "美式参考"
+    },
+    "map": {
+      "ipa": "/ˈmæp/",
+      "note": "美式参考"
+    },
+    "marathon": {
+      "ipa": "/ˈmɛɹəˌθɑn/",
+      "note": "美式参考"
+    },
+    "marble": {
+      "ipa": "/ˈmɑɹbəɫ/",
+      "note": "美式参考"
+    },
+    "march": {
+      "ipa": "/ˈmɑɹtʃ/",
+      "note": "美式参考"
+    },
+    "market": {
+      "ipa": "/ˈmɑɹkət/, /ˈmɑɹkɪt/",
+      "note": "美式参考"
+    },
+    "mars": {
+      "ipa": "/ˈmɑɹz/",
+      "note": "美式参考"
+    },
+    "martin": {
+      "ipa": "/ˈmɑɹtən/, /ˈmɑɹtɪn/",
+      "note": "美式参考"
+    },
+    "maths": {
+      "ipa": "/mæθs/",
+      "note": "美式参考"
+    },
+    "maths book": {
+      "ipa": "/mæθs/ /ˈbʊk/",
+      "note": "美式分词参考"
+    },
+    "matter": {
+      "ipa": "/ˈmætɝ/",
+      "note": "美式参考"
+    },
+    "may": {
+      "ipa": "/ˈmeɪ/",
+      "note": "美式参考"
+    },
+    "maybe": {
+      "ipa": "/ˈmeɪbi/",
+      "note": "美式参考"
+    },
+    "me": {
+      "ipa": "/ˈmi/",
+      "note": "美式参考"
+    },
+    "meat": {
+      "ipa": "/ˈmit/",
+      "note": "美式参考"
+    },
+    "meet": {
+      "ipa": "/ˈmit/",
+      "note": "美式参考"
+    },
+    "metre": {
+      "ipa": "/ˈmitɝ/",
+      "note": "美式参考"
+    },
+    "mice": {
+      "ipa": "/ˈmaɪs/",
+      "note": "美式参考"
+    },
+    "microscope": {
+      "ipa": "/ˈmaɪkɹəˌskoʊp/",
+      "note": "美式参考"
+    },
+    "mid-autumn festival": {
+      "ipa": "/ˈmɪd/ /ˈɔtəm/ /ˈfɛstəvəɫ/",
+      "note": "美式分词参考"
+    },
+    "middle": {
+      "ipa": "/ˈmɪdəɫ/",
+      "note": "美式参考"
+    },
+    "mike": {
+      "ipa": "/ˈmaɪk/",
+      "note": "美式参考"
+    },
+    "milk": {
+      "ipa": "/ˈmɪɫk/",
+      "note": "美式参考"
+    },
+    "mine": {
+      "ipa": "/ˈmaɪn/",
+      "note": "美式参考"
+    },
+    "minute": {
+      "ipa": "/ˈmɪnət/, /maɪˈnut/, /maɪnˈjut/",
+      "note": "美式参考"
+    },
+    "miss": {
+      "ipa": "/ˈmɪs/",
+      "note": "美式参考"
+    },
+    "monday": {
+      "ipa": "/ˈmənˌdeɪ/, /ˈməndi/",
+      "note": "美式参考"
+    },
+    "money": {
+      "ipa": "/ˈməni/",
+      "note": "美式参考"
+    },
+    "monkey": {
+      "ipa": "/ˈməŋki/",
+      "note": "美式参考"
+    },
+    "month": {
+      "ipa": "/ˈmənθ/",
+      "note": "美式参考"
+    },
+    "moon": {
+      "ipa": "/ˈmun/",
+      "note": "美式参考"
+    },
+    "mooncake": {
+      "ipa": "/ˈmuːn.keɪk/",
+      "note": "美式参考"
+    },
+    "more": {
+      "ipa": "/ˈmɔɹ/",
+      "note": "美式参考"
+    },
+    "moscow": {
+      "ipa": "/ˈmɑˌskoʊ/, /ˈmɔˌskaʊ/",
+      "note": "美式参考"
+    },
+    "mother": {
+      "ipa": "/ˈməðɝ/",
+      "note": "美式参考"
+    },
+    "mountain": {
+      "ipa": "/ˈmaʊntən/",
+      "note": "美式参考"
+    },
+    "mouse": {
+      "ipa": "/ˈmaʊs/",
+      "note": "美式参考"
+    },
+    "mouth": {
+      "ipa": "/ˈmaʊθ/",
+      "note": "美式参考"
+    },
+    "move": {
+      "ipa": "/ˈmuv/",
+      "note": "美式参考"
+    },
+    "mr": {
+      "ipa": "/ˈmɪstɝ/",
+      "note": "美式参考"
+    },
+    "mrs": {
+      "ipa": "/ˈmɪsɪz/",
+      "note": "美式参考"
+    },
+    "ms": {
+      "ipa": "/ˈmɪz/",
+      "note": "美式参考"
+    },
+    "much": {
+      "ipa": "/ˈmətʃ/",
+      "note": "美式参考"
+    },
+    "mud": {
+      "ipa": "/ˈməd/",
+      "note": "美式参考"
+    },
+    "mule": {
+      "ipa": "/ˈmjuɫ/",
+      "note": "美式参考"
+    },
+    "mum": {
+      "ipa": "/ˈməm/",
+      "note": "美式参考"
+    },
+    "munich": {
+      "ipa": "/ˈmjunɪk/",
+      "note": "美式参考"
+    },
+    "museum": {
+      "ipa": "/ˈmjuziəm/, /mjuˈziəm/",
+      "note": "美式参考"
+    },
+    "music": {
+      "ipa": "/ˈmjuzɪk/",
+      "note": "美式参考"
+    },
+    "music class": {
+      "ipa": "/ˈmjuzɪk/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "music room": {
+      "ipa": "/ˈmjuzɪk/ /ˈɹum/",
+      "note": "美式分词参考"
+    },
+    "must": {
+      "ipa": "/ˈməst/",
+      "note": "美式参考"
+    },
+    "name": {
+      "ipa": "/ˈneɪm/",
+      "note": "美式参考"
+    },
+    "national": {
+      "ipa": "/ˈnæʃənəɫ/, /ˈnæʃnəɫ/",
+      "note": "美式参考"
+    },
+    "national day": {
+      "ipa": "/ˈnæʃənəɫ/ /ˈdeɪ/",
+      "note": "美式分词参考"
+    },
+    "nature": {
+      "ipa": "/ˈneɪtʃɝ/",
+      "note": "美式参考"
+    },
+    "near": {
+      "ipa": "/ˈnɪɹ/",
+      "note": "美式参考"
+    },
+    "need": {
+      "ipa": "/ˈnid/",
+      "note": "美式参考"
+    },
+    "neighbour": {
+      "ipa": "/ˈneɪbɝ/",
+      "note": "美式参考"
+    },
+    "never": {
+      "ipa": "/ˈnɛvɝ/",
+      "note": "美式参考"
+    },
+    "new": {
+      "ipa": "/ˈnju/, /ˈnu/",
+      "note": "美式参考"
+    },
+    "new york": {
+      "ipa": "/ˈnju/ /ˈjɔɹk/",
+      "note": "美式分词参考"
+    },
+    "new zealand": {
+      "ipa": "/ˈnju/ /ˈziɫənd/",
+      "note": "美式分词参考"
+    },
+    "newspaper": {
+      "ipa": "/ˈnuzˌpeɪpɝ/",
+      "note": "美式参考"
+    },
+    "next": {
+      "ipa": "/ˈnɛks/, /ˈnɛkst/",
+      "note": "美式参考"
+    },
+    "next to": {
+      "ipa": "/ˈnɛks/ /ˈtu/",
+      "note": "美式分词参考"
+    },
+    "next week": {
+      "ipa": "/ˈnɛks/ /ˈwik/",
+      "note": "美式分词参考"
+    },
+    "nice": {
+      "ipa": "/ˈnaɪs/, /ˈnis/",
+      "note": "美式参考"
+    },
+    "night": {
+      "ipa": "/ˈnaɪt/",
+      "note": "美式参考"
+    },
+    "nine": {
+      "ipa": "/ˈnaɪn/",
+      "note": "美式参考"
+    },
+    "nineteen": {
+      "ipa": "/ˈnaɪnˈtin/",
+      "note": "美式参考"
+    },
+    "ninety": {
+      "ipa": "/ˈnaɪnti/",
+      "note": "美式参考"
+    },
+    "no": {
+      "ipa": "/ˈnoʊ/",
+      "note": "美式参考"
+    },
+    "no problem": {
+      "ipa": "/ˈnoʊ/ /ˈpɹɑbɫəm/",
+      "note": "美式分词参考"
+    },
+    "noise": {
+      "ipa": "/ˈnɔɪz/",
+      "note": "美式参考"
+    },
+    "noodle": {
+      "ipa": "/ˈnudəɫ/",
+      "note": "美式参考"
+    },
+    "noodles": {
+      "ipa": "/ˈnudəɫz/",
+      "note": "美式参考"
+    },
+    "northeast": {
+      "ipa": "/ˌnɔɹˈθist/",
+      "note": "美式参考"
+    },
+    "nose": {
+      "ipa": "/ˈnoʊz/",
+      "note": "美式参考"
+    },
+    "note": {
+      "ipa": "/ˈnoʊt/",
+      "note": "美式参考"
+    },
+    "notebook": {
+      "ipa": "/ˈnoʊtˌbʊk/",
+      "note": "美式参考"
+    },
+    "nothing": {
+      "ipa": "/ˈnəθɪŋ/",
+      "note": "美式参考"
+    },
+    "notice": {
+      "ipa": "/ˈnoʊtəs/, /ˈnoʊtɪs/",
+      "note": "美式参考"
+    },
+    "november": {
+      "ipa": "/noʊˈvɛmbɝ/",
+      "note": "美式参考"
+    },
+    "now": {
+      "ipa": "/ˈnaʊ/",
+      "note": "美式参考"
+    },
+    "nurse": {
+      "ipa": "/ˈnɝs/",
+      "note": "美式参考"
+    },
+    "o'clock": {
+      "ipa": "/əˈkɫɑk/",
+      "note": "美式参考"
+    },
+    "ocean": {
+      "ipa": "/ˈoʊʃən/",
+      "note": "美式参考"
+    },
+    "october": {
+      "ipa": "/ɑkˈtoʊbɝ/",
+      "note": "美式参考"
+    },
+    "of course": {
+      "ipa": "/ˈəv/ /ˈkɔɹs/",
+      "note": "美式分词参考"
+    },
+    "off": {
+      "ipa": "/ˈɔf/",
+      "note": "美式参考"
+    },
+    "office worker": {
+      "ipa": "/ˈɔfɪs/ /ˈwɝkɝ/",
+      "note": "美式分词参考"
+    },
+    "often": {
+      "ipa": "/ˈɔfən/, /ˈɔftən/",
+      "note": "美式参考"
+    },
+    "ok": {
+      "ipa": "/ˈoʊˈkeɪ/",
+      "note": "美式参考"
+    },
+    "old": {
+      "ipa": "/ˈoʊɫd/",
+      "note": "美式参考"
+    },
+    "older": {
+      "ipa": "/ˈoʊɫdɝ/",
+      "note": "美式参考"
+    },
+    "on": {
+      "ipa": "/ˈɑn/, /ˈɔn/",
+      "note": "美式参考"
+    },
+    "on foot": {
+      "ipa": "/ˈɑn/ /ˈfʊt/",
+      "note": "美式分词参考"
+    },
+    "on one's own": {
+      "ipa": "/ˈɑn/ /ˈwənz/ /ˈoʊn/",
+      "note": "美式分词参考"
+    },
+    "one": {
+      "ipa": "/ˈwən/",
+      "note": "美式参考"
+    },
+    "onion": {
+      "ipa": "/ˈənjən/",
+      "note": "美式参考"
+    },
+    "open": {
+      "ipa": "/ˈoʊpən/",
+      "note": "美式参考"
+    },
+    "or": {
+      "ipa": "/ˈɔɹ/, /ɝ/",
+      "note": "美式参考"
+    },
+    "orange": {
+      "ipa": "/ˈɔɹəndʒ/, /ˈɔɹɪndʒ/",
+      "note": "美式参考"
+    },
+    "other": {
+      "ipa": "/ˈəðɝ/",
+      "note": "美式参考"
+    },
+    "our": {
+      "ipa": "/ˈaʊɝ/, /ˈaʊɹ/, /ˈɑɹ/",
+      "note": "美式参考"
+    },
+    "ours": {
+      "ipa": "/ˈaʊɝz/, /ˈaʊɹz/, /ˈɑɹz/",
+      "note": "美式参考"
+    },
+    "outer space": {
+      "ipa": "/ˈaʊtɝ/ /ˈspeɪs/",
+      "note": "美式分词参考"
+    },
+    "outside": {
+      "ipa": "/ˈaʊtˈsaɪd/",
+      "note": "美式参考"
+    },
+    "over": {
+      "ipa": "/ˈoʊvɝ/",
+      "note": "美式参考"
+    },
+    "own": {
+      "ipa": "/ˈoʊn/",
+      "note": "美式参考"
+    },
+    "p.m.": {
+      "ipa": "/ˈpiˈɛm/",
+      "note": "美式参考"
+    },
+    "pack": {
+      "ipa": "/ˈpæk/",
+      "note": "美式参考"
+    },
+    "paint": {
+      "ipa": "/ˈpeɪnt/",
+      "note": "美式参考"
+    },
+    "painting": {
+      "ipa": "/ˈpeɪntɪŋ/",
+      "note": "美式参考"
+    },
+    "pair": {
+      "ipa": "/ˈpɛɹ/",
+      "note": "美式参考"
+    },
+    "palace": {
+      "ipa": "/ˈpæɫəs/",
+      "note": "美式参考"
+    },
+    "panda": {
+      "ipa": "/ˈpændə/",
+      "note": "美式参考"
+    },
+    "pants": {
+      "ipa": "/ˈpænts/",
+      "note": "美式参考"
+    },
+    "papa westray": {
+      "ipa": "/ˈpɑˌpə/ /ˈwes.treɪ/",
+      "note": "美式分词参考"
+    },
+    "paper": {
+      "ipa": "/ˈpeɪpɝ/",
+      "note": "美式参考"
+    },
+    "parent": {
+      "ipa": "/ˈpɛɹənt/",
+      "note": "美式参考"
+    },
+    "parents": {
+      "ipa": "/ˈpɛɹənts/",
+      "note": "美式参考"
+    },
+    "paris": {
+      "ipa": "/ˈpæɹɪs/, /ˈpɛɹɪs/",
+      "note": "美式参考"
+    },
+    "park": {
+      "ipa": "/ˈpɑɹk/",
+      "note": "美式参考"
+    },
+    "part": {
+      "ipa": "/ˈpɑɹt/",
+      "note": "美式参考"
+    },
+    "party": {
+      "ipa": "/ˈpɑɹti/",
+      "note": "美式参考"
+    },
+    "pass": {
+      "ipa": "/ˈpæs/",
+      "note": "美式参考"
+    },
+    "password": {
+      "ipa": "/ˈpæsˌwɝd/",
+      "note": "美式参考"
+    },
+    "paste": {
+      "ipa": "/ˈpeɪst/",
+      "note": "美式参考"
+    },
+    "pay": {
+      "ipa": "/ˈpeɪ/",
+      "note": "美式参考"
+    },
+    "pay attention to": {
+      "ipa": "/ˈpeɪ/ /əˈtɛnʃən/ /ˈtu/",
+      "note": "美式分词参考"
+    },
+    "pe": {
+      "ipa": "/ˈpi ˈi/",
+      "note": "美式参考"
+    },
+    "pe class": {
+      "ipa": "/ˈpi ˈi/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "pear": {
+      "ipa": "/ˈpɛɹ/",
+      "note": "美式参考"
+    },
+    "pen": {
+      "ipa": "/ˈpɛn/",
+      "note": "美式参考"
+    },
+    "pen pal": {
+      "ipa": "/ˈpɛn/ /ˈpæɫ/",
+      "note": "美式分词参考"
+    },
+    "pencil": {
+      "ipa": "/ˈpɛnsəɫ/",
+      "note": "美式参考"
+    },
+    "pencil box": {
+      "ipa": "/ˈpɛnsəɫ/ /ˈbɑks/",
+      "note": "美式分词参考"
+    },
+    "people": {
+      "ipa": "/ˈpipəɫ/",
+      "note": "美式参考"
+    },
+    "pet": {
+      "ipa": "/ˈpɛt/",
+      "note": "美式参考"
+    },
+    "phew": {
+      "ipa": "/ˈfju/",
+      "note": "美式参考"
+    },
+    "phone": {
+      "ipa": "/ˈfoʊn/",
+      "note": "美式参考"
+    },
+    "photo": {
+      "ipa": "/ˈfoʊˌtoʊ/",
+      "note": "美式参考"
+    },
+    "piano": {
+      "ipa": "/piˈænə/, /piˈænoʊ/",
+      "note": "美式参考"
+    },
+    "pick": {
+      "ipa": "/ˈpɪk/",
+      "note": "美式参考"
+    },
+    "pick apples": {
+      "ipa": "/ˈpɪk/ /ˈæpəɫz/",
+      "note": "美式分词参考"
+    },
+    "picnic": {
+      "ipa": "/ˈpɪkˌnɪk/",
+      "note": "美式参考"
+    },
+    "picture": {
+      "ipa": "/ˈpɪktʃɝ/",
+      "note": "美式参考"
+    },
+    "pig": {
+      "ipa": "/ˈpɪɡ/",
+      "note": "美式参考"
+    },
+    "piggy bank": {
+      "ipa": "/ˈpɪɡi/ /ˈbæŋk/",
+      "note": "美式分词参考"
+    },
+    "pilot": {
+      "ipa": "/ˈpaɪɫət/",
+      "note": "美式参考"
+    },
+    "ping-pong": {
+      "ipa": "/ˈpɪŋˌpɔŋ/",
+      "note": "美式参考"
+    },
+    "pink": {
+      "ipa": "/ˈpɪŋk/",
+      "note": "美式参考"
+    },
+    "pizza": {
+      "ipa": "/ˈpitsə/",
+      "note": "美式参考"
+    },
+    "pla day": {
+      "ipa": "/ˈpɫɑ/ /ˈdeɪ/",
+      "note": "美式分词参考"
+    },
+    "place": {
+      "ipa": "/ˈpɫeɪs/",
+      "note": "美式参考"
+    },
+    "plan": {
+      "ipa": "/ˈpɫæn/",
+      "note": "美式参考"
+    },
+    "plane": {
+      "ipa": "/ˈpɫeɪn/",
+      "note": "美式参考"
+    },
+    "planet": {
+      "ipa": "/ˈpɫænət/",
+      "note": "美式参考"
+    },
+    "plant": {
+      "ipa": "/ˈpɫænt/",
+      "note": "美式参考"
+    },
+    "plate": {
+      "ipa": "/ˈpɫeɪt/",
+      "note": "美式参考"
+    },
+    "play": {
+      "ipa": "/ˈpɫeɪ/",
+      "note": "美式参考"
+    },
+    "play basketball": {
+      "ipa": "/ˈpɫeɪ/ /ˈbæskətˌbɔɫ/",
+      "note": "美式分词参考"
+    },
+    "play football": {
+      "ipa": "/ˈpɫeɪ/ /ˈfʊtˌbɔɫ/",
+      "note": "美式分词参考"
+    },
+    "play ping-pong": {
+      "ipa": "/ˈpɫeɪ/ /ˈpɪŋ/ /ˈpɔŋ/",
+      "note": "美式分词参考"
+    },
+    "play sports": {
+      "ipa": "/ˈpɫeɪ/ /ˈspɔɹts/",
+      "note": "美式分词参考"
+    },
+    "play the pipa": {
+      "ipa": "/ˈpɫeɪ/ /ˈðə/ /ˌpiːˈpɑː/",
+      "note": "美式分词参考"
+    },
+    "player": {
+      "ipa": "/ˈpɫeɪɝ/",
+      "note": "美式参考"
+    },
+    "playground": {
+      "ipa": "/ˈpɫeɪˌɡɹaʊn/, /ˈpɫeɪˌɡɹaʊnd/",
+      "note": "美式参考"
+    },
+    "playing": {
+      "ipa": "/ˈpɫeɪɪŋ/",
+      "note": "美式参考"
+    },
+    "pocket money": {
+      "ipa": "/ˈpɑkət/ /ˈməni/",
+      "note": "美式分词参考"
+    },
+    "poem": {
+      "ipa": "/ˈpoʊəm/",
+      "note": "美式参考"
+    },
+    "police officer": {
+      "ipa": "/pəˈɫis/ /ˈɔfəsɝ/",
+      "note": "美式分词参考"
+    },
+    "polite": {
+      "ipa": "/pəˈɫaɪt/",
+      "note": "美式参考"
+    },
+    "post office": {
+      "ipa": "/ˈpoʊst/ /ˈɔfɪs/",
+      "note": "美式分词参考"
+    },
+    "postcard": {
+      "ipa": "/ˈpoʊˌskɑɹd/, /ˈpoʊstˌkɑɹd/",
+      "note": "美式参考"
+    },
+    "postman": {
+      "ipa": "/ˈpoʊsmən/, /ˈpoʊstmən/",
+      "note": "美式参考"
+    },
+    "potato": {
+      "ipa": "/pəˈteɪˌtoʊ/",
+      "note": "美式参考"
+    },
+    "power": {
+      "ipa": "/ˈpaʊɝ/",
+      "note": "美式参考"
+    },
+    "pretty": {
+      "ipa": "/ˈpɹɪti/",
+      "note": "美式参考"
+    },
+    "price": {
+      "ipa": "/ˈpɹaɪs/",
+      "note": "美式参考"
+    },
+    "problem": {
+      "ipa": "/ˈpɹɑbɫəm/",
+      "note": "美式参考"
+    },
+    "project": {
+      "ipa": "/ˈpɹɑdʒɛkt/, /pɹəˈdʒɛkt/",
+      "note": "美式参考"
+    },
+    "pull": {
+      "ipa": "/ˈpʊɫ/",
+      "note": "美式参考"
+    },
+    "pumpkin": {
+      "ipa": "/ˈpəmkɪn/, /ˈpəmpkɪn/",
+      "note": "美式参考"
+    },
+    "pupil": {
+      "ipa": "/ˈpjupəɫ/",
+      "note": "美式参考"
+    },
+    "puppy": {
+      "ipa": "/ˈpəpi/",
+      "note": "美式参考"
+    },
+    "purple": {
+      "ipa": "/ˈpɝpəɫ/",
+      "note": "美式参考"
+    },
+    "put": {
+      "ipa": "/ˈpʊt/",
+      "note": "美式参考"
+    },
+    "puzzle": {
+      "ipa": "/ˈpəzəɫ/",
+      "note": "美式参考"
+    },
+    "pyramid": {
+      "ipa": "/ˈpɪɹəmɪd/",
+      "note": "美式参考"
+    },
+    "qatar": {
+      "ipa": "/ˌkəˈtɑɹ/",
+      "note": "美式参考"
+    },
+    "question": {
+      "ipa": "/ˈkwɛstʃən/, /ˈkwɛʃən/",
+      "note": "美式参考"
+    },
+    "quick": {
+      "ipa": "/ˈkwɪk/",
+      "note": "美式参考"
+    },
+    "quickly": {
+      "ipa": "/ˈkwɪkɫi/",
+      "note": "美式参考"
+    },
+    "quiet": {
+      "ipa": "/ˈkwaɪət/",
+      "note": "美式参考"
+    },
+    "quite": {
+      "ipa": "/ˈkwaɪt/",
+      "note": "美式参考"
+    },
+    "rabbit": {
+      "ipa": "/ˈɹæbət/, /ˈɹæbɪt/",
+      "note": "美式参考"
+    },
+    "race": {
+      "ipa": "/ˈɹeɪs/",
+      "note": "美式参考"
+    },
+    "rain": {
+      "ipa": "/ˈɹeɪn/",
+      "note": "美式参考"
+    },
+    "raincoat": {
+      "ipa": "/ˈɹeɪnˌkoʊt/",
+      "note": "美式参考"
+    },
+    "rainy": {
+      "ipa": "/ˈɹeɪni/",
+      "note": "美式参考"
+    },
+    "read": {
+      "ipa": "/ˈɹid/",
+      "note": "美式参考"
+    },
+    "read books": {
+      "ipa": "/ˈɹid/ /ˈbʊks/",
+      "note": "美式分词参考"
+    },
+    "reading a book": {
+      "ipa": "/ˈɹidɪŋ/ /ə/ /ˈbʊk/",
+      "note": "美式分词参考"
+    },
+    "ready": {
+      "ipa": "/ˈɹɛdi/",
+      "note": "美式参考"
+    },
+    "real": {
+      "ipa": "/ˈɹiɫ/",
+      "note": "美式参考"
+    },
+    "really": {
+      "ipa": "/ˈɹiɫi/, /ˈɹɪɫi/",
+      "note": "美式参考"
+    },
+    "recycle": {
+      "ipa": "/ɹiˈsaɪkəɫ/",
+      "note": "美式参考"
+    },
+    "red": {
+      "ipa": "/ˈɹɛd/",
+      "note": "美式参考"
+    },
+    "red panda": {
+      "ipa": "/ˈɹɛd/ /ˈpændə/",
+      "note": "美式分词参考"
+    },
+    "reduce": {
+      "ipa": "/ɹəˈdus/, /ɹiˈdus/, /ɹɪˈdus/",
+      "note": "美式参考"
+    },
+    "remember": {
+      "ipa": "/ɹiˈmɛmbɝ/, /ɹɪˈmɛmbɝ/",
+      "note": "美式参考"
+    },
+    "report": {
+      "ipa": "/ɹiˈpɔɹt/, /ɹɪˈpɔɹt/",
+      "note": "美式参考"
+    },
+    "reporter": {
+      "ipa": "/ɹɪˈpɔɹtɝ/",
+      "note": "美式参考"
+    },
+    "resource": {
+      "ipa": "/ˈɹisɔɹs/",
+      "note": "美式参考"
+    },
+    "rest": {
+      "ipa": "/ˈɹɛst/",
+      "note": "美式参考"
+    },
+    "restaurant": {
+      "ipa": "/ˈɹɛsˌtɹɑnt/, /ˈɹɛstɝˌɑnt/",
+      "note": "美式参考"
+    },
+    "return": {
+      "ipa": "/ɹiˈtɝn/, /ɹɪˈtɝn/",
+      "note": "美式参考"
+    },
+    "reuse": {
+      "ipa": "/ɹiˈjuz/",
+      "note": "美式参考"
+    },
+    "rice": {
+      "ipa": "/ˈɹaɪs/",
+      "note": "美式参考"
+    },
+    "riddle": {
+      "ipa": "/ˈɹɪdəɫ/",
+      "note": "美式参考"
+    },
+    "ride": {
+      "ipa": "/ˈɹaɪd/",
+      "note": "美式参考"
+    },
+    "right": {
+      "ipa": "/ˈɹaɪt/",
+      "note": "美式参考"
+    },
+    "ring": {
+      "ipa": "/ˈɹɪŋ/",
+      "note": "美式参考"
+    },
+    "river": {
+      "ipa": "/ˈɹɪvɝ/",
+      "note": "美式参考"
+    },
+    "robot": {
+      "ipa": "/ˈɹoʊˌbɑt/, /ˈɹoʊˌbət/",
+      "note": "美式参考"
+    },
+    "rode": {
+      "ipa": "/ˈɹoʊd/",
+      "note": "美式参考"
+    },
+    "room": {
+      "ipa": "/ˈɹum/",
+      "note": "美式参考"
+    },
+    "root": {
+      "ipa": "/ˈɹut/",
+      "note": "美式参考"
+    },
+    "rope": {
+      "ipa": "/ˈɹoʊp/",
+      "note": "美式参考"
+    },
+    "round": {
+      "ipa": "/ˈɹaʊnd/",
+      "note": "美式参考"
+    },
+    "rover": {
+      "ipa": "/ˈɹoʊvɝ/",
+      "note": "美式参考"
+    },
+    "rsvp": {
+      "ipa": "/ˈɑˈɹɛsˈviˈpi/",
+      "note": "美式参考"
+    },
+    "rubbish": {
+      "ipa": "/ˈɹəbɪʃ/",
+      "note": "美式参考"
+    },
+    "rule": {
+      "ipa": "/ˈɹuɫ/",
+      "note": "美式参考"
+    },
+    "ruler": {
+      "ipa": "/ˈɹuɫɝ/",
+      "note": "美式参考"
+    },
+    "run": {
+      "ipa": "/ˈɹən/",
+      "note": "美式参考"
+    },
+    "run out": {
+      "ipa": "/ˈɹən/ /ˈaʊt/",
+      "note": "美式分词参考"
+    },
+    "runny nose": {
+      "ipa": "/ˈɹəni/ /ˈnoʊz/",
+      "note": "美式分词参考"
+    },
+    "sad": {
+      "ipa": "/ˈsæd/",
+      "note": "美式参考"
+    },
+    "safe": {
+      "ipa": "/ˈseɪf/",
+      "note": "美式参考"
+    },
+    "salad": {
+      "ipa": "/ˈsæɫəd/",
+      "note": "美式参考"
+    },
+    "sale": {
+      "ipa": "/ˈseɪɫ/",
+      "note": "美式参考"
+    },
+    "sandwich": {
+      "ipa": "/ˈsæmwɪtʃ/, /ˈsændwɪtʃ/, /ˈsænwɪtʃ/",
+      "note": "美式参考"
+    },
+    "satellite": {
+      "ipa": "/ˈsætəˌɫaɪt/",
+      "note": "美式参考"
+    },
+    "saturday": {
+      "ipa": "/ˈsæˌtɪˌdeɪ/, /ˈsætɝdi/",
+      "note": "美式参考"
+    },
+    "save up": {
+      "ipa": "/ˈseɪv/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "saw": {
+      "ipa": "/ˈsɔ/",
+      "note": "美式参考"
+    },
+    "say": {
+      "ipa": "/ˈseɪ/",
+      "note": "美式参考"
+    },
+    "scare": {
+      "ipa": "/ˈskɛɹ/",
+      "note": "美式参考"
+    },
+    "scarf": {
+      "ipa": "/ˈskɑɹf/",
+      "note": "美式参考"
+    },
+    "schedule": {
+      "ipa": "/ˈskɛdʒuɫ/, /ˈskɛdʒʊɫ/",
+      "note": "美式参考"
+    },
+    "school": {
+      "ipa": "/ˈskuɫ/",
+      "note": "美式参考"
+    },
+    "schoolbag": {
+      "ipa": "/ˈskuːl.bæɡ/",
+      "note": "美式参考"
+    },
+    "science": {
+      "ipa": "/ˈsaɪəns/",
+      "note": "美式参考"
+    },
+    "scientist": {
+      "ipa": "/ˈsaɪəntɪst/",
+      "note": "美式参考"
+    },
+    "scotland": {
+      "ipa": "/ˈskɑtɫənd/",
+      "note": "美式参考"
+    },
+    "sea": {
+      "ipa": "/ˈsi/",
+      "note": "美式参考"
+    },
+    "seafood": {
+      "ipa": "/ˈsiˌfud/",
+      "note": "美式参考"
+    },
+    "season": {
+      "ipa": "/ˈsizən/",
+      "note": "美式参考"
+    },
+    "second": {
+      "ipa": "/ˈsɛkənd/",
+      "note": "美式参考"
+    },
+    "second floor": {
+      "ipa": "/ˈsɛkənd/ /ˈfɫɔɹ/",
+      "note": "美式分词参考"
+    },
+    "secretary": {
+      "ipa": "/ˈsɛkɹəˌtɛɹi/",
+      "note": "美式参考"
+    },
+    "see": {
+      "ipa": "/ˈsi/",
+      "note": "美式参考"
+    },
+    "see a doctor": {
+      "ipa": "/ˈsi/ /ə/ /ˈdɑktɝ/",
+      "note": "美式分词参考"
+    },
+    "see a film": {
+      "ipa": "/ˈsi/ /ə/ /ˈfɪɫm/",
+      "note": "美式分词参考"
+    },
+    "seed": {
+      "ipa": "/ˈsid/",
+      "note": "美式参考"
+    },
+    "sell": {
+      "ipa": "/ˈsɛɫ/",
+      "note": "美式参考"
+    },
+    "send": {
+      "ipa": "/ˈsɛnd/",
+      "note": "美式参考"
+    },
+    "september": {
+      "ipa": "/sɛpˈtɛmbɝ/",
+      "note": "美式参考"
+    },
+    "service": {
+      "ipa": "/ˈsɝvəs/, /ˈsɝvɪs/",
+      "note": "美式参考"
+    },
+    "set the table": {
+      "ipa": "/ˈsɛt/ /ˈðə/ /ˈteɪbəɫ/",
+      "note": "美式分词参考"
+    },
+    "seven": {
+      "ipa": "/ˈsɛvən/",
+      "note": "美式参考"
+    },
+    "seventeen": {
+      "ipa": "/ˈsɛvənˈtin/",
+      "note": "美式参考"
+    },
+    "seventy": {
+      "ipa": "/ˈsɛvəni/, /ˈsɛvənti/",
+      "note": "美式参考"
+    },
+    "shadow": {
+      "ipa": "/ˈʃæˌdoʊ/",
+      "note": "美式参考"
+    },
+    "shall": {
+      "ipa": "/ˈʃæɫ/",
+      "note": "美式参考"
+    },
+    "share": {
+      "ipa": "/ˈʃɛɹ/",
+      "note": "美式参考"
+    },
+    "she": {
+      "ipa": "/ˈʃi/",
+      "note": "美式参考"
+    },
+    "sheep": {
+      "ipa": "/ˈʃip/",
+      "note": "美式参考"
+    },
+    "shelf": {
+      "ipa": "/ˈʃɛɫf/",
+      "note": "美式参考"
+    },
+    "shine": {
+      "ipa": "/ˈʃaɪn/",
+      "note": "美式参考"
+    },
+    "ship": {
+      "ipa": "/ˈʃɪp/",
+      "note": "美式参考"
+    },
+    "shirt": {
+      "ipa": "/ˈʃɝt/",
+      "note": "美式参考"
+    },
+    "shoe": {
+      "ipa": "/ˈʃu/",
+      "note": "美式参考"
+    },
+    "shop": {
+      "ipa": "/ˈʃɑp/",
+      "note": "美式参考"
+    },
+    "short": {
+      "ipa": "/ˈʃɔɹt/",
+      "note": "美式参考"
+    },
+    "shorter": {
+      "ipa": "/ˈʃɔɹtɝ/",
+      "note": "美式参考"
+    },
+    "shorts": {
+      "ipa": "/ˈʃɔɹts/",
+      "note": "美式参考"
+    },
+    "should": {
+      "ipa": "/ˈʃʊd/",
+      "note": "美式参考"
+    },
+    "shout": {
+      "ipa": "/ˈʃaʊt/",
+      "note": "美式参考"
+    },
+    "show": {
+      "ipa": "/ˈʃoʊ/",
+      "note": "美式参考"
+    },
+    "shower": {
+      "ipa": "/ˈʃaʊɝ/",
+      "note": "美式参考"
+    },
+    "shy": {
+      "ipa": "/ˈʃaɪ/",
+      "note": "美式参考"
+    },
+    "side": {
+      "ipa": "/ˈsaɪd/",
+      "note": "美式参考"
+    },
+    "sign": {
+      "ipa": "/ˈsaɪn/",
+      "note": "美式参考"
+    },
+    "sing": {
+      "ipa": "/ˈsɪŋ/",
+      "note": "美式参考"
+    },
+    "sing english songs": {
+      "ipa": "/ˈsɪŋ/ /ˈɪŋɡɫɪʃ/ /ˈsɔŋz/",
+      "note": "美式分词参考"
+    },
+    "singapore": {
+      "ipa": "/ˈsɪŋəˌpɔɹ/",
+      "note": "美式参考"
+    },
+    "sir": {
+      "ipa": "/ˈsɝ/",
+      "note": "美式参考"
+    },
+    "sister": {
+      "ipa": "/ˈsɪstɝ/",
+      "note": "美式参考"
+    },
+    "sit": {
+      "ipa": "/ˈsɪt/",
+      "note": "美式参考"
+    },
+    "six": {
+      "ipa": "/ˈsɪks/",
+      "note": "美式参考"
+    },
+    "sixteen": {
+      "ipa": "/ˈsɪkˈstin/, /sɪkˈstin/",
+      "note": "美式参考"
+    },
+    "sixty": {
+      "ipa": "/ˈsɪksti/",
+      "note": "美式参考"
+    },
+    "size": {
+      "ipa": "/ˈsaɪz/",
+      "note": "美式参考"
+    },
+    "skate": {
+      "ipa": "/ˈskeɪt/",
+      "note": "美式参考"
+    },
+    "skirt": {
+      "ipa": "/ˈskɝt/",
+      "note": "美式参考"
+    },
+    "sky": {
+      "ipa": "/ˈskaɪ/",
+      "note": "美式参考"
+    },
+    "sled": {
+      "ipa": "/ˈsɫɛd/",
+      "note": "美式参考"
+    },
+    "sleep": {
+      "ipa": "/ˈsɫip/",
+      "note": "美式参考"
+    },
+    "sleeping": {
+      "ipa": "/ˈsɫipɪŋ/",
+      "note": "美式参考"
+    },
+    "slept": {
+      "ipa": "/ˈsɫɛpt/",
+      "note": "美式参考"
+    },
+    "slow": {
+      "ipa": "/ˈsɫoʊ/",
+      "note": "美式参考"
+    },
+    "slow down": {
+      "ipa": "/ˈsɫoʊ/ /ˈdaʊn/",
+      "note": "美式分词参考"
+    },
+    "small": {
+      "ipa": "/ˈsmɔɫ/",
+      "note": "美式参考"
+    },
+    "smaller": {
+      "ipa": "/ˈsmɔɫɝ/",
+      "note": "美式参考"
+    },
+    "smarter": {
+      "ipa": "/ˈsmɑɹtɝ/",
+      "note": "美式参考"
+    },
+    "smell": {
+      "ipa": "/ˈsmɛɫ/",
+      "note": "美式参考"
+    },
+    "smile": {
+      "ipa": "/ˈsmaɪɫ/",
+      "note": "美式参考"
+    },
+    "smoke": {
+      "ipa": "/ˈsmoʊk/",
+      "note": "美式参考"
+    },
+    "snow": {
+      "ipa": "/ˈsnoʊ/",
+      "note": "美式参考"
+    },
+    "snowman": {
+      "ipa": "/ˈsnoʊˌmæn/",
+      "note": "美式参考"
+    },
+    "snowstorm": {
+      "ipa": "/ˈsnoʊˌstɔɹm/",
+      "note": "美式参考"
+    },
+    "snowy": {
+      "ipa": "/ˈsnoʊi/",
+      "note": "美式参考"
+    },
+    "so": {
+      "ipa": "/ˈsoʊ/",
+      "note": "美式参考"
+    },
+    "so much": {
+      "ipa": "/ˈsoʊ/ /ˈmətʃ/",
+      "note": "美式分词参考"
+    },
+    "sock": {
+      "ipa": "/ˈsɑk/",
+      "note": "美式参考"
+    },
+    "sofa": {
+      "ipa": "/ˈsoʊfə/",
+      "note": "美式参考"
+    },
+    "soil": {
+      "ipa": "/ˈsɔɪɫ/",
+      "note": "美式参考"
+    },
+    "solar": {
+      "ipa": "/ˈsoʊɫɝ/",
+      "note": "美式参考"
+    },
+    "some": {
+      "ipa": "/ˈsəm/",
+      "note": "美式参考"
+    },
+    "sometimes": {
+      "ipa": "/ˈsəmˌtaɪmz/, /səmˈtaɪmz/",
+      "note": "美式参考"
+    },
+    "song": {
+      "ipa": "/ˈsɔŋ/",
+      "note": "美式参考"
+    },
+    "soon": {
+      "ipa": "/ˈsun/",
+      "note": "美式参考"
+    },
+    "sorry": {
+      "ipa": "/ˈsɑɹi/",
+      "note": "美式参考"
+    },
+    "sound": {
+      "ipa": "/ˈsaʊnd/",
+      "note": "美式参考"
+    },
+    "soup": {
+      "ipa": "/ˈsup/",
+      "note": "美式参考"
+    },
+    "space": {
+      "ipa": "/ˈspeɪs/",
+      "note": "美式参考"
+    },
+    "space station": {
+      "ipa": "/ˈspeɪs/ /ˈsteɪʃən/",
+      "note": "美式分词参考"
+    },
+    "spaceship": {
+      "ipa": "/ˈspeɪsˌʃɪp/",
+      "note": "美式参考"
+    },
+    "spain": {
+      "ipa": "/ˈspeɪn/",
+      "note": "美式参考"
+    },
+    "spanish": {
+      "ipa": "/ˈspænɪʃ/",
+      "note": "美式参考"
+    },
+    "speak": {
+      "ipa": "/ˈspik/",
+      "note": "美式参考"
+    },
+    "speak english": {
+      "ipa": "/ˈspik/ /ˈɪŋɡɫɪʃ/",
+      "note": "美式分词参考"
+    },
+    "special": {
+      "ipa": "/ˈspɛʃəɫ/",
+      "note": "美式参考"
+    },
+    "spoon": {
+      "ipa": "/ˈspun/",
+      "note": "美式参考"
+    },
+    "sport": {
+      "ipa": "/ˈspɔɹt/",
+      "note": "美式参考"
+    },
+    "sports meet": {
+      "ipa": "/ˈspɔɹts/ /ˈmit/",
+      "note": "美式分词参考"
+    },
+    "spring": {
+      "ipa": "/ˈspɹɪŋ/, /spɝˈɪŋ/",
+      "note": "美式参考"
+    },
+    "stand": {
+      "ipa": "/ˈstænd/",
+      "note": "美式参考"
+    },
+    "star": {
+      "ipa": "/ˈstɑɹ/",
+      "note": "美式参考"
+    },
+    "start": {
+      "ipa": "/ˈstɑɹt/",
+      "note": "美式参考"
+    },
+    "station": {
+      "ipa": "/ˈsteɪʃən/",
+      "note": "美式参考"
+    },
+    "stay": {
+      "ipa": "/ˈsteɪ/",
+      "note": "美式参考"
+    },
+    "stay up": {
+      "ipa": "/ˈsteɪ/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "stayed": {
+      "ipa": "/ˈsteɪd/",
+      "note": "美式参考"
+    },
+    "stem": {
+      "ipa": "/ˈstɛm/",
+      "note": "美式参考"
+    },
+    "step": {
+      "ipa": "/ˈstɛp/",
+      "note": "美式参考"
+    },
+    "still": {
+      "ipa": "/ˈstɪɫ/",
+      "note": "美式参考"
+    },
+    "stone": {
+      "ipa": "/ˈstoʊn/",
+      "note": "美式参考"
+    },
+    "stop": {
+      "ipa": "/ˈstɑp/",
+      "note": "美式参考"
+    },
+    "story": {
+      "ipa": "/ˈstɔɹi/",
+      "note": "美式参考"
+    },
+    "storybook": {
+      "ipa": "/ˈstɔɹiˌbʊk/",
+      "note": "美式参考"
+    },
+    "straight": {
+      "ipa": "/ˈstɹeɪt/",
+      "note": "美式参考"
+    },
+    "strawberry": {
+      "ipa": "/ˈstɹɔˌbɛɹi/",
+      "note": "美式参考"
+    },
+    "street": {
+      "ipa": "/ˈstɹit/",
+      "note": "美式参考"
+    },
+    "strict": {
+      "ipa": "/ˈstɹɪkt/",
+      "note": "美式参考"
+    },
+    "strong": {
+      "ipa": "/ˈstɹɔŋ/",
+      "note": "美式参考"
+    },
+    "stronger": {
+      "ipa": "/ˈstɹɔŋɝ/, /ˈstɹɔŋɡɝ/",
+      "note": "美式参考"
+    },
+    "stuck": {
+      "ipa": "/ˈstək/",
+      "note": "美式参考"
+    },
+    "student": {
+      "ipa": "/ˈstudənt/",
+      "note": "美式参考"
+    },
+    "studies": {
+      "ipa": "/ˈstədiz/",
+      "note": "美式参考"
+    },
+    "study": {
+      "ipa": "/ˈstədi/",
+      "note": "美式参考"
+    },
+    "subject": {
+      "ipa": "/ˈsəbdʒɪkt/, /səbˈdʒɛkt/",
+      "note": "美式参考"
+    },
+    "subway": {
+      "ipa": "/ˈsəbˌweɪ/",
+      "note": "美式参考"
+    },
+    "suggest": {
+      "ipa": "/səˈdʒɛst/",
+      "note": "美式参考"
+    },
+    "summer": {
+      "ipa": "/ˈsəmɝ/",
+      "note": "美式参考"
+    },
+    "sun": {
+      "ipa": "/ˈsən/",
+      "note": "美式参考"
+    },
+    "sunday": {
+      "ipa": "/ˈsənˌdeɪ/, /ˈsənˌdi/",
+      "note": "美式参考"
+    },
+    "sunglasses": {
+      "ipa": "/ˈsənˌɡɫæsɪz/",
+      "note": "美式参考"
+    },
+    "sunny": {
+      "ipa": "/ˈsəni/",
+      "note": "美式参考"
+    },
+    "sunrise": {
+      "ipa": "/ˈsənˌɹaɪz/",
+      "note": "美式参考"
+    },
+    "sunset": {
+      "ipa": "/ˈsənˌsɛt/",
+      "note": "美式参考"
+    },
+    "sunshine": {
+      "ipa": "/ˈsənˌʃaɪn/",
+      "note": "美式参考"
+    },
+    "supermarket": {
+      "ipa": "/ˈsupɝˌmɑɹkɪt/",
+      "note": "美式参考"
+    },
+    "sure": {
+      "ipa": "/ˈʃʊɹ/",
+      "note": "美式参考"
+    },
+    "sushi": {
+      "ipa": "/ˈsuʃi/",
+      "note": "美式参考"
+    },
+    "sweater": {
+      "ipa": "/ˈswɛtɝ/",
+      "note": "美式参考"
+    },
+    "sweep": {
+      "ipa": "/ˈswip/",
+      "note": "美式参考"
+    },
+    "sweet": {
+      "ipa": "/ˈswit/",
+      "note": "美式参考"
+    },
+    "swim": {
+      "ipa": "/ˈswɪm/",
+      "note": "美式参考"
+    },
+    "sydney": {
+      "ipa": "/ˈsɪdni/",
+      "note": "美式参考"
+    },
+    "t-shirt": {
+      "ipa": "/ˈtiˌsɝt/",
+      "note": "美式参考"
+    },
+    "table": {
+      "ipa": "/ˈteɪbəɫ/",
+      "note": "美式参考"
+    },
+    "tail": {
+      "ipa": "/ˈteɪɫ/",
+      "note": "美式参考"
+    },
+    "take": {
+      "ipa": "/ˈteɪk/",
+      "note": "美式参考"
+    },
+    "take a dancing class": {
+      "ipa": "/ˈteɪk/ /ə/ /ˈdænsɪŋ/ /ˈkɫæs/",
+      "note": "美式分词参考"
+    },
+    "take a deep breath": {
+      "ipa": "/ˈteɪk/ /ə/ /ˈdip/ /ˈbɹɛθ/",
+      "note": "美式分词参考"
+    },
+    "take a trip": {
+      "ipa": "/ˈteɪk/ /ə/ /ˈtɹɪp/",
+      "note": "美式分词参考"
+    },
+    "take care of": {
+      "ipa": "/ˈteɪk/ /ˈkɛɹ/ /ˈəv/",
+      "note": "美式分词参考"
+    },
+    "take off": {
+      "ipa": "/ˈteɪk/ /ˈɔf/",
+      "note": "美式分词参考"
+    },
+    "take turns": {
+      "ipa": "/ˈteɪk/ /ˈtɝnz/",
+      "note": "美式分词参考"
+    },
+    "talk": {
+      "ipa": "/ˈtɔk/",
+      "note": "美式参考"
+    },
+    "talk quietly": {
+      "ipa": "/ˈtɔk/ /ˈkwaɪətɫi/",
+      "note": "美式分词参考"
+    },
+    "tall": {
+      "ipa": "/ˈtɔɫ/",
+      "note": "美式参考"
+    },
+    "taller": {
+      "ipa": "/ˈtɔɫɝ/",
+      "note": "美式参考"
+    },
+    "taste": {
+      "ipa": "/ˈteɪst/",
+      "note": "美式参考"
+    },
+    "taxi": {
+      "ipa": "/ˈtæksi/",
+      "note": "美式参考"
+    },
+    "tea": {
+      "ipa": "/ˈti/",
+      "note": "美式参考"
+    },
+    "teach": {
+      "ipa": "/ˈtitʃ/",
+      "note": "美式参考"
+    },
+    "teacher": {
+      "ipa": "/ˈtitʃɝ/",
+      "note": "美式参考"
+    },
+    "teacher's desk": {
+      "ipa": "/ˈtitʃɝz/ /ˈdɛsk/",
+      "note": "美式分词参考"
+    },
+    "teachers' office": {
+      "ipa": "/ˈtitʃɝz/ /ˈɔfɪs/",
+      "note": "美式分词参考"
+    },
+    "team": {
+      "ipa": "/ˈtim/",
+      "note": "美式参考"
+    },
+    "telescope": {
+      "ipa": "/ˈtɛɫəˌskoʊp/",
+      "note": "美式参考"
+    },
+    "tell": {
+      "ipa": "/ˈtɛɫ/",
+      "note": "美式参考"
+    },
+    "ten": {
+      "ipa": "/ˈtɛn/",
+      "note": "美式参考"
+    },
+    "terracotta warriors": {
+      "ipa": "/ˌter.əˈkɑː.t̬ə/ /ˈwɔɹiɝz/",
+      "note": "美式分词参考"
+    },
+    "terry fox": {
+      "ipa": "/ˈtɛɹi/ /ˈfɑks/",
+      "note": "美式分词参考"
+    },
+    "terry fox run": {
+      "ipa": "/ˈtɛɹi/ /ˈfɑks/ /ˈɹən/",
+      "note": "美式分词参考"
+    },
+    "than": {
+      "ipa": "/ˈðæn/, /ðən/",
+      "note": "美式参考"
+    },
+    "thanksgiving": {
+      "ipa": "/ˌθæŋksˈɡɪvɪŋ/",
+      "note": "美式参考"
+    },
+    "the great wall": {
+      "ipa": "/ˈðə/ /ˈɡɹeɪt/ /ˈwɔɫ/",
+      "note": "美式分词参考"
+    },
+    "the red army": {
+      "ipa": "/ˈðə/ /ˈɹɛd/ /ˈɑɹmi/",
+      "note": "美式分词参考"
+    },
+    "their": {
+      "ipa": "/ˈðɛɹ/",
+      "note": "美式参考"
+    },
+    "theirs": {
+      "ipa": "/ˈðɛɹz/",
+      "note": "美式参考"
+    },
+    "them": {
+      "ipa": "/ˈðɛm/, /ðəm/",
+      "note": "美式参考"
+    },
+    "then": {
+      "ipa": "/ˈðɛn/",
+      "note": "美式参考"
+    },
+    "there": {
+      "ipa": "/ˈðɛɹ/",
+      "note": "美式参考"
+    },
+    "these": {
+      "ipa": "/ˈðiz/",
+      "note": "美式参考"
+    },
+    "thin": {
+      "ipa": "/ˈθɪn/",
+      "note": "美式参考"
+    },
+    "thing": {
+      "ipa": "/ˈθɪŋ/",
+      "note": "美式参考"
+    },
+    "think": {
+      "ipa": "/ˈθɪŋk/",
+      "note": "美式参考"
+    },
+    "thinner": {
+      "ipa": "/ˈθɪnɝ/",
+      "note": "美式参考"
+    },
+    "third": {
+      "ipa": "/ˈθɝd/",
+      "note": "美式参考"
+    },
+    "thirsty": {
+      "ipa": "/ˈθɝsti/",
+      "note": "美式参考"
+    },
+    "thirteen": {
+      "ipa": "/ˈθɝˈtin/",
+      "note": "美式参考"
+    },
+    "thirtieth": {
+      "ipa": "/ˈθɝtiəθ/, /ˈθɝtiɪθ/",
+      "note": "美式参考"
+    },
+    "thirty": {
+      "ipa": "/ˈθɝˌdi/, /ˈθɝˌti/",
+      "note": "美式参考"
+    },
+    "those": {
+      "ipa": "/ˈðoʊz/",
+      "note": "美式参考"
+    },
+    "thought": {
+      "ipa": "/ˈθɔt/",
+      "note": "美式参考"
+    },
+    "thousand": {
+      "ipa": "/ˈθaʊzən/, /ˈθaʊzənd/",
+      "note": "美式参考"
+    },
+    "three": {
+      "ipa": "/ˈθɹi/",
+      "note": "美式参考"
+    },
+    "thursday": {
+      "ipa": "/ˈθɝzˌdeɪ/, /ˈθɝzdi/",
+      "note": "美式参考"
+    },
+    "ticket": {
+      "ipa": "/ˈtɪkət/, /ˈtɪkɪt/",
+      "note": "美式参考"
+    },
+    "tidy": {
+      "ipa": "/ˈtaɪdi/",
+      "note": "美式参考"
+    },
+    "tiger": {
+      "ipa": "/ˈtaɪɡɝ/",
+      "note": "美式参考"
+    },
+    "till": {
+      "ipa": "/ˈtɪɫ/",
+      "note": "美式参考"
+    },
+    "time": {
+      "ipa": "/ˈtaɪm/",
+      "note": "美式参考"
+    },
+    "tip": {
+      "ipa": "/ˈtɪp/",
+      "note": "美式参考"
+    },
+    "tired": {
+      "ipa": "/ˈtaɪɝd/",
+      "note": "美式参考"
+    },
+    "to-do list": {
+      "ipa": "/ˈtu/ /ˈdu/ /ˈɫɪst/",
+      "note": "美式分词参考"
+    },
+    "today": {
+      "ipa": "/təˈdeɪ/, /tuˈdeɪ/",
+      "note": "美式参考"
+    },
+    "together": {
+      "ipa": "/təˈɡɛðɝ/",
+      "note": "美式参考"
+    },
+    "toilet": {
+      "ipa": "/ˈtɔɪɫət/",
+      "note": "美式参考"
+    },
+    "tomato": {
+      "ipa": "/təˈmɑˌtoʊ/, /təˈmeɪˌtoʊ/",
+      "note": "美式参考"
+    },
+    "tomorrow": {
+      "ipa": "/təˈmɑˌɹoʊ/, /tuˈmɑˌɹoʊ/",
+      "note": "美式参考"
+    },
+    "tongue": {
+      "ipa": "/ˈtəŋ/",
+      "note": "美式参考"
+    },
+    "tonight": {
+      "ipa": "/təˈnaɪt/, /tʊˈnaɪt/",
+      "note": "美式参考"
+    },
+    "too": {
+      "ipa": "/ˈtu/",
+      "note": "美式参考"
+    },
+    "took": {
+      "ipa": "/ˈtʊk/",
+      "note": "美式参考"
+    },
+    "took pictures": {
+      "ipa": "/ˈtʊk/ /ˈpɪktʃɝz/",
+      "note": "美式分词参考"
+    },
+    "tooth": {
+      "ipa": "/ˈtuθ/",
+      "note": "美式参考"
+    },
+    "toothpaste": {
+      "ipa": "/ˈtuθˌpeɪst/",
+      "note": "美式参考"
+    },
+    "top": {
+      "ipa": "/ˈtɑp/, /ˈtɔp/",
+      "note": "美式参考"
+    },
+    "touch": {
+      "ipa": "/ˈtətʃ/",
+      "note": "美式参考"
+    },
+    "tour": {
+      "ipa": "/ˈtʊɹ/",
+      "note": "美式参考"
+    },
+    "town": {
+      "ipa": "/ˈtaʊn/",
+      "note": "美式参考"
+    },
+    "toy": {
+      "ipa": "/ˈtɔɪ/",
+      "note": "美式参考"
+    },
+    "traffic": {
+      "ipa": "/ˈtɹæfɪk/",
+      "note": "美式参考"
+    },
+    "traffic lights": {
+      "ipa": "/ˈtɹæfɪk/ /ˈɫaɪts/",
+      "note": "美式分词参考"
+    },
+    "train": {
+      "ipa": "/ˈtɹeɪn/",
+      "note": "美式参考"
+    },
+    "tram": {
+      "ipa": "/ˈtɹæm/",
+      "note": "美式参考"
+    },
+    "travel": {
+      "ipa": "/ˈtɹævəɫ/",
+      "note": "美式参考"
+    },
+    "tree": {
+      "ipa": "/ˈtɹi/",
+      "note": "美式参考"
+    },
+    "trip": {
+      "ipa": "/ˈtɹɪp/",
+      "note": "美式参考"
+    },
+    "trousers": {
+      "ipa": "/ˈtɹaʊzɝz/",
+      "note": "美式参考"
+    },
+    "truck": {
+      "ipa": "/ˈtɹək/",
+      "note": "美式参考"
+    },
+    "try": {
+      "ipa": "/ˈtɹaɪ/",
+      "note": "美式参考"
+    },
+    "try on": {
+      "ipa": "/ˈtɹaɪ/ /ˈɑn/",
+      "note": "美式分词参考"
+    },
+    "try your best": {
+      "ipa": "/ˈtɹaɪ/ /ˈjɔɹ/ /ˈbɛst/",
+      "note": "美式分词参考"
+    },
+    "tuesday": {
+      "ipa": "/ˈtjuzˌdeɪ/, /ˈtuzˌdeɪ/, /ˈtuzdi/",
+      "note": "美式参考"
+    },
+    "turkey": {
+      "ipa": "/ˈtɝki/",
+      "note": "美式参考"
+    },
+    "turn": {
+      "ipa": "/ˈtɝn/",
+      "note": "美式参考"
+    },
+    "turn off": {
+      "ipa": "/ˈtɝn/ /ˈɔf/",
+      "note": "美式分词参考"
+    },
+    "turn on": {
+      "ipa": "/ˈtɝn/ /ˈɑn/",
+      "note": "美式分词参考"
+    },
+    "tv": {
+      "ipa": "/ˈtiˈvi/, /ˌtɛɫəˈvɪʒən/",
+      "note": "美式参考"
+    },
+    "twelfth": {
+      "ipa": "/ˈtwɛɫfθ/",
+      "note": "美式参考"
+    },
+    "twelve": {
+      "ipa": "/ˈtwɛɫv/",
+      "note": "美式参考"
+    },
+    "twentieth": {
+      "ipa": "/ˈtwɛniəθ/, /ˈtwɛniɪθ/, /ˈtwɛntiəθ/, /ˈtwɛntiɪθ/",
+      "note": "美式参考"
+    },
+    "twenty": {
+      "ipa": "/ˈtwɛni/, /ˈtwɛnti/",
+      "note": "美式参考"
+    },
+    "twenty-first": {
+      "ipa": "/ˈtwɛntiˌfɝst/",
+      "note": "美式参考"
+    },
+    "twenty-third": {
+      "ipa": "/ˈtwɛni/ /ˈθɝd/",
+      "note": "美式分词参考"
+    },
+    "twice": {
+      "ipa": "/ˈtwaɪs/",
+      "note": "美式参考"
+    },
+    "two": {
+      "ipa": "/ˈtu/",
+      "note": "美式参考"
+    },
+    "type": {
+      "ipa": "/ˈtaɪp/",
+      "note": "美式参考"
+    },
+    "uk": {
+      "ipa": "/ˌjuˈkeɪ/",
+      "note": "美式参考"
+    },
+    "umbrella": {
+      "ipa": "/ˈəmˌbɹɛɫə/, /əmˈbɹɛɫə/",
+      "note": "美式参考"
+    },
+    "uncle": {
+      "ipa": "/ˈəŋkəɫ/",
+      "note": "美式参考"
+    },
+    "under": {
+      "ipa": "/ˈəndɝ/",
+      "note": "美式参考"
+    },
+    "underground": {
+      "ipa": "/ˈəndɝˌɡɹaʊnd/",
+      "note": "美式参考"
+    },
+    "understand": {
+      "ipa": "/ˌəndɝˈstænd/",
+      "note": "美式参考"
+    },
+    "unhappy": {
+      "ipa": "/ənˈhæpi/",
+      "note": "美式参考"
+    },
+    "university": {
+      "ipa": "/ˌjunəˈvɝsəti/",
+      "note": "美式参考"
+    },
+    "unplug": {
+      "ipa": "/ənˈpɫəɡ/",
+      "note": "美式参考"
+    },
+    "us": {
+      "ipa": "/ˈəs/, /ˌjuˈɛs/",
+      "note": "美式参考"
+    },
+    "usa": {
+      "ipa": "/ˌjuˌɛˈseɪ/",
+      "note": "美式参考"
+    },
+    "use": {
+      "ipa": "/ˈjuz/",
+      "note": "美式参考"
+    },
+    "useful": {
+      "ipa": "/ˈjusfəɫ/",
+      "note": "美式参考"
+    },
+    "usually": {
+      "ipa": "/ˈjuʒəɫi/, /ˈjuʒəwəɫi/",
+      "note": "美式参考"
+    },
+    "vacation": {
+      "ipa": "/veɪˈkeɪʃən/",
+      "note": "美式参考"
+    },
+    "vegetable": {
+      "ipa": "/ˈvɛdʒtəbəɫ/",
+      "note": "美式参考"
+    },
+    "very": {
+      "ipa": "/ˈvɛɹi/",
+      "note": "美式参考"
+    },
+    "video": {
+      "ipa": "/ˈvɪdioʊ/",
+      "note": "美式参考"
+    },
+    "view": {
+      "ipa": "/ˈvju/",
+      "note": "美式参考"
+    },
+    "village": {
+      "ipa": "/ˈvɪɫədʒ/, /ˈvɪɫɪdʒ/",
+      "note": "美式参考"
+    },
+    "visit": {
+      "ipa": "/ˈvɪzɪt/",
+      "note": "美式参考"
+    },
+    "visitor": {
+      "ipa": "/ˈvɪzɪtɝ/",
+      "note": "美式参考"
+    },
+    "volleyball": {
+      "ipa": "/ˈvɑɫiˌbɔɫ/",
+      "note": "美式参考"
+    },
+    "volunteer": {
+      "ipa": "/ˌvɑɫənˈtɪɹ/",
+      "note": "美式参考"
+    },
+    "wait": {
+      "ipa": "/ˈweɪt/",
+      "note": "美式参考"
+    },
+    "wake": {
+      "ipa": "/ˈweɪk/",
+      "note": "美式参考"
+    },
+    "walk": {
+      "ipa": "/ˈwɑk/, /ˈwɔk/",
+      "note": "美式参考"
+    },
+    "wall": {
+      "ipa": "/ˈwɔɫ/",
+      "note": "美式参考"
+    },
+    "want": {
+      "ipa": "/ˈwɑnt/, /ˈwɔnt/",
+      "note": "美式参考"
+    },
+    "warm": {
+      "ipa": "/ˈwɔɹm/",
+      "note": "美式参考"
+    },
+    "warm up": {
+      "ipa": "/ˈwɔɹm/ /ˈəp/",
+      "note": "美式分词参考"
+    },
+    "was": {
+      "ipa": "/ˈwɑz/, /wəz/",
+      "note": "美式参考"
+    },
+    "wash": {
+      "ipa": "/ˈwɑʃ/",
+      "note": "美式参考"
+    },
+    "wash my clothes": {
+      "ipa": "/ˈwɑʃ/ /ˈmaɪ/ /ˈkɫoʊðz/",
+      "note": "美式分词参考"
+    },
+    "washed": {
+      "ipa": "/ˈwɑʃt/",
+      "note": "美式参考"
+    },
+    "waste": {
+      "ipa": "/ˈweɪst/",
+      "note": "美式参考"
+    },
+    "watch": {
+      "ipa": "/ˈwɑtʃ/, /ˈwɔtʃ/",
+      "note": "美式参考"
+    },
+    "watch tv": {
+      "ipa": "/ˈwɑtʃ/ /ˈtiˈvi/",
+      "note": "美式分词参考"
+    },
+    "watched": {
+      "ipa": "/ˈwɑtʃt/, /ˈwɔtʃt/",
+      "note": "美式参考"
+    },
+    "water": {
+      "ipa": "/ˈwɔtɝ/",
+      "note": "美式参考"
+    },
+    "water bottle": {
+      "ipa": "/ˈwɔtɝ/ /ˈbɑtəɫ/",
+      "note": "美式分词参考"
+    },
+    "waterfall": {
+      "ipa": "/ˈwɔtɝˌfɔɫ/",
+      "note": "美式参考"
+    },
+    "watermelon": {
+      "ipa": "/ˈwɔtɝˌmɛɫən/",
+      "note": "美式参考"
+    },
+    "way": {
+      "ipa": "/ˈweɪ/",
+      "note": "美式参考"
+    },
+    "wear": {
+      "ipa": "/ˈwɛɹ/",
+      "note": "美式参考"
+    },
+    "weather": {
+      "ipa": "/ˈwɛðɝ/",
+      "note": "美式参考"
+    },
+    "wednesday": {
+      "ipa": "/ˈwɛnzˌdeɪ/, /ˈwɛnzdi/",
+      "note": "美式参考"
+    },
+    "week": {
+      "ipa": "/ˈwik/",
+      "note": "美式参考"
+    },
+    "weekend": {
+      "ipa": "/ˈwiˌkɛnd/, /ˈwiˌkɪnd/",
+      "note": "美式参考"
+    },
+    "well": {
+      "ipa": "/ˈwɛɫ/",
+      "note": "美式参考"
+    },
+    "went": {
+      "ipa": "/ˈwɛnt/",
+      "note": "美式参考"
+    },
+    "went camping": {
+      "ipa": "/ˈwɛnt/ /ˈkæmpɪŋ/",
+      "note": "美式分词参考"
+    },
+    "went fishing": {
+      "ipa": "/ˈwɛnt/ /ˈfɪʃɪŋ/",
+      "note": "美式分词参考"
+    },
+    "west": {
+      "ipa": "/ˈwɛst/",
+      "note": "美式参考"
+    },
+    "wet": {
+      "ipa": "/ˈwɛt/",
+      "note": "美式参考"
+    },
+    "wheel": {
+      "ipa": "/ˈhwiɫ/, /ˈwiɫ/",
+      "note": "美式参考"
+    },
+    "when": {
+      "ipa": "/ˈhwɛn/, /ˈhwɪn/, /ˈwɛn/, /ˈwɪn/",
+      "note": "美式参考"
+    },
+    "where": {
+      "ipa": "/ˈhwɛɹ/, /ˈwɛɹ/",
+      "note": "美式参考"
+    },
+    "which": {
+      "ipa": "/ˈhwɪtʃ/, /ˈwɪtʃ/",
+      "note": "美式参考"
+    },
+    "white": {
+      "ipa": "/ˈhwaɪt/, /ˈwaɪt/",
+      "note": "美式参考"
+    },
+    "who": {
+      "ipa": "/ˈhu/",
+      "note": "美式参考"
+    },
+    "whoosh": {
+      "ipa": "/ˈhwuʃ/, /ˈwuʃ/",
+      "note": "美式参考"
+    },
+    "whose": {
+      "ipa": "/ˈhuz/",
+      "note": "美式参考"
+    },
+    "why": {
+      "ipa": "/ˈhwaɪ/, /ˈwaɪ/",
+      "note": "美式参考"
+    },
+    "wild": {
+      "ipa": "/ˈwaɪɫd/",
+      "note": "美式参考"
+    },
+    "will": {
+      "ipa": "/ˈwɪɫ/, /wəɫ/",
+      "note": "美式参考"
+    },
+    "win": {
+      "ipa": "/ˈwɪn/",
+      "note": "美式参考"
+    },
+    "wind": {
+      "ipa": "/ˈwɪnd/",
+      "note": "美式参考"
+    },
+    "window": {
+      "ipa": "/ˈwɪndoʊ/",
+      "note": "美式参考"
+    },
+    "windy": {
+      "ipa": "/ˈwɪndi/",
+      "note": "美式参考"
+    },
+    "winner": {
+      "ipa": "/ˈwɪnɝ/",
+      "note": "美式参考"
+    },
+    "winter": {
+      "ipa": "/ˈwɪntɝ/",
+      "note": "美式参考"
+    },
+    "wish": {
+      "ipa": "/ˈwɪʃ/",
+      "note": "美式参考"
+    },
+    "woke": {
+      "ipa": "/ˈwoʊk/",
+      "note": "美式参考"
+    },
+    "woman": {
+      "ipa": "/ˈwʊmən/",
+      "note": "美式参考"
+    },
+    "wonderful": {
+      "ipa": "/ˈwəndɝfəɫ/",
+      "note": "美式参考"
+    },
+    "woof": {
+      "ipa": "/ˈwuf/",
+      "note": "美式参考"
+    },
+    "word": {
+      "ipa": "/ˈwɝd/",
+      "note": "美式参考"
+    },
+    "word book": {
+      "ipa": "/ˈwɝd/ /ˈbʊk/",
+      "note": "美式分词参考"
+    },
+    "work": {
+      "ipa": "/ˈwɝk/",
+      "note": "美式参考"
+    },
+    "workbook": {
+      "ipa": "/ˈwɝkˌbʊk/",
+      "note": "美式参考"
+    },
+    "worker": {
+      "ipa": "/ˈwɝkɝ/",
+      "note": "美式参考"
+    },
+    "world": {
+      "ipa": "/ˈwɝɫd/",
+      "note": "美式参考"
+    },
+    "worried": {
+      "ipa": "/ˈwɝid/",
+      "note": "美式参考"
+    },
+    "worry": {
+      "ipa": "/ˈwɝi/",
+      "note": "美式参考"
+    },
+    "wow": {
+      "ipa": "/ˈwaʊ/",
+      "note": "美式参考"
+    },
+    "write": {
+      "ipa": "/ˈɹaɪt/",
+      "note": "美式参考"
+    },
+    "writer": {
+      "ipa": "/ˈɹaɪtɝ/",
+      "note": "美式参考"
+    },
+    "wrong": {
+      "ipa": "/ˈɹɔŋ/",
+      "note": "美式参考"
+    },
+    "yard": {
+      "ipa": "/ˈjɑɹd/",
+      "note": "美式参考"
+    },
+    "year": {
+      "ipa": "/ˈjɪɹ/",
+      "note": "美式参考"
+    },
+    "yellow": {
+      "ipa": "/ˈjɛɫoʊ/",
+      "note": "美式参考"
+    },
+    "yesterday": {
+      "ipa": "/ˈjɛstɝˌdeɪ/, /ˈjɛstɝdi/",
+      "note": "美式参考"
+    },
+    "young": {
+      "ipa": "/ˈjəŋ/",
+      "note": "美式参考"
+    },
+    "younger": {
+      "ipa": "/ˈjəŋɡɝ/",
+      "note": "美式参考"
+    },
+    "your": {
+      "ipa": "/ˈjɔɹ/, /ˈjʊɹ/",
+      "note": "美式参考"
+    },
+    "yours": {
+      "ipa": "/ˈjɔɹz/, /ˈjʊɹz/, /jɝz/",
+      "note": "美式参考"
+    },
+    "yum": {
+      "ipa": "/ˈjəm/",
+      "note": "美式参考"
+    },
+    "yummy": {
+      "ipa": "/ˈjəmi/",
+      "note": "美式参考"
+    },
+    "zoo": {
+      "ipa": "/ˈzu/",
+      "note": "美式参考"
+    },
+    "mount taishan": {
+      "ipa": "/ˈmaʊnt/ Tàishān",
+      "note": "分词参考 · 地名为拼音"
+    },
+    "jinggangshan revolution museum": {
+      "ipa": "Jǐnggāngshān /ˌɹɛvəˈɫuʃən/ /ˈmjuziəm/, /mjuˈziəm/",
+      "note": "分词参考 · 地名为拼音"
+    },
+    "turpan": {
+      "ipa": "/ˈtuəˈpɑːn/",
+      "note": "教材音标"
+    },
+    "taikonaut": {
+      "ipa": "/ˈtaɪkəʊˌnɔːt/",
+      "note": "英式参考"
+    }
+  }
+}

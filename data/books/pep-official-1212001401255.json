@@ -1,0 +1,675 @@
+{
+  "id": "pep-official-1212001401255",
+  "title": "人教 PEP · 四年级上册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 4,
+  "term": "上",
+  "source_url": "https://book.pep.com.cn/1212001401255/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。",
+  "words": [
+    {
+      "english": "PE",
+      "meaning": "体育（课）",
+      "unit": "Unit 1 Helping at home",
+      "page": "4"
+    },
+    {
+      "english": "job",
+      "meaning": "工作；职业",
+      "unit": "Unit 1 Helping at home",
+      "page": "4"
+    },
+    {
+      "english": "doctor",
+      "meaning": "医生",
+      "unit": "Unit 1 Helping at home",
+      "page": "4"
+    },
+    {
+      "english": "farmer",
+      "meaning": "农场主；农民",
+      "unit": "Unit 1 Helping at home",
+      "page": "5"
+    },
+    {
+      "english": "nurse",
+      "meaning": "护士",
+      "unit": "Unit 1 Helping at home",
+      "page": "5"
+    },
+    {
+      "english": "office worker",
+      "meaning": "公司职员",
+      "unit": "Unit 1 Helping at home",
+      "page": "5"
+    },
+    {
+      "english": "factory worker",
+      "meaning": "工厂工人",
+      "unit": "Unit 1 Helping at home",
+      "page": "5"
+    },
+    {
+      "english": "busy",
+      "meaning": "忙碌的",
+      "unit": "Unit 1 Helping at home",
+      "page": "7"
+    },
+    {
+      "english": "tired",
+      "meaning": "疲倦的",
+      "unit": "Unit 1 Helping at home",
+      "page": "7"
+    },
+    {
+      "english": "chore",
+      "meaning": "家庭杂务",
+      "unit": "Unit 1 Helping at home",
+      "page": "7"
+    },
+    {
+      "english": "cook",
+      "meaning": "烹饪；煮",
+      "unit": "Unit 1 Helping at home",
+      "page": "7"
+    },
+    {
+      "english": "clean",
+      "meaning": "打扫；干净的",
+      "unit": "Unit 1 Helping at home",
+      "page": "7"
+    },
+    {
+      "english": "room",
+      "meaning": "房间",
+      "unit": "Unit 1 Helping at home",
+      "page": "7"
+    },
+    {
+      "english": "look after",
+      "meaning": "照顾",
+      "unit": "Unit 1 Helping at home",
+      "page": "8"
+    },
+    {
+      "english": "sweep",
+      "meaning": "扫",
+      "unit": "Unit 1 Helping at home",
+      "page": "8"
+    },
+    {
+      "english": "floor",
+      "meaning": "地板；地面",
+      "unit": "Unit 1 Helping at home",
+      "page": "8"
+    },
+    {
+      "english": "together",
+      "meaning": "在一起；共同",
+      "unit": "Unit 1 Helping at home",
+      "page": "8"
+    },
+    {
+      "english": "people",
+      "meaning": "人；人们",
+      "unit": "Unit 1 Helping at home",
+      "page": "9"
+    },
+    {
+      "english": "child",
+      "meaning": "（复数children）儿童；小孩",
+      "unit": "Unit 1 Helping at home",
+      "page": "9"
+    },
+    {
+      "english": "his",
+      "meaning": "他的",
+      "unit": "Unit 2 My friends",
+      "page": "16"
+    },
+    {
+      "english": "strong",
+      "meaning": "强壮的",
+      "unit": "Unit 2 My friends",
+      "page": "16"
+    },
+    {
+      "english": "hair",
+      "meaning": "头发",
+      "unit": "Unit 2 My friends",
+      "page": "16"
+    },
+    {
+      "english": "kind",
+      "meaning": "友好的",
+      "unit": "Unit 2 My friends",
+      "page": "16"
+    },
+    {
+      "english": "quiet",
+      "meaning": "文静的",
+      "unit": "Unit 2 My friends",
+      "page": "17"
+    },
+    {
+      "english": "best",
+      "meaning": "最好的",
+      "unit": "Unit 2 My friends",
+      "page": "19"
+    },
+    {
+      "english": "read",
+      "meaning": "阅读",
+      "unit": "Unit 2 My friends",
+      "page": "20"
+    },
+    {
+      "english": "Chinese",
+      "meaning": "中文；中国人；中国的",
+      "unit": "Unit 2 My friends",
+      "page": "20"
+    },
+    {
+      "english": "play",
+      "meaning": "玩耍",
+      "unit": "Unit 2 My friends",
+      "page": "20"
+    },
+    {
+      "english": "game",
+      "meaning": "游戏",
+      "unit": "Unit 2 My friends",
+      "page": "20"
+    },
+    {
+      "english": "football",
+      "meaning": "足球运动",
+      "unit": "Unit 2 My friends",
+      "page": "20"
+    },
+    {
+      "english": "basketball",
+      "meaning": "篮球运动",
+      "unit": "Unit 2 My friends",
+      "page": "21"
+    },
+    {
+      "english": "always",
+      "meaning": "总是",
+      "unit": "Unit 2 My friends",
+      "page": "21"
+    },
+    {
+      "english": "afternoon",
+      "meaning": "下午",
+      "unit": "Unit 3 Places we live in",
+      "page": "28"
+    },
+    {
+      "english": "there",
+      "meaning": "（表示存在或发生）；在那里",
+      "unit": "Unit 3 Places we live in",
+      "page": "28"
+    },
+    {
+      "english": "playground",
+      "meaning": "游乐场；操场",
+      "unit": "Unit 3 Places we live in",
+      "page": "28"
+    },
+    {
+      "english": "park",
+      "meaning": "公园",
+      "unit": "Unit 3 Places we live in",
+      "page": "28"
+    },
+    {
+      "english": "over",
+      "meaning": "在……的远端（或对面）",
+      "unit": "Unit 3 Places we live in",
+      "page": "28"
+    },
+    {
+      "english": "hospital",
+      "meaning": "医院",
+      "unit": "Unit 3 Places we live in",
+      "page": "29"
+    },
+    {
+      "english": "shop",
+      "meaning": "商店",
+      "unit": "Unit 3 Places we live in",
+      "page": "29"
+    },
+    {
+      "english": "toilet",
+      "meaning": "厕所；卫生间",
+      "unit": "Unit 3 Places we live in",
+      "page": "29"
+    },
+    {
+      "english": "bus stop",
+      "meaning": "公共汽车站",
+      "unit": "Unit 3 Places we live in",
+      "page": "29"
+    },
+    {
+      "english": "library",
+      "meaning": "图书馆",
+      "unit": "Unit 3 Places we live in",
+      "page": "31"
+    },
+    {
+      "english": "sport",
+      "meaning": "体育运动",
+      "unit": "Unit 3 Places we live in",
+      "page": "31"
+    },
+    {
+      "english": "walk",
+      "meaning": "散步；行走",
+      "unit": "Unit 3 Places we live in",
+      "page": "32"
+    },
+    {
+      "english": "community",
+      "meaning": "社区",
+      "unit": "Unit 3 Places we live in",
+      "page": "32"
+    },
+    {
+      "english": "favourite",
+      "meaning": "最喜欢的",
+      "unit": "Unit 3 Places we live in",
+      "page": "33"
+    },
+    {
+      "english": "place",
+      "meaning": "地方；场所",
+      "unit": "Unit 3 Places we live in",
+      "page": "33"
+    },
+    {
+      "english": "photo",
+      "meaning": "照片",
+      "unit": "Unit 3 Places we live in",
+      "page": "33"
+    },
+    {
+      "english": "story",
+      "meaning": "故事",
+      "unit": "Unit 3 Places we live in",
+      "page": "33"
+    },
+    {
+      "english": "buy",
+      "meaning": "购买",
+      "unit": "Unit 3 Places we live in",
+      "page": "33"
+    },
+    {
+      "english": "firefighter",
+      "meaning": "消防队员",
+      "unit": "Unit 4 Helping in the community",
+      "page": "40"
+    },
+    {
+      "english": "why",
+      "meaning": "为什么",
+      "unit": "Unit 4 Helping in the community",
+      "page": "40"
+    },
+    {
+      "english": "driver",
+      "meaning": "司机",
+      "unit": "Unit 4 Helping in the community",
+      "page": "40"
+    },
+    {
+      "english": "important",
+      "meaning": "重要的",
+      "unit": "Unit 4 Helping in the community",
+      "page": "40"
+    },
+    {
+      "english": "cleaner",
+      "meaning": "清洁工",
+      "unit": "Unit 4 Helping in the community",
+      "page": "41"
+    },
+    {
+      "english": "cook",
+      "meaning": "厨师",
+      "unit": "Unit 4 Helping in the community",
+      "page": "41"
+    },
+    {
+      "english": "delivery worker",
+      "meaning": "快递员",
+      "unit": "Unit 4 Helping in the community",
+      "page": "41"
+    },
+    {
+      "english": "police officer",
+      "meaning": "警察；警员",
+      "unit": "Unit 4 Helping in the community",
+      "page": "41"
+    },
+    {
+      "english": "a lot of",
+      "meaning": "大量；许多",
+      "unit": "Unit 4 Helping in the community",
+      "page": "41"
+    },
+    {
+      "english": "now",
+      "meaning": "现在",
+      "unit": "Unit 4 Helping in the community",
+      "page": "43"
+    },
+    {
+      "english": "make the bed",
+      "meaning": "铺床",
+      "unit": "Unit 4 Helping in the community",
+      "page": "43"
+    },
+    {
+      "english": "old",
+      "meaning": "过去的；年纪大的；老的",
+      "unit": "Unit 4 Helping in the community",
+      "page": "43"
+    },
+    {
+      "english": "tell",
+      "meaning": "讲述；告诉",
+      "unit": "Unit 4 Helping in the community",
+      "page": "43"
+    },
+    {
+      "english": "everyone",
+      "meaning": "每人",
+      "unit": "Unit 4 Helping in the community",
+      "page": "43"
+    },
+    {
+      "english": "Ms",
+      "meaning": "（用于女子的姓氏或姓名前，不指明婚否）女士",
+      "unit": "Unit 4 Helping in the community",
+      "page": "45"
+    },
+    {
+      "english": "speak",
+      "meaning": "说话；发言",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "weather",
+      "meaning": "天气",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "sunny",
+      "meaning": "阳光充足的",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "hot",
+      "meaning": "热的",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "bad",
+      "meaning": "令人不快的；坏的",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "cold",
+      "meaning": "冷的",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "windy",
+      "meaning": "多风的",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "cloudy",
+      "meaning": "多云的",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "rainy",
+      "meaning": "阴雨的",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "snowy",
+      "meaning": "多雪的",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "cool",
+      "meaning": "凉爽的",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "warm",
+      "meaning": "温暖的",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "tomorrow",
+      "meaning": "在明天",
+      "unit": "Unit 5 The weather and us",
+      "page": "53"
+    },
+    {
+      "english": "rain",
+      "meaning": "下雨；雨",
+      "unit": "Unit 5 The weather and us",
+      "page": "55"
+    },
+    {
+      "english": "closed",
+      "meaning": "关闭的",
+      "unit": "Unit 5 The weather and us",
+      "page": "55"
+    },
+    {
+      "english": "film",
+      "meaning": "电影",
+      "unit": "Unit 5 The weather and us",
+      "page": "55"
+    },
+    {
+      "english": "idea",
+      "meaning": "想法；主意",
+      "unit": "Unit 5 The weather and us",
+      "page": "55"
+    },
+    {
+      "english": "fly",
+      "meaning": "操纵（飞行器等）；飞",
+      "unit": "Unit 5 The weather and us",
+      "page": "56"
+    },
+    {
+      "english": "kite",
+      "meaning": "风筝",
+      "unit": "Unit 5 The weather and us",
+      "page": "56"
+    },
+    {
+      "english": "snowman",
+      "meaning": "雪人",
+      "unit": "Unit 5 The weather and us",
+      "page": "56"
+    },
+    {
+      "english": "fun",
+      "meaning": "享乐；乐趣",
+      "unit": "Unit 5 The weather and us",
+      "page": "57"
+    },
+    {
+      "english": "their",
+      "meaning": "他们的；她们的；它们的",
+      "unit": "Unit 5 The weather and us",
+      "page": "57"
+    },
+    {
+      "english": "swim",
+      "meaning": "游泳",
+      "unit": "Unit 5 The weather and us",
+      "page": "57"
+    },
+    {
+      "english": "Sydney",
+      "meaning": "悉尼",
+      "unit": "Unit 5 The weather and us",
+      "page": "52"
+    },
+    {
+      "english": "whose",
+      "meaning": "谁的",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "sweater",
+      "meaning": "毛衣",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "sock",
+      "meaning": "短袜",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "mine",
+      "meaning": "我的",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "wear",
+      "meaning": "穿；戴",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "shirt",
+      "meaning": "衬衫",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "coat",
+      "meaning": "大衣；外套",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "64"
+    },
+    {
+      "english": "dress",
+      "meaning": "连衣裙",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "65"
+    },
+    {
+      "english": "which",
+      "meaning": "哪一个；哪一些",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "67"
+    },
+    {
+      "english": "season",
+      "meaning": "季节",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "67"
+    },
+    {
+      "english": "winter",
+      "meaning": "冬天",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "67"
+    },
+    {
+      "english": "snow",
+      "meaning": "下雪；雪",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "67"
+    },
+    {
+      "english": "get together",
+      "meaning": "聚会",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "67"
+    },
+    {
+      "english": "spring",
+      "meaning": "春天",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "68"
+    },
+    {
+      "english": "summer",
+      "meaning": "夏天",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "68"
+    },
+    {
+      "english": "autumn",
+      "meaning": "秋天",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "68"
+    },
+    {
+      "english": "T-shirt",
+      "meaning": "T恤衫",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "69"
+    },
+    {
+      "english": "fall",
+      "meaning": "落下",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "69"
+    },
+    {
+      "english": "leaf",
+      "meaning": "（复数leaves）叶",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "69"
+    },
+    {
+      "english": "glove",
+      "meaning": "手套",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "69"
+    },
+    {
+      "english": "then",
+      "meaning": "然后；那时",
+      "unit": "Unit 6 Changing for the seasons",
+      "page": "69"
+    }
+  ]
+}

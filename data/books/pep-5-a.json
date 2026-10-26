@@ -1,0 +1,789 @@
+{
+  "id": "pep-5-a",
+  "title": "人教 PEP · 五年级上册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 5,
+  "term": "上",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "old",
+      "meaning": "老的；年纪大的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "young",
+      "meaning": "年轻的；岁数不大的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "funny",
+      "meaning": "滑稽的；可笑的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "kind",
+      "meaning": "体贴的；慈祥的； 宽容的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "strict",
+      "meaning": "要求严格的；严厉的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "polite",
+      "meaning": "有礼貌的；客气的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "hard-working",
+      "meaning": "工作努力的；辛勤的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "helpful",
+      "meaning": "有用的； 愿意帮忙的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "clever",
+      "meaning": "聪明的；聪颖的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "shy",
+      "meaning": "羞怯的；腼腆的；怕生的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "know",
+      "meaning": "知道；了解",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "our",
+      "meaning": "我们的",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "Ms",
+      "meaning": "（用于女子的姓氏或姓名前，不指明婚否）女士",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "will",
+      "meaning": "（谈及将来）将要",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "sometimes",
+      "meaning": "有时； 间或",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "robot",
+      "meaning": "机器人",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "him",
+      "meaning": "（用作宾语或表语）他",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "speak",
+      "meaning": "会说；会讲（某种语言）；用（某种语言）说话",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "finish",
+      "meaning": "完成；做好",
+      "unit": "Unit 1",
+      "page": "9"
+    },
+    {
+      "english": "Monday",
+      "meaning": "星期一",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Tuesday",
+      "meaning": "星期二",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Wednesday",
+      "meaning": "星期三",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Thursday",
+      "meaning": "星期四",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Friday",
+      "meaning": "星期五",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Saturday",
+      "meaning": "星期六",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "Sunday",
+      "meaning": "星期日",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "weekend",
+      "meaning": "周末",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "wash",
+      "meaning": "洗",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "wash my clothes",
+      "meaning": "洗我的衣服",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "watch",
+      "meaning": "看",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "watch TV",
+      "meaning": "看电视",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "do",
+      "meaning": "做；干",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "do homework",
+      "meaning": "做作业",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "read",
+      "meaning": "看；读",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "read books",
+      "meaning": "看书",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "play",
+      "meaning": "踢；玩；参加（体育运动）",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "play football",
+      "meaning": "踢足球",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "cooking",
+      "meaning": "烹饪；烹调",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "often",
+      "meaning": "时常；常常",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "park",
+      "meaning": "公园",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "tired",
+      "meaning": "疲倦的",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "sport",
+      "meaning": "体育运动",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "play sports",
+      "meaning": "做体育运动",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "should",
+      "meaning": "（常用于纠正别人）应该，应当",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "every",
+      "meaning": "每一个，每个",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "day",
+      "meaning": "一天；一日",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "schedule",
+      "meaning": "工作计划； 日程安排",
+      "unit": "Unit 2",
+      "page": "19"
+    },
+    {
+      "english": "sandwich",
+      "meaning": "三明治",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "salad",
+      "meaning": "蔬菜沙拉；混合沙拉",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "hamburger",
+      "meaning": "汉堡包",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "ice cream",
+      "meaning": "冰激凌",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "tea",
+      "meaning": "茶；茶水",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "fresh",
+      "meaning": "新鲜的；刚摘的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "healthy",
+      "meaning": "健康的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "delicious",
+      "meaning": "美味的； 可口的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "hot",
+      "meaning": "辣的；辛辣的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "sweet",
+      "meaning": "含糖的；甜的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "drink",
+      "meaning": "喝；饮",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "thirsty",
+      "meaning": "渴的；口渴的",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "favourite",
+      "meaning": "特别喜爱的",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "food",
+      "meaning": "食物",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "Dear",
+      "meaning": "（用于信函抬头的名字或头衔前）亲爱的",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "onion",
+      "meaning": "洋葱；葱头",
+      "unit": "Unit 3",
+      "page": "29"
+    },
+    {
+      "english": "sing",
+      "meaning": "唱；唱歌",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "song",
+      "meaning": "歌曲",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "sing English songs",
+      "meaning": "唱英文歌曲",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "play the pipa",
+      "meaning": "弹琵琶",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "kung fu",
+      "meaning": "功夫；武术",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "do kung fu",
+      "meaning": "练武术",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "dance",
+      "meaning": "跳舞",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "draw",
+      "meaning": "画",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "cartoon",
+      "meaning": "漫画",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "draw cartoons",
+      "meaning": "画漫画",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "cook",
+      "meaning": "烹调；烹饪",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "swim",
+      "meaning": "游泳",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "play basketball",
+      "meaning": "打篮球",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "ping-pong",
+      "meaning": "乒乓球",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "play ping-pong",
+      "meaning": "打乒乓球",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "speak English",
+      "meaning": "说英语",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "party",
+      "meaning": "聚会；派对",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "next",
+      "meaning": "下一个的；紧接着的； 接下来的",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "wonderful",
+      "meaning": "极好的； 了不起的",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "learn",
+      "meaning": "学；学习；学会",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "any",
+      "meaning": "任何的；任一的",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "problem",
+      "meaning": "问题",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "no problem",
+      "meaning": "没问题",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "want",
+      "meaning": "要；想要",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "send",
+      "meaning": "邮寄；发送",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "email",
+      "meaning": "电子邮件",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "at",
+      "meaning": "（后面接邮件地址）",
+      "unit": "Unit 4",
+      "page": "43"
+    },
+    {
+      "english": "clock",
+      "meaning": "时钟；钟",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "plant",
+      "meaning": "植物",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "bottle",
+      "meaning": "瓶子",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "water bottle",
+      "meaning": "水瓶",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "bike",
+      "meaning": "自行车；脚踏车",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "photo",
+      "meaning": "照片；相片",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "front",
+      "meaning": "正面",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "in front of",
+      "meaning": "在⋯⋯前面",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "between",
+      "meaning": "在⋯⋯中间",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "above",
+      "meaning": "在（或向） ⋯⋯上面",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "beside",
+      "meaning": "在旁边（附近）",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "behind",
+      "meaning": "在（ 或向） ⋯⋯ 后面",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "there",
+      "meaning": "（表示存在或发生）",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "grandparent",
+      "meaning": "祖父； 祖母；外祖父；外祖母",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "their",
+      "meaning": "他们的；她们的； 它们的",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "house",
+      "meaning": "房屋；房子；住宅",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "lot",
+      "meaning": "大量；许多",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "lots of",
+      "meaning": "大量；许多",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "flower",
+      "meaning": "花；花朵",
+      "unit": "Unit 5",
+      "page": "51"
+    },
+    {
+      "english": "move",
+      "meaning": "搬家",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "dirty",
+      "meaning": "肮脏的",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "everywhere",
+      "meaning": "处处； 到处",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "mouse",
+      "meaning": "老鼠",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "live",
+      "meaning": "住；居住",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "nature",
+      "meaning": "自然界；大自然",
+      "unit": "Unit 5",
+      "page": "53"
+    },
+    {
+      "english": "forest",
+      "meaning": "森林；林区",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "river",
+      "meaning": "河；江",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "lake",
+      "meaning": "湖；湖泊",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "mountain",
+      "meaning": "高山；山岳",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "hill",
+      "meaning": "山丘；小山",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "tree",
+      "meaning": "树；树木；乔木",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "bridge",
+      "meaning": "桥",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "building",
+      "meaning": "建筑物；房子； 楼房",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "village",
+      "meaning": "村庄；村镇",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "house",
+      "meaning": "房屋；房子；住宅",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "boating",
+      "meaning": "划船",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "go boating",
+      "meaning": "去划船",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "rabbit",
+      "meaning": "兔；野兔",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "high",
+      "meaning": "高的",
+      "unit": "Unit 6",
+      "page": "63"
+    }
+  ]
+}

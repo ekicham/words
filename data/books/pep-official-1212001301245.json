@@ -1,0 +1,663 @@
+{
+  "id": "pep-official-1212001301245",
+  "title": "人教 PEP · 三年级上册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 3,
+  "term": "上",
+  "source_url": "https://book.pep.com.cn/1212001301245/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。",
+  "words": [
+    {
+      "english": "name",
+      "meaning": "名字",
+      "unit": "Unit 1 Making friends",
+      "page": "4"
+    },
+    {
+      "english": "nice",
+      "meaning": "令人愉快的；友好的",
+      "unit": "Unit 1 Making friends",
+      "page": "4"
+    },
+    {
+      "english": "ear",
+      "meaning": "耳朵",
+      "unit": "Unit 1 Making friends",
+      "page": "5"
+    },
+    {
+      "english": "hand",
+      "meaning": "手",
+      "unit": "Unit 1 Making friends",
+      "page": "5"
+    },
+    {
+      "english": "eye",
+      "meaning": "眼睛",
+      "unit": "Unit 1 Making friends",
+      "page": "5"
+    },
+    {
+      "english": "mouth",
+      "meaning": "嘴",
+      "unit": "Unit 1 Making friends",
+      "page": "5"
+    },
+    {
+      "english": "arm",
+      "meaning": "胳膊",
+      "unit": "Unit 1 Making friends",
+      "page": "5"
+    },
+    {
+      "english": "can",
+      "meaning": "可以",
+      "unit": "Unit 1 Making friends",
+      "page": "7"
+    },
+    {
+      "english": "share",
+      "meaning": "分享",
+      "unit": "Unit 1 Making friends",
+      "page": "7"
+    },
+    {
+      "english": "smile",
+      "meaning": "微笑；笑",
+      "unit": "Unit 1 Making friends",
+      "page": "8"
+    },
+    {
+      "english": "listen",
+      "meaning": "听；倾听",
+      "unit": "Unit 1 Making friends",
+      "page": "8"
+    },
+    {
+      "english": "help",
+      "meaning": "帮助",
+      "unit": "Unit 1 Making friends",
+      "page": "8"
+    },
+    {
+      "english": "say",
+      "meaning": "说；讲",
+      "unit": "Unit 1 Making friends",
+      "page": "9"
+    },
+    {
+      "english": "friend",
+      "meaning": "朋友",
+      "unit": "Unit 1 Making friends",
+      "page": "9"
+    },
+    {
+      "english": "good",
+      "meaning": "好的",
+      "unit": "Unit 1 Making friends",
+      "page": "9"
+    },
+    {
+      "english": "mum",
+      "meaning": "（口语）妈妈",
+      "unit": "Unit 2 Different families",
+      "page": "16"
+    },
+    {
+      "english": "dad",
+      "meaning": "（口语）爸爸；爹爹",
+      "unit": "Unit 2 Different families",
+      "page": "16"
+    },
+    {
+      "english": "grandma",
+      "meaning": "奶奶；姥姥",
+      "unit": "Unit 2 Different families",
+      "page": "16"
+    },
+    {
+      "english": "grandpa",
+      "meaning": "爷爷；姥爷",
+      "unit": "Unit 2 Different families",
+      "page": "16"
+    },
+    {
+      "english": "grandfather",
+      "meaning": "（外）祖父；爷爷；姥爷；外公",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "grandmother",
+      "meaning": "（外）祖母；奶奶；姥姥；外婆",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "mother",
+      "meaning": "母亲；妈妈",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "father",
+      "meaning": "父亲；爸爸",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "me",
+      "meaning": "我",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "sister",
+      "meaning": "姐；妹",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "family",
+      "meaning": "家；家庭",
+      "unit": "Unit 2 Different families",
+      "page": "17"
+    },
+    {
+      "english": "have",
+      "meaning": "有",
+      "unit": "Unit 2 Different families",
+      "page": "19"
+    },
+    {
+      "english": "big",
+      "meaning": "大的",
+      "unit": "Unit 2 Different families",
+      "page": "19"
+    },
+    {
+      "english": "cousin",
+      "meaning": "堂（表）兄弟；堂（表）姐妹",
+      "unit": "Unit 2 Different families",
+      "page": "19"
+    },
+    {
+      "english": "brother",
+      "meaning": "哥；弟",
+      "unit": "Unit 2 Different families",
+      "page": "19"
+    },
+    {
+      "english": "baby",
+      "meaning": "婴儿",
+      "unit": "Unit 2 Different families",
+      "page": "20"
+    },
+    {
+      "english": "uncle",
+      "meaning": "伯父；叔父；舅父；姑父；姨父",
+      "unit": "Unit 2 Different families",
+      "page": "20"
+    },
+    {
+      "english": "aunt",
+      "meaning": "伯母；婶母；舅母；姑母；姨母",
+      "unit": "Unit 2 Different families",
+      "page": "20"
+    },
+    {
+      "english": "small",
+      "meaning": "小的",
+      "unit": "Unit 2 Different families",
+      "page": "21"
+    },
+    {
+      "english": "like",
+      "meaning": "喜欢",
+      "unit": "Unit 3 Our animal friends",
+      "page": "28"
+    },
+    {
+      "english": "dog",
+      "meaning": "狗",
+      "unit": "Unit 3 Our animal friends",
+      "page": "28"
+    },
+    {
+      "english": "pet",
+      "meaning": "宠物",
+      "unit": "Unit 3 Our animal friends",
+      "page": "28"
+    },
+    {
+      "english": "cat",
+      "meaning": "猫",
+      "unit": "Unit 3 Our animal friends",
+      "page": "28"
+    },
+    {
+      "english": "fish",
+      "meaning": "鱼；鱼肉",
+      "unit": "Unit 3 Our animal friends",
+      "page": "29"
+    },
+    {
+      "english": "bird",
+      "meaning": "鸟",
+      "unit": "Unit 3 Our animal friends",
+      "page": "29"
+    },
+    {
+      "english": "rabbit",
+      "meaning": "兔",
+      "unit": "Unit 3 Our animal friends",
+      "page": "29"
+    },
+    {
+      "english": "go",
+      "meaning": "去；走",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "zoo",
+      "meaning": "动物园",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "fox",
+      "meaning": "狐狸",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "Miss",
+      "meaning": "（学生对女教师的称呼）老师；女士",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "panda",
+      "meaning": "大熊猫",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "red panda",
+      "meaning": "小熊猫",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "cute",
+      "meaning": "可爱的",
+      "unit": "Unit 3 Our animal friends",
+      "page": "31"
+    },
+    {
+      "english": "monkey",
+      "meaning": "猴子",
+      "unit": "Unit 3 Our animal friends",
+      "page": "32"
+    },
+    {
+      "english": "tiger",
+      "meaning": "老虎",
+      "unit": "Unit 3 Our animal friends",
+      "page": "32"
+    },
+    {
+      "english": "elephant",
+      "meaning": "大象",
+      "unit": "Unit 3 Our animal friends",
+      "page": "32"
+    },
+    {
+      "english": "lion",
+      "meaning": "狮；狮子",
+      "unit": "Unit 3 Our animal friends",
+      "page": "32"
+    },
+    {
+      "english": "animal",
+      "meaning": "动物",
+      "unit": "Unit 3 Our animal friends",
+      "page": "33"
+    },
+    {
+      "english": "giraffe",
+      "meaning": "长颈鹿",
+      "unit": "Unit 3 Our animal friends",
+      "page": "33"
+    },
+    {
+      "english": "tall",
+      "meaning": "高的",
+      "unit": "Unit 3 Our animal friends",
+      "page": "33"
+    },
+    {
+      "english": "fast",
+      "meaning": "快的",
+      "unit": "Unit 3 Our animal friends",
+      "page": "33"
+    },
+    {
+      "english": "apple",
+      "meaning": "苹果",
+      "unit": "Unit 4 Plants around us",
+      "page": "40"
+    },
+    {
+      "english": "banana",
+      "meaning": "香蕉",
+      "unit": "Unit 4 Plants around us",
+      "page": "40"
+    },
+    {
+      "english": "farm",
+      "meaning": "农场",
+      "unit": "Unit 4 Plants around us",
+      "page": "40"
+    },
+    {
+      "english": "air",
+      "meaning": "空气",
+      "unit": "Unit 4 Plants around us",
+      "page": "40"
+    },
+    {
+      "english": "orange",
+      "meaning": "橙子；柑橘",
+      "unit": "Unit 4 Plants around us",
+      "page": "41"
+    },
+    {
+      "english": "grape",
+      "meaning": "葡萄",
+      "unit": "Unit 4 Plants around us",
+      "page": "41"
+    },
+    {
+      "english": "school",
+      "meaning": "学校",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "garden",
+      "meaning": "花园",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "need",
+      "meaning": "需要",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "water",
+      "meaning": "给……浇水；水",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "flower",
+      "meaning": "花；花朵",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "grass",
+      "meaning": "草；草地",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "plant",
+      "meaning": "种植；植物",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "new",
+      "meaning": "新的",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "tree",
+      "meaning": "树",
+      "unit": "Unit 4 Plants around us",
+      "page": "43"
+    },
+    {
+      "english": "sun",
+      "meaning": "阳光；太阳",
+      "unit": "Unit 4 Plants around us",
+      "page": "44"
+    },
+    {
+      "english": "give",
+      "meaning": "给",
+      "unit": "Unit 4 Plants around us",
+      "page": "45"
+    },
+    {
+      "english": "us",
+      "meaning": "我们",
+      "unit": "Unit 4 Plants around us",
+      "page": "45"
+    },
+    {
+      "english": "them",
+      "meaning": "它们；他们；她们",
+      "unit": "Unit 4 Plants around us",
+      "page": "45"
+    },
+    {
+      "english": "colour",
+      "meaning": "颜色",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "orange",
+      "meaning": "橙红色；橙红色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "green",
+      "meaning": "绿色；绿色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "red",
+      "meaning": "红色；红色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "blue",
+      "meaning": "蓝色；蓝色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "make",
+      "meaning": "使出现；做",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "purple",
+      "meaning": "紫色；紫色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "52"
+    },
+    {
+      "english": "brown",
+      "meaning": "棕色；棕色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "53"
+    },
+    {
+      "english": "bear",
+      "meaning": "熊",
+      "unit": "Unit 5 The colourful world",
+      "page": "53"
+    },
+    {
+      "english": "yellow",
+      "meaning": "黄色；黄色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "53"
+    },
+    {
+      "english": "duck",
+      "meaning": "鸭",
+      "unit": "Unit 5 The colourful world",
+      "page": "53"
+    },
+    {
+      "english": "sea",
+      "meaning": "海；海洋",
+      "unit": "Unit 5 The colourful world",
+      "page": "53"
+    },
+    {
+      "english": "some",
+      "meaning": "一些",
+      "unit": "Unit 5 The colourful world",
+      "page": "55"
+    },
+    {
+      "english": "pink",
+      "meaning": "粉色；粉色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "55"
+    },
+    {
+      "english": "draw",
+      "meaning": "画",
+      "unit": "Unit 5 The colourful world",
+      "page": "55"
+    },
+    {
+      "english": "white",
+      "meaning": "白色；白色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "56"
+    },
+    {
+      "english": "black",
+      "meaning": "黑色；黑色的",
+      "unit": "Unit 5 The colourful world",
+      "page": "56"
+    },
+    {
+      "english": "old",
+      "meaning": "（多少）岁；年纪；旧的",
+      "unit": "Unit 6 Useful numbers",
+      "page": "64"
+    },
+    {
+      "english": "five",
+      "meaning": "五",
+      "unit": "Unit 6 Useful numbers",
+      "page": "64"
+    },
+    {
+      "english": "year",
+      "meaning": "年纪；年",
+      "unit": "Unit 6 Useful numbers",
+      "page": "64"
+    },
+    {
+      "english": "one",
+      "meaning": "一",
+      "unit": "Unit 6 Useful numbers",
+      "page": "65"
+    },
+    {
+      "english": "two",
+      "meaning": "二",
+      "unit": "Unit 6 Useful numbers",
+      "page": "65"
+    },
+    {
+      "english": "three",
+      "meaning": "三",
+      "unit": "Unit 6 Useful numbers",
+      "page": "65"
+    },
+    {
+      "english": "four",
+      "meaning": "四",
+      "unit": "Unit 6 Useful numbers",
+      "page": "65"
+    },
+    {
+      "english": "ten",
+      "meaning": "十",
+      "unit": "Unit 6 Useful numbers",
+      "page": "67"
+    },
+    {
+      "english": "six",
+      "meaning": "六",
+      "unit": "Unit 6 Useful numbers",
+      "page": "67"
+    },
+    {
+      "english": "seven",
+      "meaning": "七",
+      "unit": "Unit 6 Useful numbers",
+      "page": "68"
+    },
+    {
+      "english": "eight",
+      "meaning": "八",
+      "unit": "Unit 6 Useful numbers",
+      "page": "68"
+    },
+    {
+      "english": "nine",
+      "meaning": "九",
+      "unit": "Unit 6 Useful numbers",
+      "page": "68"
+    },
+    {
+      "english": "o'clock",
+      "meaning": "（表示整点）……点钟",
+      "unit": "Unit 6 Useful numbers",
+      "page": "69"
+    },
+    {
+      "english": "cut",
+      "meaning": "切块",
+      "unit": "Unit 6 Useful numbers",
+      "page": "69"
+    },
+    {
+      "english": "eat",
+      "meaning": "吃",
+      "unit": "Unit 6 Useful numbers",
+      "page": "69"
+    },
+    {
+      "english": "cake",
+      "meaning": "蛋糕",
+      "unit": "Unit 6 Useful numbers",
+      "page": "69"
+    }
+  ]
+}

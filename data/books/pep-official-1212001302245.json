@@ -1,0 +1,705 @@
+{
+  "id": "pep-official-1212001302245",
+  "title": "人教 PEP · 三年级下册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 3,
+  "term": "下",
+  "source_url": "https://book.pep.com.cn/1212001302245/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。",
+  "words": [
+    {
+      "english": "where",
+      "meaning": "在哪里；到哪里",
+      "unit": "Unit 1 Meeting new people",
+      "page": "4"
+    },
+    {
+      "english": "from",
+      "meaning": "（表示来源）来自，从……来",
+      "unit": "Unit 1 Meeting new people",
+      "page": "4"
+    },
+    {
+      "english": "about",
+      "meaning": "关于；大约",
+      "unit": "Unit 1 Meeting new people",
+      "page": "4"
+    },
+    {
+      "english": "today",
+      "meaning": "今天",
+      "unit": "Unit 1 Meeting new people",
+      "page": "5"
+    },
+    {
+      "english": "teacher",
+      "meaning": "教师",
+      "unit": "Unit 1 Meeting new people",
+      "page": "5"
+    },
+    {
+      "english": "student",
+      "meaning": "学生",
+      "unit": "Unit 1 Meeting new people",
+      "page": "5"
+    },
+    {
+      "english": "after",
+      "meaning": "在……后面",
+      "unit": "Unit 1 Meeting new people",
+      "page": "7"
+    },
+    {
+      "english": "who",
+      "meaning": "谁；什么人",
+      "unit": "Unit 1 Meeting new people",
+      "page": "7"
+    },
+    {
+      "english": "girl",
+      "meaning": "女孩",
+      "unit": "Unit 1 Meeting new people",
+      "page": "7"
+    },
+    {
+      "english": "neighbour",
+      "meaning": "邻居",
+      "unit": "Unit 1 Meeting new people",
+      "page": "7"
+    },
+    {
+      "english": "boy",
+      "meaning": "男孩",
+      "unit": "Unit 1 Meeting new people",
+      "page": "8"
+    },
+    {
+      "english": "woman",
+      "meaning": "成年女子；妇女",
+      "unit": "Unit 1 Meeting new people",
+      "page": "8"
+    },
+    {
+      "english": "man",
+      "meaning": "成年男子；男人",
+      "unit": "Unit 1 Meeting new people",
+      "page": "8"
+    },
+    {
+      "english": "Mr",
+      "meaning": "（用于男子的姓氏或姓名前）先生",
+      "unit": "Unit 1 Meeting new people",
+      "page": "8"
+    },
+    {
+      "english": "classmate",
+      "meaning": "同班同学",
+      "unit": "Unit 1 Meeting new people",
+      "page": "9"
+    },
+    {
+      "english": "he",
+      "meaning": "他",
+      "unit": "Unit 1 Meeting new people",
+      "page": "9"
+    },
+    {
+      "english": "also",
+      "meaning": "也",
+      "unit": "Unit 1 Meeting new people",
+      "page": "9"
+    },
+    {
+      "english": "English",
+      "meaning": "英语的；英语",
+      "unit": "Unit 1 Meeting new people",
+      "page": "9"
+    },
+    {
+      "english": "she",
+      "meaning": "她",
+      "unit": "Unit 1 Meeting new people",
+      "page": "9"
+    },
+    {
+      "english": "very",
+      "meaning": "很；非常；十分",
+      "unit": "Unit 1 Meeting new people",
+      "page": "9"
+    },
+    {
+      "english": "UK",
+      "meaning": "英国",
+      "unit": "Unit 1 Meeting new people",
+      "page": "4"
+    },
+    {
+      "english": "China",
+      "meaning": "中国",
+      "unit": "Unit 1 Meeting new people",
+      "page": "4"
+    },
+    {
+      "english": "Canada",
+      "meaning": "加拿大",
+      "unit": "Unit 1 Meeting new people",
+      "page": "5"
+    },
+    {
+      "english": "USA",
+      "meaning": "美国",
+      "unit": "Unit 1 Meeting new people",
+      "page": "5"
+    },
+    {
+      "english": "has",
+      "meaning": "（have的第三人称单数形式）具有（某种外表、特性或特征）",
+      "unit": "Unit 2 My words and actions",
+      "page": "16"
+    },
+    {
+      "english": "long",
+      "meaning": "（长度或距离）长的",
+      "unit": "Unit 2 My words and actions",
+      "page": "16"
+    },
+    {
+      "english": "body",
+      "meaning": "身体",
+      "unit": "Unit 2 My words and actions",
+      "page": "16"
+    },
+    {
+      "english": "short",
+      "meaning": "短的；个子矮的",
+      "unit": "Unit 2 My words and actions",
+      "page": "16"
+    },
+    {
+      "english": "leg",
+      "meaning": "腿",
+      "unit": "Unit 2 My words and actions",
+      "page": "16"
+    },
+    {
+      "english": "right",
+      "meaning": "（意见或判断）准确，确切，恰当",
+      "unit": "Unit 2 My words and actions",
+      "page": "16"
+    },
+    {
+      "english": "fat",
+      "meaning": "肥的；肥胖的",
+      "unit": "Unit 2 My words and actions",
+      "page": "17"
+    },
+    {
+      "english": "thin",
+      "meaning": "瘦的",
+      "unit": "Unit 2 My words and actions",
+      "page": "17"
+    },
+    {
+      "english": "slow",
+      "meaning": "缓慢的；慢的",
+      "unit": "Unit 2 My words and actions",
+      "page": "17"
+    },
+    {
+      "english": "love",
+      "meaning": "喜爱；爱",
+      "unit": "Unit 2 My words and actions",
+      "page": "17"
+    },
+    {
+      "english": "tail",
+      "meaning": "尾；尾巴",
+      "unit": "Unit 2 My words and actions",
+      "page": "17"
+    },
+    {
+      "english": "her",
+      "meaning": "她；她的",
+      "unit": "Unit 2 My words and actions",
+      "page": "19"
+    },
+    {
+      "english": "gift",
+      "meaning": "礼物",
+      "unit": "Unit 2 My words and actions",
+      "page": "19"
+    },
+    {
+      "english": "picture",
+      "meaning": "图画；绘画",
+      "unit": "Unit 2 My words and actions",
+      "page": "20"
+    },
+    {
+      "english": "card",
+      "meaning": "贺卡；慰问卡；卡片",
+      "unit": "Unit 2 My words and actions",
+      "page": "20"
+    },
+    {
+      "english": "sing",
+      "meaning": "唱（歌）；演唱",
+      "unit": "Unit 2 My words and actions",
+      "page": "20"
+    },
+    {
+      "english": "dance",
+      "meaning": "跳舞",
+      "unit": "Unit 2 My words and actions",
+      "page": "20"
+    },
+    {
+      "english": "talk",
+      "meaning": "说话；讲话；谈话",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "face",
+      "meaning": "脸；面孔",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "eraser",
+      "meaning": "橡皮",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "28"
+    },
+    {
+      "english": "find",
+      "meaning": "找到；找回",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "28"
+    },
+    {
+      "english": "ruler",
+      "meaning": "直尺",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "28"
+    },
+    {
+      "english": "pen",
+      "meaning": "钢笔",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "29"
+    },
+    {
+      "english": "pencil",
+      "meaning": "铅笔",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "29"
+    },
+    {
+      "english": "book",
+      "meaning": "书；书籍",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "29"
+    },
+    {
+      "english": "bag",
+      "meaning": "包；袋",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "29"
+    },
+    {
+      "english": "paper",
+      "meaning": "纸",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "29"
+    },
+    {
+      "english": "these",
+      "meaning": "这些",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "31"
+    },
+    {
+      "english": "see",
+      "meaning": "看见",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "32"
+    },
+    {
+      "english": "smell",
+      "meaning": "闻（气味）",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "32"
+    },
+    {
+      "english": "taste",
+      "meaning": "尝（味道）",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "32"
+    },
+    {
+      "english": "hear",
+      "meaning": "听见；听到",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "32"
+    },
+    {
+      "english": "touch",
+      "meaning": "触摸；碰",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "32"
+    },
+    {
+      "english": "nose",
+      "meaning": "鼻；鼻子",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "33"
+    },
+    {
+      "english": "tongue",
+      "meaning": "舌；舌头",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "33"
+    },
+    {
+      "english": "class",
+      "meaning": "课；班级",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "33"
+    },
+    {
+      "english": "in class",
+      "meaning": "在课堂上",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "33"
+    },
+    {
+      "english": "computer",
+      "meaning": "计算机；电脑",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "33"
+    },
+    {
+      "english": "learn",
+      "meaning": "学；学习",
+      "unit": "Unit 3 Tools and senses for learning",
+      "page": "33"
+    },
+    {
+      "english": "breakfast",
+      "meaning": "早餐；早饭",
+      "unit": "Unit 4 Healthy food",
+      "page": "40"
+    },
+    {
+      "english": "all",
+      "meaning": "所有；全部",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "time",
+      "meaning": "时间",
+      "unit": "Unit 4 Healthy food",
+      "page": "40"
+    },
+    {
+      "english": "song",
+      "meaning": "歌；歌曲",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "or",
+      "meaning": "或；或者；还是",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "so",
+      "meaning": "（表示大小或数量）这么，那么",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "much",
+      "meaning": "许多；大量",
+      "unit": "Unit 2 My words and actions",
+      "page": "21"
+    },
+    {
+      "english": "bread",
+      "meaning": "面包",
+      "unit": "Unit 4 Healthy food",
+      "page": "40"
+    },
+    {
+      "english": "egg",
+      "meaning": "（作食物用的）蛋；鸡蛋",
+      "unit": "Unit 4 Healthy food",
+      "page": "40"
+    },
+    {
+      "english": "milk",
+      "meaning": "（牛或羊等的）奶",
+      "unit": "Unit 4 Healthy food",
+      "page": "40"
+    },
+    {
+      "english": "noodle",
+      "meaning": "（常用复数）面条",
+      "unit": "Unit 4 Healthy food",
+      "page": "41"
+    },
+    {
+      "english": "juice",
+      "meaning": "果汁",
+      "unit": "Unit 4 Healthy food",
+      "page": "41"
+    },
+    {
+      "english": "rice",
+      "meaning": "大米",
+      "unit": "Unit 4 Healthy food",
+      "page": "43"
+    },
+    {
+      "english": "meat",
+      "meaning": "肉",
+      "unit": "Unit 4 Healthy food",
+      "page": "43"
+    },
+    {
+      "english": "vegetable",
+      "meaning": "蔬菜",
+      "unit": "Unit 4 Healthy food",
+      "page": "43"
+    },
+    {
+      "english": "healthy",
+      "meaning": "健康的",
+      "unit": "Unit 4 Healthy food",
+      "page": "44"
+    },
+    {
+      "english": "plate",
+      "meaning": "盘子",
+      "unit": "Unit 4 Healthy food",
+      "page": "44"
+    },
+    {
+      "english": "soup",
+      "meaning": "汤",
+      "unit": "Unit 4 Healthy food",
+      "page": "44"
+    },
+    {
+      "english": "fruit",
+      "meaning": "水果",
+      "unit": "Unit 4 Healthy food",
+      "page": "44"
+    },
+    {
+      "english": "colourful",
+      "meaning": "五彩缤纷的",
+      "unit": "Unit 4 Healthy food",
+      "page": "45"
+    },
+    {
+      "english": "candy",
+      "meaning": "糖果",
+      "unit": "Unit 4 Healthy food",
+      "page": "45"
+    },
+    {
+      "english": "yummy",
+      "meaning": "很好吃的",
+      "unit": "Unit 4 Healthy food",
+      "page": "45"
+    },
+    {
+      "english": "boat",
+      "meaning": "小船；舟",
+      "unit": "Unit 5 Old things!",
+      "page": "52"
+    },
+    {
+      "english": "cool",
+      "meaning": "（因时髦、漂亮且与众不同而）酷的，绝妙的",
+      "unit": "Unit 5 Old things!",
+      "page": "52"
+    },
+    {
+      "english": "keep",
+      "meaning": "保有；留着",
+      "unit": "Unit 5 Old things!",
+      "page": "52"
+    },
+    {
+      "english": "at",
+      "meaning": "在（某处）",
+      "unit": "Unit 5 Old things!",
+      "page": "53"
+    },
+    {
+      "english": "home",
+      "meaning": "家；住所",
+      "unit": "Unit 5 Old things!",
+      "page": "53"
+    },
+    {
+      "english": "ball",
+      "meaning": "球",
+      "unit": "Unit 5 Old things!",
+      "page": "53"
+    },
+    {
+      "english": "doll",
+      "meaning": "玩偶；玩具娃娃",
+      "unit": "Unit 5 Old things!",
+      "page": "53"
+    },
+    {
+      "english": "car",
+      "meaning": "小汽车；轿车",
+      "unit": "Unit 5 Old things!",
+      "page": "53"
+    },
+    {
+      "english": "on",
+      "meaning": "（覆盖、附着）在……上",
+      "unit": "Unit 5 Old things!",
+      "page": "53"
+    },
+    {
+      "english": "shelf",
+      "meaning": "（复数shelves）架子",
+      "unit": "Unit 5 Old things!",
+      "page": "55"
+    },
+    {
+      "english": "in",
+      "meaning": "在……内；在……中",
+      "unit": "Unit 5 Old things!",
+      "page": "55"
+    },
+    {
+      "english": "box",
+      "meaning": "盒子",
+      "unit": "Unit 5 Old things!",
+      "page": "55"
+    },
+    {
+      "english": "cap",
+      "meaning": "帽子",
+      "unit": "Unit 5 Old things!",
+      "page": "55"
+    },
+    {
+      "english": "map",
+      "meaning": "地图",
+      "unit": "Unit 5 Old things!",
+      "page": "55"
+    },
+    {
+      "english": "under",
+      "meaning": "在（或到、通过）……下面",
+      "unit": "Unit 5 Old things!",
+      "page": "56"
+    },
+    {
+      "english": "still",
+      "meaning": "还是；仍然",
+      "unit": "Unit 5 Old things!",
+      "page": "56"
+    },
+    {
+      "english": "put",
+      "meaning": "放；安置",
+      "unit": "Unit 5 Old things!",
+      "page": "57"
+    },
+    {
+      "english": "piggy bank",
+      "meaning": "猪形储钱罐",
+      "unit": "Unit 6 Numbers in life",
+      "page": "69"
+    },
+    {
+      "english": "pay",
+      "meaning": "付费",
+      "unit": "Unit 6 Numbers in life",
+      "page": "69"
+    },
+    {
+      "english": "fourteen",
+      "meaning": "十四",
+      "unit": "Unit 6 Numbers in life",
+      "page": "65"
+    },
+    {
+      "english": "thirteen",
+      "meaning": "十三",
+      "unit": "Unit 6 Numbers in life",
+      "page": "65"
+    },
+    {
+      "english": "eleven",
+      "meaning": "十一",
+      "unit": "Unit 6 Numbers in life",
+      "page": "65"
+    },
+    {
+      "english": "twenty",
+      "meaning": "二十",
+      "unit": "Unit 6 Numbers in life",
+      "page": "67"
+    },
+    {
+      "english": "seventeen",
+      "meaning": "十七",
+      "unit": "Unit 6 Numbers in life",
+      "page": "67"
+    },
+    {
+      "english": "sixteen",
+      "meaning": "十六",
+      "unit": "Unit 6 Numbers in life",
+      "page": "67"
+    },
+    {
+      "english": "eighteen",
+      "meaning": "十八",
+      "unit": "Unit 6 Numbers in life",
+      "page": "68"
+    },
+    {
+      "english": "nineteen",
+      "meaning": "十九",
+      "unit": "Unit 6 Numbers in life",
+      "page": "68"
+    },
+    {
+      "english": "fifteen",
+      "meaning": "十五",
+      "unit": "Unit 6 Numbers in life",
+      "page": "64"
+    },
+    {
+      "english": "twelve",
+      "meaning": "十二",
+      "unit": "Unit 6 Numbers in life",
+      "page": "64"
+    },
+    {
+      "english": "back",
+      "meaning": "回到原处",
+      "unit": "Unit 6 Numbers in life",
+      "page": "69"
+    }
+  ]
+}

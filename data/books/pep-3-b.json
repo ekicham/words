@@ -1,0 +1,441 @@
+{
+  "id": "pep-3-b",
+  "title": "人教 PEP · 三年级下册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 3,
+  "term": "下",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "UK",
+      "meaning": "英国",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "Canada",
+      "meaning": "加拿大",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "USA",
+      "meaning": "美国",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "China",
+      "meaning": "中国",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "she",
+      "meaning": "她",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "student",
+      "meaning": "学生",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "pupil",
+      "meaning": "学生； （尤指）小学生",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "he",
+      "meaning": "他",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "teacher",
+      "meaning": "教师",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "boy",
+      "meaning": "男孩",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "and",
+      "meaning": "和；与",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "girl",
+      "meaning": "女孩",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "new",
+      "meaning": "新的",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "friend",
+      "meaning": "朋友",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "today",
+      "meaning": "今天",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "father",
+      "meaning": "父亲；爸爸",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "dad",
+      "meaning": "（口语）爸爸；爹爹",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "man",
+      "meaning": "男人",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "woman",
+      "meaning": "女人",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "mother",
+      "meaning": "母亲；妈妈",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "sister",
+      "meaning": "姐；妹",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "brother",
+      "meaning": "兄；弟",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "grandmother",
+      "meaning": "（外）祖母",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "grandma",
+      "meaning": "（口语）（外）祖母",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "grandfather",
+      "meaning": "（外）祖父",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "grandpa",
+      "meaning": "（口语）（外）祖父",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "family",
+      "meaning": "家；家庭",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "thin",
+      "meaning": "瘦的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "fat",
+      "meaning": "胖的；肥的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "tall",
+      "meaning": "高的",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "short",
+      "meaning": "矮的；短的",
+      "unit": "Unit 3",
+      "page": "25,28"
+    },
+    {
+      "english": "long",
+      "meaning": "长的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "small",
+      "meaning": "小的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "big",
+      "meaning": "大的",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "giraffe",
+      "meaning": "长颈鹿",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "so",
+      "meaning": "这么；那么",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "children",
+      "meaning": "（child 的复数）儿童",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "tail",
+      "meaning": "尾巴",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "on",
+      "meaning": "在⋯⋯上",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "in",
+      "meaning": "在⋯⋯里",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "under",
+      "meaning": "在⋯⋯下面",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "chair",
+      "meaning": "椅子",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "desk",
+      "meaning": "书桌",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "cap",
+      "meaning": "帽子",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "ball",
+      "meaning": "球",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "car",
+      "meaning": "小汽车",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "boat",
+      "meaning": "小船",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "map",
+      "meaning": "地图",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "toy",
+      "meaning": "玩具",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "box",
+      "meaning": "盒；箱",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "pear",
+      "meaning": "梨",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "apple",
+      "meaning": "苹果",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "orange",
+      "meaning": "橙子",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "banana",
+      "meaning": "香蕉",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "watermelon",
+      "meaning": "西瓜",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "strawberry",
+      "meaning": "草莓",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "grape",
+      "meaning": "葡萄",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "buy",
+      "meaning": "买",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "fruit",
+      "meaning": "水果",
+      "unit": "Unit 5",
+      "page": "48"
+    },
+    {
+      "english": "eleven",
+      "meaning": "十一",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "twelve",
+      "meaning": "十二",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "thirteen",
+      "meaning": "十三",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "fourteen",
+      "meaning": "十四",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "fifteen",
+      "meaning": "十五",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "sixteen",
+      "meaning": "十六",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "seventeen",
+      "meaning": "十七",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "eighteen",
+      "meaning": "十八",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "nineteen",
+      "meaning": "十九",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "twenty",
+      "meaning": "二十",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "kite",
+      "meaning": "风筝",
+      "unit": "Unit 6",
+      "page": "58"
+    },
+    {
+      "english": "beautiful",
+      "meaning": "美丽的",
+      "unit": "Unit 6",
+      "page": "58"
+    }
+  ]
+}

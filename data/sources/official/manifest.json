@@ -1,0 +1,354 @@
+{
+  "catalog_url": "https://jc.pep.com.cn/",
+  "checked_on": "2026-09-25",
+  "scope": "PEP 三年级起点，小学三至六年级全部官网目录条目；五下两版分别收录。",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "books": [
+    {
+      "id": "pep-official-1212001301245",
+      "title": "人教 PEP · 三年级上册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001301245/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202210/W020260824579447393023.jpg",
+      "reader_pages": 100,
+      "status": "ready",
+      "count": 108,
+      "units": {
+        "Unit 1 Making friends": 15,
+        "Unit 2 Different families": 19,
+        "Unit 3 Our animal friends": 22,
+        "Unit 4 Plants around us": 19,
+        "Unit 5 The colourful world": 17,
+        "Unit 6 Useful numbers": 16
+      },
+      "tsv": "1212001301245.tsv",
+      "sha256": "5e0bd5a99b3c3767e03b2720753dc4a4e8489623e23434b15a0572eb11fe1433",
+      "word_table_images": [
+        {
+          "reader_page": 89,
+          "printed_page": 83,
+          "url": "https://book.pep.com.cn/1212001301245/files/mobile/89.jpg",
+          "sha256": "dc2ebb4cc63575994a257a75db48eb71d4a3d670e0f9a6269291e67632f3d7be"
+        },
+        {
+          "reader_page": 90,
+          "printed_page": 84,
+          "url": "https://book.pep.com.cn/1212001301245/files/mobile/90.jpg",
+          "sha256": "1d964fad0c9a0ff8cbd092c029edd916d85e09bcea2f31453471bfcea954f54a"
+        },
+        {
+          "reader_page": 91,
+          "printed_page": 85,
+          "url": "https://book.pep.com.cn/1212001301245/files/mobile/91.jpg",
+          "sha256": "a8f80f816b43a318ed077f1561a977645adf81d75d451e0e46c14f5fe22a4aea"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001302245",
+      "title": "人教 PEP · 三年级下册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001302245/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202302/W020250225516350127429.jpg",
+      "reader_pages": 98,
+      "status": "ready",
+      "count": 115,
+      "units": {
+        "Unit 1 Meeting new people": 24,
+        "Unit 2 My words and actions": 24,
+        "Unit 3 Tools and senses for learning": 20,
+        "Unit 4 Healthy food": 17,
+        "Unit 5 Old things!": 17,
+        "Unit 6 Numbers in life": 13
+      },
+      "tsv": "1212001302245.tsv",
+      "sha256": "d33d7eabaaf9a8e1a6b6240bade69a61f33a36c10ffff8eb70103e025ce38660",
+      "word_table_images": [
+        {
+          "reader_page": 86,
+          "printed_page": 80,
+          "url": "https://book.pep.com.cn/1212001302245/files/mobile/86.jpg",
+          "sha256": "950018add54ea4365c24abf7ce8428b311bd6b69d5054bd23f16db34a9c9daa2"
+        },
+        {
+          "reader_page": 87,
+          "printed_page": 81,
+          "url": "https://book.pep.com.cn/1212001302245/files/mobile/87.jpg",
+          "sha256": "76c09243d46d39d272075d427f7295687466a529efd8eb5e5f822dbefc96821f"
+        },
+        {
+          "reader_page": 88,
+          "printed_page": 82,
+          "url": "https://book.pep.com.cn/1212001302245/files/mobile/88.jpg",
+          "sha256": "d961e0eeb78cee0d30edb4f3e9086c90da2fe601203b062d78650b1ce094ddd8"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001401255",
+      "title": "人教 PEP · 四年级上册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001401255/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202210/W020260824579903505598.jpg",
+      "reader_pages": 96,
+      "status": "ready",
+      "count": 110,
+      "units": {
+        "Unit 1 Helping at home": 19,
+        "Unit 2 My friends": 13,
+        "Unit 3 Places we live in": 18,
+        "Unit 4 Helping in the community": 15,
+        "Unit 5 The weather and us": 24,
+        "Unit 6 Changing for the seasons": 21
+      },
+      "tsv": "1212001401255.tsv",
+      "sha256": "993a496a15654965413afa1d8c11046be0c9de0d55f7c563e3c48d5d784ca558",
+      "word_table_images": [
+        {
+          "reader_page": 86,
+          "printed_page": 80,
+          "url": "https://book.pep.com.cn/1212001401255/files/mobile/86.jpg",
+          "sha256": "3bfe59dfaaf697571370708dd316f28cb3a032e8a6e40f49ea699dd25d5eb0c8"
+        },
+        {
+          "reader_page": 87,
+          "printed_page": 81,
+          "url": "https://book.pep.com.cn/1212001401255/files/mobile/87.jpg",
+          "sha256": "4963a164d3e6612b74ce003279bcbf4312845e2d283e50cfd7b67df828377eef"
+        },
+        {
+          "reader_page": 88,
+          "printed_page": 82,
+          "url": "https://book.pep.com.cn/1212001401255/files/mobile/88.jpg",
+          "sha256": "f499b9d301f65367d0e25460a96568a2c56a8156938018df7819af8af18ad68b"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001402255",
+      "title": "人教 PEP · 四年级下册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001402255/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202302/W020260206370822595278.jpg",
+      "reader_pages": 98,
+      "status": "ready",
+      "count": 139,
+      "units": {
+        "Unit 1 Class rules": 23,
+        "Unit 2 Family rules": 22,
+        "Unit 3 Time for school": 14,
+        "Unit 4 Going shopping": 21,
+        "Unit 5 Farms and us": 13,
+        "Unit 6 From farm to table": 18,
+        "Numbers 数词": 28
+      },
+      "tsv": "1212001402255.tsv",
+      "sha256": "f1581270afb9f0115041f1402101addd2648fcd5d95296df4eb152f90869e59a",
+      "word_table_images": [
+        {
+          "reader_page": 86,
+          "printed_page": 80,
+          "url": "https://book.pep.com.cn/1212001402255/files/mobile/86.jpg",
+          "sha256": "68c96c02e34f8c4c183ddae051c22c3488cc3041a9af19bf452407a9717b873c"
+        },
+        {
+          "reader_page": 87,
+          "printed_page": 81,
+          "url": "https://book.pep.com.cn/1212001402255/files/mobile/87.jpg",
+          "sha256": "12c2cacb567ac5e3727b38bd1de3d7b0e79ff95086ba8a0b6a160e59764de656"
+        },
+        {
+          "reader_page": 88,
+          "printed_page": 82,
+          "url": "https://book.pep.com.cn/1212001402255/files/mobile/88.jpg",
+          "sha256": "6eff7bc38c97be7683a88d83f2cf552610ea235a9559e8be31bd910551f29f58"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001501255",
+      "title": "人教 PEP · 五年级上册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001501255/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202603/W020260309558645699415.jpg",
+      "reader_pages": 96,
+      "status": "ready",
+      "count": 119,
+      "units": {
+        "Unit 1 Different friends": 18,
+        "Unit 2 My feelings": 17,
+        "Unit 3 Work and play": 20,
+        "Unit 4 Healthy habits": 21,
+        "Unit 5 Food we eat": 20,
+        "Unit 6 Nature and us": 23
+      },
+      "tsv": "1212001501255.tsv",
+      "sha256": "46fe478b4561fefeb3876af448e98d718602d4b6135bfb4758685a88e318f351",
+      "word_table_images": [
+        {
+          "reader_page": 86,
+          "printed_page": 80,
+          "url": "https://book.pep.com.cn/1212001501255/files/mobile/86.jpg",
+          "sha256": "07351fd4477989613cc4fd67599ccd07e6c4f0371fa1c2ba90712ea1ee291b14"
+        },
+        {
+          "reader_page": 87,
+          "printed_page": 81,
+          "url": "https://book.pep.com.cn/1212001501255/files/mobile/87.jpg",
+          "sha256": "c0df5389877de07970882628f507ade4619d2d10534d652c17fa6b90c2e703f6"
+        },
+        {
+          "reader_page": 88,
+          "printed_page": 82,
+          "url": "https://book.pep.com.cn/1212001501255/files/mobile/88.jpg",
+          "sha256": "a44bb522e7608f562633f8d235b10d77070e92beb563953f458e7b6bf7b54ed6"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001502255",
+      "title": "人教 PEP · 五年级下册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001502255/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202603/W020260309559121517632.jpg",
+      "reader_pages": 100,
+      "status": "ready",
+      "count": 141,
+      "units": {
+        "Unit 1 Following the rules": 16,
+        "Unit 2 Our community": 27,
+        "Unit 3 Life in different seasons": 32,
+        "Unit 4 My hometown": 30,
+        "Unit 5 Travelling around": 15,
+        "Unit 6 Making a travel plan": 21
+      },
+      "tsv": "1212001502255.tsv",
+      "sha256": "742d121ade3877f9ded2312f6925df8452621fae52445998f222a349d9b32456",
+      "word_table_images": [
+        {
+          "reader_page": 87,
+          "printed_page": 81,
+          "url": "https://book.pep.com.cn/1212001502255/files/mobile/87.jpg",
+          "sha256": "6d86c6a7b327bf2682a4aab9264a923b0c0f19d5ea0872b4bf7b10b9199385d3"
+        },
+        {
+          "reader_page": 88,
+          "printed_page": 82,
+          "url": "https://book.pep.com.cn/1212001502255/files/mobile/88.jpg",
+          "sha256": "3d30699c52e89edde44683d1610a73348cbb63847a5f6cab0dee5fef9d9fabd8"
+        },
+        {
+          "reader_page": 89,
+          "printed_page": 83,
+          "url": "https://book.pep.com.cn/1212001502255/files/mobile/89.jpg",
+          "sha256": "c42ced1fd28cf015f285b7df7e401abab19bf36ddfadcdba5494f172a46beaf0"
+        },
+        {
+          "reader_page": 90,
+          "printed_page": 84,
+          "url": "https://book.pep.com.cn/1212001502255/files/mobile/90.jpg",
+          "sha256": "205aee8cb84a9582dbf7ef7639d27d07397fbe58097936e242f406620897179d"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001502145",
+      "title": "人教 PEP · 五年级下册（官网收录旧版）",
+      "edition": "官网收录旧版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001502145/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202302/W020250225518205535556.jpg",
+      "reader_pages": 88,
+      "status": "ready",
+      "count": 156,
+      "units": {
+        "Unit 1 My day": 36,
+        "Unit 2 My favourite season": 24,
+        "Unit 3 My school calendar": 35,
+        "Unit 4 When is the art show?": 21,
+        "Unit 5 Whose dog is it?": 16,
+        "Unit 6 Work quietly!": 24
+      },
+      "tsv": "1212001502145.tsv",
+      "sha256": "c94605dde8178e333b5d50225182a811ac36960063a759ce4dad571d07d1a33f",
+      "word_table_images": [
+        {
+          "reader_page": 78,
+          "printed_page": 72,
+          "url": "https://book.pep.com.cn/1212001502145/files/mobile/78.jpg",
+          "sha256": "de1cb6d63142805464d74216896ce6105158fef68e18b1fc9eb6bf004f58d528"
+        },
+        {
+          "reader_page": 79,
+          "printed_page": 73,
+          "url": "https://book.pep.com.cn/1212001502145/files/mobile/79.jpg",
+          "sha256": "93a12f8256e02b8fb51adf4731582be8f8d5e8deddad45dfa4547b1ce2b8100e"
+        },
+        {
+          "reader_page": 80,
+          "printed_page": 74,
+          "url": "https://book.pep.com.cn/1212001502145/files/mobile/80.jpg",
+          "sha256": "c83178b6c079ad7cc4b251144c0ac0f6117e484dc6ff5a756c4e4a061cd3dbd7"
+        }
+      ]
+    },
+    {
+      "id": "pep-official-1212001601265",
+      "title": "人教 PEP · 六年级上册（2024 审定）",
+      "edition": "2024 审定新版 · 三年级起点",
+      "source_url": "https://book.pep.com.cn/1212001601265/",
+      "cover_url": "https://jc.pep.com.cn/xsys/english/202210/W020260821378848497890.jpg",
+      "reader_pages": 100,
+      "status": "ready",
+      "count": 144,
+      "units": {
+        "Unit 1 Amazing places": 26,
+        "Unit 2 Getting together": 25,
+        "Unit 3 Healthy life": 20,
+        "Unit 4 Managing money well": 17,
+        "Unit 5 Exploring space": 29,
+        "Unit 6 Energy, nature and us": 27
+      },
+      "tsv": "1212001601265.tsv",
+      "sha256": "bd266b77d42f3455ea1397290200ed91446a0cc58fd54a07ab8af387a9830c7f",
+      "word_table_images": [
+        {
+          "reader_page": 87,
+          "printed_page": 81,
+          "url": "https://book.pep.com.cn/1212001601265/files/mobile/87.jpg",
+          "sha256": "315cef11d4fc504b61d8f30116794a5f13adead84d13e7b0c83f7c5cf7bcaa01"
+        },
+        {
+          "reader_page": 88,
+          "printed_page": 82,
+          "url": "https://book.pep.com.cn/1212001601265/files/mobile/88.jpg",
+          "sha256": "dc40e765b701cce5abda22c8f6eb782ddf982969ad07bd7f17cd0ca5465cf72a"
+        },
+        {
+          "reader_page": 89,
+          "printed_page": 83,
+          "url": "https://book.pep.com.cn/1212001601265/files/mobile/89.jpg",
+          "sha256": "a5bca50e85e91dcfc1b5d9813441baaca0cf0eda2638cae0e41f1d0753a0c6d3"
+        },
+        {
+          "reader_page": 90,
+          "printed_page": 84,
+          "url": "https://book.pep.com.cn/1212001601265/files/mobile/90.jpg",
+          "sha256": "366977749d52be5b60cd2c771279fae0e8d7ccc464b7d54d50fc66f8f7cd7997"
+        }
+      ],
+      "phonetics": {
+        "file": "1212001601265-phonetics.tsv",
+        "sha256": "19c28995de52eb060fd42dc683ee9e416ed3987bbd0f6f7fac0071545bc9f995",
+        "unique_spellings": 143,
+        "covered_entries": 144,
+        "note": "教材已注音部分人工核对，短语未注部分以英式参考补全，中文地名保留拼音。"
+      }
+    },
+    {
+      "id": "pep-official-1212001602145",
+      "source_url": "https://book.pep.com.cn/1212001602145/",
+      "status": "deferred_by_user",
+      "reason": "用户明确要求本次六年级下册先不导入；已有存档六下继续保留"
+    }
+  ]
+}

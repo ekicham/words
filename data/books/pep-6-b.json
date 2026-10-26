@@ -1,0 +1,561 @@
+{
+  "id": "pep-6-b",
+  "title": "人教 PEP · 六年级下册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 6,
+  "term": "下",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "younger",
+      "meaning": "（young 的比较级）更年轻的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "older",
+      "meaning": "（old 的比较级） 更年长的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "taller",
+      "meaning": "（tall 的比较级） 更高的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "shorter",
+      "meaning": "（short 的比较级）更矮的；更短的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "longer",
+      "meaning": "（long 的比较级） 更长的",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "thinner",
+      "meaning": "（thin 的比较级） 更瘦的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "heavier",
+      "meaning": "（heavy 的比较级）更重的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "bigger",
+      "meaning": "（big 的比较级） 更大的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "smaller",
+      "meaning": "（small 的比较级）更小的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "stronger",
+      "meaning": "（strong 的比较级）更强壮的",
+      "unit": "Unit 1",
+      "page": "7"
+    },
+    {
+      "english": "dinosaur",
+      "meaning": "恐龙",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "hall",
+      "meaning": "大厅",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "metre",
+      "meaning": "米（美式英语： meter ）",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "than",
+      "meaning": "比",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "both",
+      "meaning": "两个都",
+      "unit": "Unit 1",
+      "page": "4"
+    },
+    {
+      "english": "kilogram",
+      "meaning": "千克；公斤",
+      "unit": "Unit 1",
+      "page": "6"
+    },
+    {
+      "english": "countryside",
+      "meaning": "乡村",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "lower",
+      "meaning": "（low 的比较级） 更低地",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "shadow",
+      "meaning": "阴影；影子",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "smarter",
+      "meaning": "（smart 的比较级）更聪明的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "become",
+      "meaning": "开始变得； 变成",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "cleaned",
+      "meaning": "（clean 的过去式） 打扫",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "stayed",
+      "meaning": "（stay 的过去式） 停留；待",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "washed",
+      "meaning": "（wash 的过去式） 洗",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "watched",
+      "meaning": "（watch 的过去式） 看",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "had",
+      "meaning": "（have 的过去式） 患病；得病",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "had a cold",
+      "meaning": "感冒",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "slept",
+      "meaning": "（sleep 的过去式） 睡觉",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "read",
+      "meaning": "（read 的过去式） 读",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "saw",
+      "meaning": "（see 的过去式）看见",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "last",
+      "meaning": "最近的；上一个的",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "yesterday",
+      "meaning": "昨天",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "before",
+      "meaning": "在⋯⋯之前",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "drank",
+      "meaning": "（drink 的过去式） 喝",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "show",
+      "meaning": "演出",
+      "unit": "Unit 2",
+      "page": "14"
+    },
+    {
+      "english": "magazine",
+      "meaning": "杂志",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "better",
+      "meaning": "（well 的比较级） 更好的",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "faster",
+      "meaning": "（fast 的比较级） 更快的",
+      "unit": "Unit 2",
+      "page": "16"
+    },
+    {
+      "english": "hotel",
+      "meaning": "旅馆",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "fixed",
+      "meaning": "（fix 的过去式） 修理",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "broken",
+      "meaning": "破损的",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "lamp",
+      "meaning": "台灯",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "loud",
+      "meaning": "喧闹的；大声的",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "enjoy",
+      "meaning": "享受⋯⋯乐趣； 喜爱",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "stay",
+      "meaning": "暂住；逗留",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "went",
+      "meaning": "（go 的过去式）去",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "camp",
+      "meaning": "野营",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "went camping",
+      "meaning": "（尤指在假日） 野营",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "fish",
+      "meaning": "钓鱼；捕鱼",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "went fishing",
+      "meaning": "去钓鱼",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "rode",
+      "meaning": "（ride 的过去式） 骑（马；自行车）",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "hurt",
+      "meaning": "（hurt 的过去式） （使）受伤",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "ate",
+      "meaning": "（eat 的过去式）吃",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "took",
+      "meaning": "（take 的过去式）拍照",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "took pictures",
+      "meaning": "照相",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "bought",
+      "meaning": "（buy 的过去式）买",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "gift",
+      "meaning": "礼物",
+      "unit": "Unit 3",
+      "page": "27"
+    },
+    {
+      "english": "fell",
+      "meaning": "（fall的过去式）摔倒",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "off",
+      "meaning": "从（某处）落下",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "Labour Day",
+      "meaning": "劳动节",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "mule",
+      "meaning": "骡子",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "Turpan",
+      "meaning": "吐鲁番",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "could",
+      "meaning": "（can 的过去式） 能",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "till",
+      "meaning": "直到",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "beach",
+      "meaning": "海滩；沙滩",
+      "unit": "Unit 3",
+      "page": "26"
+    },
+    {
+      "english": "basket",
+      "meaning": "篮；筐",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "part",
+      "meaning": "角色",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "licked",
+      "meaning": "（lick 的过去式） 舔",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "laughed",
+      "meaning": "（laugh 的过去式）笑",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "dining hall",
+      "meaning": "饭厅",
+      "unit": "Unit 4",
+      "page": "35"
+    },
+    {
+      "english": "grass",
+      "meaning": "草坪",
+      "unit": "Unit 4",
+      "page": "35"
+    },
+    {
+      "english": "gym",
+      "meaning": "体育馆",
+      "unit": "Unit 4",
+      "page": "35"
+    },
+    {
+      "english": "ago",
+      "meaning": "以前",
+      "unit": "Unit 4",
+      "page": "35"
+    },
+    {
+      "english": "cycling",
+      "meaning": "骑自行车运动 （或活动）",
+      "unit": "Unit 4",
+      "page": "37"
+    },
+    {
+      "english": "go cycling",
+      "meaning": "去骑自行车",
+      "unit": "Unit 4",
+      "page": "37"
+    },
+    {
+      "english": "ice-skate",
+      "meaning": "滑冰",
+      "unit": "Unit 4",
+      "page": "37"
+    },
+    {
+      "english": "badminton",
+      "meaning": "羽毛球运动",
+      "unit": "Unit 4",
+      "page": "37"
+    },
+    {
+      "english": "star",
+      "meaning": "星",
+      "unit": "Unit 4",
+      "page": "34"
+    },
+    {
+      "english": "easy",
+      "meaning": "容易的",
+      "unit": "Unit 4",
+      "page": "34"
+    },
+    {
+      "english": "look up",
+      "meaning": "（在词典中或通过电脑） 查阅",
+      "unit": "Unit 4",
+      "page": "34"
+    },
+    {
+      "english": "Internet",
+      "meaning": "互联网",
+      "unit": "Unit 4",
+      "page": "34"
+    },
+    {
+      "english": "different",
+      "meaning": "不同的",
+      "unit": "Unit 4",
+      "page": "36"
+    },
+    {
+      "english": "active",
+      "meaning": "积极的；活跃的",
+      "unit": "Unit 4",
+      "page": "36"
+    },
+    {
+      "english": "race",
+      "meaning": "赛跑",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "nothing",
+      "meaning": "没有什么",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "thought",
+      "meaning": "（think 的过去式） 想",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "felt",
+      "meaning": "（feel 的过去式）感觉",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "cheetah",
+      "meaning": "猎豹",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "trip",
+      "meaning": "绊倒",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "woke",
+      "meaning": "（wake 的过去式） 醒",
+      "unit": "Unit 4",
+      "page": "38"
+    },
+    {
+      "english": "dream",
+      "meaning": "梦",
+      "unit": "Unit 4",
+      "page": "38"
+    }
+  ]
+}

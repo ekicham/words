@@ -1,0 +1,399 @@
+{
+  "id": "pep-3-a",
+  "title": "人教 PEP · 三年级上册（存档旧版）",
+  "publisher": "人民教育出版社 · PEP",
+  "edition": "旧版存档 · 三年级起点 · 吴欣主编",
+  "grade": 3,
+  "term": "上",
+  "source_url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88PEP%EF%BC%89%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "源自 ChinaTextbook 所收教材单元词汇附录，含词汇与短语；保留教材词形和大小写。该版本不代表当前学校版本，请核对课本。",
+  "words": [
+    {
+      "english": "ruler",
+      "meaning": "( ) 尺子",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "pencil",
+      "meaning": "铅笔",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "eraser",
+      "meaning": "( ) 橡皮",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "crayon",
+      "meaning": "蜡笔",
+      "unit": "Unit 1",
+      "page": "5"
+    },
+    {
+      "english": "bag",
+      "meaning": "包",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "pen",
+      "meaning": "钢笔",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "pencil box",
+      "meaning": "铅笔盒",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "book",
+      "meaning": "书",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "no",
+      "meaning": "不",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "your",
+      "meaning": "( ) 你（们）的",
+      "unit": "Unit 1",
+      "page": "8"
+    },
+    {
+      "english": "red",
+      "meaning": "红色；红色的",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "green",
+      "meaning": "绿色；绿色的",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "yellow",
+      "meaning": "黄色；黄色的",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "blue",
+      "meaning": "蓝色；蓝色的",
+      "unit": "Unit 2",
+      "page": "15"
+    },
+    {
+      "english": "black",
+      "meaning": "黑色；黑色的",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "brown",
+      "meaning": "棕色；棕色的",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "white",
+      "meaning": "白色；白色的",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "orange",
+      "meaning": "橙色；橙色的",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "OK",
+      "meaning": "好；行",
+      "unit": "Unit 2",
+      "page": "18"
+    },
+    {
+      "english": "mum",
+      "meaning": "妈妈 (美式英语：mom )",
+      "unit": "Unit 2",
+      "page": "17"
+    },
+    {
+      "english": "face",
+      "meaning": "脸",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "ear",
+      "meaning": "( ) 耳朵",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "eye",
+      "meaning": "眼睛",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "nose",
+      "meaning": "鼻子",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "mouth",
+      "meaning": "嘴",
+      "unit": "Unit 3",
+      "page": "25"
+    },
+    {
+      "english": "arm",
+      "meaning": "胳膊",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "hand",
+      "meaning": "手",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "head",
+      "meaning": "头",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "body",
+      "meaning": "身体",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "leg",
+      "meaning": "腿",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "foot",
+      "meaning": "脚",
+      "unit": "Unit 3",
+      "page": "28"
+    },
+    {
+      "english": "school",
+      "meaning": "学校",
+      "unit": "Unit 3",
+      "page": "24"
+    },
+    {
+      "english": "duck",
+      "meaning": "鸭子",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "pig",
+      "meaning": "猪",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "cat",
+      "meaning": "猫",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "bear",
+      "meaning": "( ) 熊",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "dog",
+      "meaning": "狗",
+      "unit": "Unit 4",
+      "page": "39"
+    },
+    {
+      "english": "elephant",
+      "meaning": "大象",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "monkey",
+      "meaning": "猴子",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "bird",
+      "meaning": "鸟",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "tiger",
+      "meaning": "( ) 老虎",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "panda",
+      "meaning": "大熊猫",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "zoo",
+      "meaning": "动物园",
+      "unit": "Unit 4",
+      "page": "42"
+    },
+    {
+      "english": "funny",
+      "meaning": "滑稽的；好笑的",
+      "unit": "Unit 4",
+      "page": "41"
+    },
+    {
+      "english": "bread",
+      "meaning": "面包",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "juice",
+      "meaning": "果汁",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "egg",
+      "meaning": "蛋",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "milk",
+      "meaning": "牛奶",
+      "unit": "Unit 5",
+      "page": "49"
+    },
+    {
+      "english": "water",
+      "meaning": "水",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "cake",
+      "meaning": "蛋糕",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "fish",
+      "meaning": "鱼肉；鱼",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "rice",
+      "meaning": "米饭",
+      "unit": "Unit 5",
+      "page": "52"
+    },
+    {
+      "english": "one",
+      "meaning": "一",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "two",
+      "meaning": "二",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "three",
+      "meaning": "三",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "four",
+      "meaning": "四",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "five",
+      "meaning": "五",
+      "unit": "Unit 6",
+      "page": "59"
+    },
+    {
+      "english": "six",
+      "meaning": "六",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "seven",
+      "meaning": "七",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "eight",
+      "meaning": "八",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "nine",
+      "meaning": "九",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "ten",
+      "meaning": "十",
+      "unit": "Unit 6",
+      "page": "62"
+    },
+    {
+      "english": "brother",
+      "meaning": "兄；弟",
+      "unit": "Unit 6",
+      "page": "61"
+    },
+    {
+      "english": "plate",
+      "meaning": "盘子",
+      "unit": "Unit 6",
+      "page": "58"
+    }
+  ]
+}

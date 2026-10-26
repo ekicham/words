@@ -1,0 +1,849 @@
+{
+  "id": "pep-official-1212001402255",
+  "title": "人教 PEP · 四年级下册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 4,
+  "term": "下",
+  "source_url": "https://book.pep.com.cn/1212001402255/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。 另含同一附录中的 28 个数词，单列 Numbers 数词；其页码 82 指数词表所在附录页。",
+  "words": [
+    {
+      "english": "sorry",
+      "meaning": "对不起",
+      "unit": "Unit 1 Class rules",
+      "page": "4"
+    },
+    {
+      "english": "hurry up",
+      "meaning": "快点；赶快",
+      "unit": "Unit 1 Class rules",
+      "page": "4"
+    },
+    {
+      "english": "late",
+      "meaning": "迟到；迟发生",
+      "unit": "Unit 1 Class rules",
+      "page": "4"
+    },
+    {
+      "english": "class",
+      "meaning": "课；课程；班；班级",
+      "unit": "Unit 1 Class rules",
+      "page": "4"
+    },
+    {
+      "english": "ready",
+      "meaning": "准备好",
+      "unit": "Unit 1 Class rules",
+      "page": "4"
+    },
+    {
+      "english": "rule",
+      "meaning": "规则；规章",
+      "unit": "Unit 1 Class rules",
+      "page": "5"
+    },
+    {
+      "english": "classroom",
+      "meaning": "教室",
+      "unit": "Unit 1 Class rules",
+      "page": "5"
+    },
+    {
+      "english": "turn off",
+      "meaning": "关掉",
+      "unit": "Unit 1 Class rules",
+      "page": "5"
+    },
+    {
+      "english": "light",
+      "meaning": "灯；光",
+      "unit": "Unit 1 Class rules",
+      "page": "5"
+    },
+    {
+      "english": "blackboard",
+      "meaning": "黑板",
+      "unit": "Unit 1 Class rules",
+      "page": "7"
+    },
+    {
+      "english": "desk",
+      "meaning": "书桌；办公桌",
+      "unit": "Unit 1 Class rules",
+      "page": "7"
+    },
+    {
+      "english": "chair",
+      "meaning": "椅子",
+      "unit": "Unit 1 Class rules",
+      "page": "7"
+    },
+    {
+      "english": "tidy",
+      "meaning": "整洁的；整齐的；使整洁；整理",
+      "unit": "Unit 1 Class rules",
+      "page": "7"
+    },
+    {
+      "english": "music",
+      "meaning": "音乐",
+      "unit": "Unit 1 Class rules",
+      "page": "8"
+    },
+    {
+      "english": "door",
+      "meaning": "门",
+      "unit": "Unit 1 Class rules",
+      "page": "8"
+    },
+    {
+      "english": "window",
+      "meaning": "窗",
+      "unit": "Unit 1 Class rules",
+      "page": "8"
+    },
+    {
+      "english": "fan",
+      "meaning": "风扇",
+      "unit": "Unit 1 Class rules",
+      "page": "8"
+    },
+    {
+      "english": "when",
+      "meaning": "当……时；什么时候",
+      "unit": "Unit 1 Class rules",
+      "page": "9"
+    },
+    {
+      "english": "understand",
+      "meaning": "懂；理解",
+      "unit": "Unit 1 Class rules",
+      "page": "9"
+    },
+    {
+      "english": "wall",
+      "meaning": "墙；壁",
+      "unit": "Unit 1 Class rules",
+      "page": "9"
+    },
+    {
+      "english": "newspaper",
+      "meaning": "报纸",
+      "unit": "Unit 1 Class rules",
+      "page": "9"
+    },
+    {
+      "english": "hand out",
+      "meaning": "分发",
+      "unit": "Unit 1 Class rules",
+      "page": "9"
+    },
+    {
+      "english": "workbook",
+      "meaning": "练习册；作业本",
+      "unit": "Unit 1 Class rules",
+      "page": "9"
+    },
+    {
+      "english": "watch",
+      "meaning": "看",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "TV",
+      "meaning": "电视",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "homework",
+      "meaning": "家庭作业",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "first",
+      "meaning": "首先；首次；第一",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "wet",
+      "meaning": "湿的；未干的",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "run",
+      "meaning": "跑；奔跑",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "living room",
+      "meaning": "客厅；起居室",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "safe",
+      "meaning": "安全的",
+      "unit": "Unit 2 Family rules",
+      "page": "16"
+    },
+    {
+      "english": "word",
+      "meaning": "言语；单词；字",
+      "unit": "Unit 2 Family rules",
+      "page": "17"
+    },
+    {
+      "english": "wash",
+      "meaning": "洗",
+      "unit": "Unit 2 Family rules",
+      "page": "17"
+    },
+    {
+      "english": "helpful",
+      "meaning": "有帮助的；有用的",
+      "unit": "Unit 2 Family rules",
+      "page": "17"
+    },
+    {
+      "english": "loud",
+      "meaning": "说话太大声的；吵闹的",
+      "unit": "Unit 2 Family rules",
+      "page": "19"
+    },
+    {
+      "english": "sleep",
+      "meaning": "睡觉",
+      "unit": "Unit 2 Family rules",
+      "page": "19"
+    },
+    {
+      "english": "bedroom",
+      "meaning": "卧室",
+      "unit": "Unit 2 Family rules",
+      "page": "19"
+    },
+    {
+      "english": "kitchen",
+      "meaning": "厨房",
+      "unit": "Unit 2 Family rules",
+      "page": "19"
+    },
+    {
+      "english": "study",
+      "meaning": "书房",
+      "unit": "Unit 2 Family rules",
+      "page": "20"
+    },
+    {
+      "english": "bathroom",
+      "meaning": "浴室；洗手间",
+      "unit": "Unit 2 Family rules",
+      "page": "20"
+    },
+    {
+      "english": "think",
+      "meaning": "想；思考",
+      "unit": "Unit 2 Family rules",
+      "page": "21"
+    },
+    {
+      "english": "work",
+      "meaning": "（花费时间和精力）做（某事）；工作",
+      "unit": "Unit 2 Family rules",
+      "page": "21"
+    },
+    {
+      "english": "hard",
+      "meaning": "努力地；费力地",
+      "unit": "Unit 2 Family rules",
+      "page": "21"
+    },
+    {
+      "english": "follow",
+      "meaning": "遵循，听从（忠告、指示等）",
+      "unit": "Unit 2 Family rules",
+      "page": "21"
+    },
+    {
+      "english": "feel",
+      "meaning": "觉得；感到",
+      "unit": "Unit 2 Family rules",
+      "page": "21"
+    },
+    {
+      "english": "over",
+      "meaning": "结束（的）",
+      "unit": "Unit 3 Time for school",
+      "page": "28"
+    },
+    {
+      "english": "kid",
+      "meaning": "小孩",
+      "unit": "Unit 3 Time for school",
+      "page": "28"
+    },
+    {
+      "english": "dinner",
+      "meaning": "（中午或晚上吃的）正餐",
+      "unit": "Unit 3 Time for school",
+      "page": "28"
+    },
+    {
+      "english": "art",
+      "meaning": "美术；艺术",
+      "unit": "Unit 3 Time for school",
+      "page": "29"
+    },
+    {
+      "english": "lunch",
+      "meaning": "午餐",
+      "unit": "Unit 3 Time for school",
+      "page": "29"
+    },
+    {
+      "english": "maths",
+      "meaning": "数学",
+      "unit": "Unit 3 Time for school",
+      "page": "29"
+    },
+    {
+      "english": "get up",
+      "meaning": "起床",
+      "unit": "Unit 3 Time for school",
+      "page": "31"
+    },
+    {
+      "english": "go to school",
+      "meaning": "上学",
+      "unit": "Unit 3 Time for school",
+      "page": "31"
+    },
+    {
+      "english": "go home",
+      "meaning": "回家",
+      "unit": "Unit 3 Time for school",
+      "page": "32"
+    },
+    {
+      "english": "go to bed",
+      "meaning": "上床睡觉",
+      "unit": "Unit 3 Time for school",
+      "page": "32"
+    },
+    {
+      "english": "want",
+      "meaning": "想要",
+      "unit": "Unit 3 Time for school",
+      "page": "33"
+    },
+    {
+      "english": "clock",
+      "meaning": "时钟",
+      "unit": "Unit 3 Time for school",
+      "page": "33"
+    },
+    {
+      "english": "just",
+      "meaning": "只是；仅仅；正要",
+      "unit": "Unit 3 Time for school",
+      "page": "33"
+    },
+    {
+      "english": "minute",
+      "meaning": "分钟",
+      "unit": "Unit 3 Time for school",
+      "page": "33"
+    },
+    {
+      "english": "trousers",
+      "meaning": "裤子",
+      "unit": "Unit 4 Going shopping",
+      "page": "40"
+    },
+    {
+      "english": "pair",
+      "meaning": "（由连在一起的相似两部分构成的）一条，一副",
+      "unit": "Unit 4 Going shopping",
+      "page": "40"
+    },
+    {
+      "english": "clothes",
+      "meaning": "衣服；服装",
+      "unit": "Unit 4 Going shopping",
+      "page": "40"
+    },
+    {
+      "english": "those",
+      "meaning": "（指较远的人或事物）那些",
+      "unit": "Unit 4 Going shopping",
+      "page": "40"
+    },
+    {
+      "english": "shorts",
+      "meaning": "短裤",
+      "unit": "Unit 4 Going shopping",
+      "page": "40"
+    },
+    {
+      "english": "jacket",
+      "meaning": "夹克衫；短上衣",
+      "unit": "Unit 4 Going shopping",
+      "page": "41"
+    },
+    {
+      "english": "skirt",
+      "meaning": "裙子",
+      "unit": "Unit 4 Going shopping",
+      "page": "41"
+    },
+    {
+      "english": "dear",
+      "meaning": "亲爱的",
+      "unit": "Unit 4 Going shopping",
+      "page": "43"
+    },
+    {
+      "english": "expensive",
+      "meaning": "昂贵的；价格高的",
+      "unit": "Unit 4 Going shopping",
+      "page": "43"
+    },
+    {
+      "english": "take",
+      "meaning": "买下",
+      "unit": "Unit 4 Going shopping",
+      "page": "43"
+    },
+    {
+      "english": "cheap",
+      "meaning": "便宜的",
+      "unit": "Unit 4 Going shopping",
+      "page": "44"
+    },
+    {
+      "english": "shoe",
+      "meaning": "鞋",
+      "unit": "Unit 4 Going shopping",
+      "page": "44"
+    },
+    {
+      "english": "beautiful",
+      "meaning": "美丽的",
+      "unit": "Unit 4 Going shopping",
+      "page": "44"
+    },
+    {
+      "english": "hat",
+      "meaning": "帽子",
+      "unit": "Unit 4 Going shopping",
+      "page": "44"
+    },
+    {
+      "english": "sunglasses",
+      "meaning": "太阳镜；墨镜",
+      "unit": "Unit 4 Going shopping",
+      "page": "44"
+    },
+    {
+      "english": "free",
+      "meaning": "免费的",
+      "unit": "Unit 4 Going shopping",
+      "page": "45"
+    },
+    {
+      "english": "large",
+      "meaning": "（服装、食物、日用品等）大型号的",
+      "unit": "Unit 4 Going shopping",
+      "page": "45"
+    },
+    {
+      "english": "size",
+      "meaning": "尺码；号",
+      "unit": "Unit 4 Going shopping",
+      "page": "45"
+    },
+    {
+      "english": "list",
+      "meaning": "清单；目录",
+      "unit": "Unit 4 Going shopping",
+      "page": "45"
+    },
+    {
+      "english": "try on",
+      "meaning": "试穿",
+      "unit": "Unit 4 Going shopping",
+      "page": "45"
+    },
+    {
+      "english": "any",
+      "meaning": "任何的；任一的",
+      "unit": "Unit 4 Going shopping",
+      "page": "45"
+    },
+    {
+      "english": "cow",
+      "meaning": "奶牛",
+      "unit": "Unit 5 Farms and us",
+      "page": "52"
+    },
+    {
+      "english": "horse",
+      "meaning": "马",
+      "unit": "Unit 5 Farms and us",
+      "page": "52"
+    },
+    {
+      "english": "sheep",
+      "meaning": "羊；绵羊",
+      "unit": "Unit 5 Farms and us",
+      "page": "52"
+    },
+    {
+      "english": "pig",
+      "meaning": "猪",
+      "unit": "Unit 5 Farms and us",
+      "page": "52"
+    },
+    {
+      "english": "chicken",
+      "meaning": "鸡；鸡肉",
+      "unit": "Unit 5 Farms and us",
+      "page": "52"
+    },
+    {
+      "english": "tomato",
+      "meaning": "西红柿",
+      "unit": "Unit 5 Farms and us",
+      "page": "55"
+    },
+    {
+      "english": "bee",
+      "meaning": "蜜蜂",
+      "unit": "Unit 5 Farms and us",
+      "page": "55"
+    },
+    {
+      "english": "mouse",
+      "meaning": "（复数 mice ）老鼠",
+      "unit": "Unit 5 Farms and us",
+      "page": "56"
+    },
+    {
+      "english": "carrot",
+      "meaning": "胡萝卜",
+      "unit": "Unit 5 Farms and us",
+      "page": "56"
+    },
+    {
+      "english": "potato",
+      "meaning": "土豆",
+      "unit": "Unit 5 Farms and us",
+      "page": "56"
+    },
+    {
+      "english": "green bean",
+      "meaning": "青刀豆；四季豆",
+      "unit": "Unit 5 Farms and us",
+      "page": "57"
+    },
+    {
+      "english": "can",
+      "meaning": "（盛食品或饮料的）金属罐",
+      "unit": "Unit 5 Farms and us",
+      "page": "57"
+    },
+    {
+      "english": "a box of",
+      "meaning": "一盒，一箱（东西）",
+      "unit": "Unit 5 Farms and us",
+      "page": "57"
+    },
+    {
+      "english": "feed",
+      "meaning": "给（人或动物）食物；饲养",
+      "unit": "Unit 6 From farm to table",
+      "page": "64"
+    },
+    {
+      "english": "pass",
+      "meaning": "给；递",
+      "unit": "Unit 6 From farm to table",
+      "page": "64"
+    },
+    {
+      "english": "pick",
+      "meaning": "采；摘",
+      "unit": "Unit 6 From farm to table",
+      "page": "65"
+    },
+    {
+      "english": "milk",
+      "meaning": "挤奶",
+      "unit": "Unit 6 From farm to table",
+      "page": "65"
+    },
+    {
+      "english": "knife",
+      "meaning": "刀",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "fork",
+      "meaning": "餐叉",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "chopstick",
+      "meaning": "（常用复数）筷子",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "waste",
+      "meaning": "浪费；废品",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "food",
+      "meaning": "菜肴；食物",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "delicious",
+      "meaning": "美味的；可口的",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "clear the table",
+      "meaning": "收拾餐桌",
+      "unit": "Unit 6 From farm to table",
+      "page": "67"
+    },
+    {
+      "english": "set the table",
+      "meaning": "摆放餐具",
+      "unit": "Unit 6 From farm to table",
+      "page": "68"
+    },
+    {
+      "english": "bowl",
+      "meaning": "碗",
+      "unit": "Unit 6 From farm to table",
+      "page": "68"
+    },
+    {
+      "english": "spoon",
+      "meaning": "勺；匙；调羹",
+      "unit": "Unit 6 From farm to table",
+      "page": "68"
+    },
+    {
+      "english": "supermarket",
+      "meaning": "超市",
+      "unit": "Unit 6 From farm to table",
+      "page": "69"
+    },
+    {
+      "english": "herself",
+      "meaning": "（用作女性的反身代词）她自己，自己",
+      "unit": "Unit 6 From farm to table",
+      "page": "69"
+    },
+    {
+      "english": "week",
+      "meaning": "周；星期",
+      "unit": "Unit 6 From farm to table",
+      "page": "69"
+    },
+    {
+      "english": "salad",
+      "meaning": "蔬菜沙拉",
+      "unit": "Unit 6 From farm to table",
+      "page": "69"
+    },
+    {
+      "english": "one",
+      "meaning": "一",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "two",
+      "meaning": "二",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "three",
+      "meaning": "三",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "four",
+      "meaning": "四",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "five",
+      "meaning": "五",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "six",
+      "meaning": "六",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "seven",
+      "meaning": "七",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "eight",
+      "meaning": "八",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "nine",
+      "meaning": "九",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "ten",
+      "meaning": "十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "eleven",
+      "meaning": "十一",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "twelve",
+      "meaning": "十二",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "thirteen",
+      "meaning": "十三",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "fourteen",
+      "meaning": "十四",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "fifteen",
+      "meaning": "十五",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "sixteen",
+      "meaning": "十六",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "seventeen",
+      "meaning": "十七",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "eighteen",
+      "meaning": "十八",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "nineteen",
+      "meaning": "十九",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "twenty",
+      "meaning": "二十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "thirty",
+      "meaning": "三十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "forty",
+      "meaning": "四十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "fifty",
+      "meaning": "五十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "sixty",
+      "meaning": "六十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "seventy",
+      "meaning": "七十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "eighty",
+      "meaning": "八十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "ninety",
+      "meaning": "九十",
+      "unit": "Numbers 数词",
+      "page": "82"
+    },
+    {
+      "english": "hundred",
+      "meaning": "百",
+      "unit": "Numbers 数词",
+      "page": "82"
+    }
+  ]
+}

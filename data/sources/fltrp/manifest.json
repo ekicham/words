@@ -1,0 +1,58 @@
+{
+  "book_id": "fltrp-4-a-2024-henan",
+  "source_filename": "4年级上册 外研版.pdf",
+  "source_type": "user_provided_pdf",
+  "source_sha256": "b6806118e7fe8600411a48a3b42f3ea243c4664fad188a59a0bead372a191489",
+  "pdf_pages": 99,
+  "approval_year": 2024,
+  "edition_year": null,
+  "isbn": null,
+  "editor": "孙有中",
+  "region": "河南省",
+  "region_basis": "用户明确指定，非全省选用目录",
+  "reviewed_on": "2026-09-30",
+  "count": 172,
+  "units": {
+    "Unit 1 I love sports": 29,
+    "Unit 2 Helping at home": 37,
+    "Unit 3 What's the weather like?": 26,
+    "Unit 4 Wonderful seasons": 16,
+    "Unit 5 Let's go!": 26,
+    "Unit 6 Find your way": 19,
+    "附录 · 专有名词": 10,
+    "附录 · 课本剧词汇": 9
+  },
+  "source_pages": [
+    {
+      "pdf": 87,
+      "printed": 82
+    },
+    {
+      "pdf": 88,
+      "printed": 83
+    },
+    {
+      "pdf": 89,
+      "printed": 84
+    },
+    {
+      "pdf": 90,
+      "printed": 85
+    },
+    {
+      "pdf": 96,
+      "printed": 91
+    },
+    {
+      "pdf": 97,
+      "printed": 92
+    }
+  ],
+  "normalizations": {
+    "because of sb / sth": "because of",
+    "Good job!": "Good job",
+    "on one’s own": "on one's own",
+    "I’m fine.": "I'm fine."
+  },
+  "verification": "逐页视觉核对六页词汇表；词表页不含音标；按栏顺序修正PDF文本流；未将重复的字母序Word list再次导入。"
+}

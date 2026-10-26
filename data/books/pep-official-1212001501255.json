@@ -1,0 +1,729 @@
+{
+  "id": "pep-official-1212001501255",
+  "title": "人教 PEP · 五年级上册（2024 审定）",
+  "publisher": "人民教育出版社 · PEP（官网版）",
+  "edition": "2024 审定新版 · 三年级起点",
+  "grade": 5,
+  "term": "上",
+  "source_url": "https://book.pep.com.cn/1212001501255/",
+  "regions": [
+    "浙江省"
+  ],
+  "source_note": "来源：人教社电子教材官网 2026-09-25 收录版本。按 Words in each unit 单元词汇表整理，包含普通词、星号词、短语及专名；去除音标，保留中文与课本页码。对应 2024 审定新版。原图经文字识别和逐页校对，未由教师全量审校。",
+  "words": [
+    {
+      "english": "team",
+      "meaning": "（游戏或运动的）队；（一起工作的）组，班",
+      "unit": "Unit 1 Different friends",
+      "page": "4"
+    },
+    {
+      "english": "player",
+      "meaning": "运动员；参赛选手",
+      "unit": "Unit 1 Different friends",
+      "page": "4"
+    },
+    {
+      "english": "him",
+      "meaning": "他",
+      "unit": "Unit 1 Different friends",
+      "page": "4"
+    },
+    {
+      "english": "lovely",
+      "meaning": "美丽的；优美的",
+      "unit": "Unit 1 Different friends",
+      "page": "5"
+    },
+    {
+      "english": "clever",
+      "meaning": "聪明的；聪颖的",
+      "unit": "Unit 1 Different friends",
+      "page": "5"
+    },
+    {
+      "english": "young",
+      "meaning": "幼小的；年轻的",
+      "unit": "Unit 1 Different friends",
+      "page": "5"
+    },
+    {
+      "english": "hard-working",
+      "meaning": "工作努力的；辛勤的",
+      "unit": "Unit 1 Different friends",
+      "page": "5"
+    },
+    {
+      "english": "science",
+      "meaning": "科学；自然科学",
+      "unit": "Unit 1 Different friends",
+      "page": "7"
+    },
+    {
+      "english": "robot",
+      "meaning": "机器人",
+      "unit": "Unit 1 Different friends",
+      "page": "7"
+    },
+    {
+      "english": "jump",
+      "meaning": "跳；跃",
+      "unit": "Unit 1 Different friends",
+      "page": "8"
+    },
+    {
+      "english": "rope",
+      "meaning": "绳；粗绳",
+      "unit": "Unit 1 Different friends",
+      "page": "8"
+    },
+    {
+      "english": "piano",
+      "meaning": "钢琴",
+      "unit": "Unit 1 Different friends",
+      "page": "8"
+    },
+    {
+      "english": "chess",
+      "meaning": "国际象棋",
+      "unit": "Unit 1 Different friends",
+      "page": "8"
+    },
+    {
+      "english": "front",
+      "meaning": "前部",
+      "unit": "Unit 1 Different friends",
+      "page": "9"
+    },
+    {
+      "english": "easy",
+      "meaning": "容易的；轻易的",
+      "unit": "Unit 1 Different friends",
+      "page": "9"
+    },
+    {
+      "english": "star",
+      "meaning": "歌唱（或表演）明星",
+      "unit": "Unit 1 Different friends",
+      "page": "9"
+    },
+    {
+      "english": "wonderful",
+      "meaning": "令人赞叹的；精彩的；绝妙的",
+      "unit": "Unit 1 Different friends",
+      "page": "9"
+    },
+    {
+      "english": "Australia",
+      "meaning": "澳大利亚",
+      "unit": "Unit 1 Different friends",
+      "page": "4"
+    },
+    {
+      "english": "sad",
+      "meaning": "悲哀的；难过的",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "matter",
+      "meaning": "事情；问题",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "project",
+      "meaning": "项目；方案",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "centre",
+      "meaning": "中心",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "agree",
+      "meaning": "同意；赞成",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "finish",
+      "meaning": "完成；做好",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "worried",
+      "meaning": "担心的；担忧的",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "both",
+      "meaning": "两者",
+      "unit": "Unit 2 My feelings",
+      "page": "16"
+    },
+    {
+      "english": "excited",
+      "meaning": "激动的；兴奋的",
+      "unit": "Unit 2 My feelings",
+      "page": "17"
+    },
+    {
+      "english": "wrong",
+      "meaning": "错误的",
+      "unit": "Unit 2 My feelings",
+      "page": "17"
+    },
+    {
+      "english": "angry",
+      "meaning": "愤怒的；生气的",
+      "unit": "Unit 2 My feelings",
+      "page": "17"
+    },
+    {
+      "english": "afraid",
+      "meaning": "担心；害怕",
+      "unit": "Unit 2 My feelings",
+      "page": "19"
+    },
+    {
+      "english": "parent",
+      "meaning": "父亲；母亲",
+      "unit": "Unit 2 My feelings",
+      "page": "20"
+    },
+    {
+      "english": "ask",
+      "meaning": "问；询问",
+      "unit": "Unit 2 My feelings",
+      "page": "20"
+    },
+    {
+      "english": "laugh",
+      "meaning": "笑",
+      "unit": "Unit 2 My feelings",
+      "page": "21"
+    },
+    {
+      "english": "move",
+      "meaning": "搬家；移动",
+      "unit": "Unit 2 My feelings",
+      "page": "21"
+    },
+    {
+      "english": "yours",
+      "meaning": "您的（用于书信结尾的签名前）",
+      "unit": "Unit 2 My feelings",
+      "page": "21"
+    },
+    {
+      "english": "Wednesday",
+      "meaning": "星期三",
+      "unit": "Unit 3 Work and play",
+      "page": "28"
+    },
+    {
+      "english": "subject",
+      "meaning": "科目；学科",
+      "unit": "Unit 3 Work and play",
+      "page": "28"
+    },
+    {
+      "english": "Tuesday",
+      "meaning": "星期二",
+      "unit": "Unit 3 Work and play",
+      "page": "28"
+    },
+    {
+      "english": "Friday",
+      "meaning": "星期五",
+      "unit": "Unit 3 Work and play",
+      "page": "28"
+    },
+    {
+      "english": "because",
+      "meaning": "因为",
+      "unit": "Unit 3 Work and play",
+      "page": "28"
+    },
+    {
+      "english": "Monday",
+      "meaning": "星期一",
+      "unit": "Unit 3 Work and play",
+      "page": "29"
+    },
+    {
+      "english": "Thursday",
+      "meaning": "星期四",
+      "unit": "Unit 3 Work and play",
+      "page": "29"
+    },
+    {
+      "english": "start",
+      "meaning": "开始",
+      "unit": "Unit 3 Work and play",
+      "page": "29"
+    },
+    {
+      "english": "usually",
+      "meaning": "通常地；经常地",
+      "unit": "Unit 3 Work and play",
+      "page": "31"
+    },
+    {
+      "english": "weekend",
+      "meaning": "周末",
+      "unit": "Unit 3 Work and play",
+      "page": "31"
+    },
+    {
+      "english": "sometimes",
+      "meaning": "有时；间或",
+      "unit": "Unit 3 Work and play",
+      "page": "31"
+    },
+    {
+      "english": "Saturday",
+      "meaning": "星期六",
+      "unit": "Unit 3 Work and play",
+      "page": "31"
+    },
+    {
+      "english": "Sunday",
+      "meaning": "星期日",
+      "unit": "Unit 3 Work and play",
+      "page": "31"
+    },
+    {
+      "english": "lesson",
+      "meaning": "课；一节课",
+      "unit": "Unit 3 Work and play",
+      "page": "31"
+    },
+    {
+      "english": "evening",
+      "meaning": "晚上；傍晚",
+      "unit": "Unit 3 Work and play",
+      "page": "32"
+    },
+    {
+      "english": "answer",
+      "meaning": "答复；回答",
+      "unit": "Unit 3 Work and play",
+      "page": "33"
+    },
+    {
+      "english": "ping-pong",
+      "meaning": "乒乓球",
+      "unit": "Unit 3 Work and play",
+      "page": "33"
+    },
+    {
+      "english": "night",
+      "meaning": "夜；夜晚",
+      "unit": "Unit 3 Work and play",
+      "page": "33"
+    },
+    {
+      "english": "visit",
+      "meaning": "看望；拜访；参观",
+      "unit": "Unit 3 Work and play",
+      "page": "33"
+    },
+    {
+      "english": "grandparent",
+      "meaning": "祖父；祖母；外祖父；外祖母",
+      "unit": "Unit 3 Work and play",
+      "page": "33"
+    },
+    {
+      "english": "stay",
+      "meaning": "待；保持；继续是",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "should",
+      "meaning": "（提出或征询建议）该，可以",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "flu",
+      "meaning": "流行性感冒；流感",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "else",
+      "meaning": "其他的；别的",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "exercise",
+      "meaning": "锻炼；训练；操练",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "enough",
+      "meaning": "足够的；充足的；充分的",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "if",
+      "meaning": "如果；假若；倘若",
+      "unit": "Unit 4 Healthy habits",
+      "page": "40"
+    },
+    {
+      "english": "habit",
+      "meaning": "习惯",
+      "unit": "Unit 4 Healthy habits",
+      "page": "41"
+    },
+    {
+      "english": "house",
+      "meaning": "房子",
+      "unit": "Unit 4 Healthy habits",
+      "page": "43"
+    },
+    {
+      "english": "show",
+      "meaning": "（电视或广播）节目",
+      "unit": "Unit 4 Healthy habits",
+      "page": "43"
+    },
+    {
+      "english": "phone",
+      "meaning": "电话；电话机",
+      "unit": "Unit 4 Healthy habits",
+      "page": "43"
+    },
+    {
+      "english": "then",
+      "meaning": "那么；因此；既然如此",
+      "unit": "Unit 4 Healthy habits",
+      "page": "43"
+    },
+    {
+      "english": "rest",
+      "meaning": "休息；放松",
+      "unit": "Unit 4 Healthy habits",
+      "page": "43"
+    },
+    {
+      "english": "take care of",
+      "meaning": "爱护；照顾",
+      "unit": "Unit 4 Healthy habits",
+      "page": "44"
+    },
+    {
+      "english": "check",
+      "meaning": "查看；查明",
+      "unit": "Unit 4 Healthy habits",
+      "page": "44"
+    },
+    {
+      "english": "less",
+      "meaning": "（与不可数名词连用）较少的，更少的",
+      "unit": "Unit 4 Healthy habits",
+      "page": "44"
+    },
+    {
+      "english": "brush",
+      "meaning": "（用刷子）刷净，刷亮，刷平顺",
+      "unit": "Unit 4 Healthy habits",
+      "page": "44"
+    },
+    {
+      "english": "tooth",
+      "meaning": "（复数 teeth）牙；齿",
+      "unit": "Unit 4 Healthy habits",
+      "page": "44"
+    },
+    {
+      "english": "twice",
+      "meaning": "两次；两遍",
+      "unit": "Unit 4 Healthy habits",
+      "page": "44"
+    },
+    {
+      "english": "hour",
+      "meaning": "小时",
+      "unit": "Unit 4 Healthy habits",
+      "page": "45"
+    },
+    {
+      "english": "free",
+      "meaning": "没有安排活动的；空闲的",
+      "unit": "Unit 4 Healthy habits",
+      "page": "45"
+    },
+    {
+      "english": "hungry",
+      "meaning": "感到饿的",
+      "unit": "Unit 5 Food we eat",
+      "page": "52"
+    },
+    {
+      "english": "beef",
+      "meaning": "牛肉",
+      "unit": "Unit 5 Food we eat",
+      "page": "52"
+    },
+    {
+      "english": "ice cream",
+      "meaning": "（一份）冰激凌",
+      "unit": "Unit 5 Food we eat",
+      "page": "52"
+    },
+    {
+      "english": "little",
+      "meaning": "少许；一点",
+      "unit": "Unit 5 Food we eat",
+      "page": "52"
+    },
+    {
+      "english": "dumpling",
+      "meaning": "饺子；汤圆",
+      "unit": "Unit 5 Food we eat",
+      "page": "53"
+    },
+    {
+      "english": "tea",
+      "meaning": "茶叶；茶；茶水",
+      "unit": "Unit 5 Food we eat",
+      "page": "53"
+    },
+    {
+      "english": "hamburger",
+      "meaning": "汉堡包；汉堡牛肉饼",
+      "unit": "Unit 5 Food we eat",
+      "page": "53"
+    },
+    {
+      "english": "Mrs",
+      "meaning": "（用于女子的姓氏或姓名前）太太，夫人",
+      "unit": "Unit 5 Food we eat",
+      "page": "55"
+    },
+    {
+      "english": "coconut",
+      "meaning": "椰子",
+      "unit": "Unit 5 Food we eat",
+      "page": "55"
+    },
+    {
+      "english": "interesting",
+      "meaning": "有趣的；有吸引力的",
+      "unit": "Unit 5 Food we eat",
+      "page": "55"
+    },
+    {
+      "english": "seed",
+      "meaning": "种子；籽",
+      "unit": "Unit 5 Food we eat",
+      "page": "56"
+    },
+    {
+      "english": "pull",
+      "meaning": "拔出；抽出",
+      "unit": "Unit 5 Food we eat",
+      "page": "56"
+    },
+    {
+      "english": "stem",
+      "meaning": "（花草的）茎；（花或叶的）梗，柄",
+      "unit": "Unit 5 Food we eat",
+      "page": "56"
+    },
+    {
+      "english": "root",
+      "meaning": "根；根茎",
+      "unit": "Unit 5 Food we eat",
+      "page": "56"
+    },
+    {
+      "english": "lotus",
+      "meaning": "莲属植物",
+      "unit": "Unit 5 Food we eat",
+      "page": "57"
+    },
+    {
+      "english": "lake",
+      "meaning": "湖；湖泊",
+      "unit": "Unit 5 Food we eat",
+      "page": "57"
+    },
+    {
+      "english": "world",
+      "meaning": "世界；地球；天下",
+      "unit": "Unit 5 Food we eat",
+      "page": "57"
+    },
+    {
+      "english": "round",
+      "meaning": "圆形的；环形的；球形的",
+      "unit": "Unit 5 Food we eat",
+      "page": "57"
+    },
+    {
+      "english": "different",
+      "meaning": "不同的；有区别的；有差异的",
+      "unit": "Unit 5 Food we eat",
+      "page": "57"
+    },
+    {
+      "english": "way",
+      "meaning": "方法；手段；途径；方式",
+      "unit": "Unit 5 Food we eat",
+      "page": "57"
+    },
+    {
+      "english": "river",
+      "meaning": "河；江",
+      "unit": "Unit 6 Nature and us",
+      "page": "64"
+    },
+    {
+      "english": "nature",
+      "meaning": "自然界；大自然",
+      "unit": "Unit 6 Nature and us",
+      "page": "64"
+    },
+    {
+      "english": "waterfall",
+      "meaning": "瀑布",
+      "unit": "Unit 6 Nature and us",
+      "page": "64"
+    },
+    {
+      "english": "forest",
+      "meaning": "森林；林区",
+      "unit": "Unit 6 Nature and us",
+      "page": "64"
+    },
+    {
+      "english": "famous",
+      "meaning": "著名的；出名的",
+      "unit": "Unit 6 Nature and us",
+      "page": "64"
+    },
+    {
+      "english": "mountain",
+      "meaning": "高山；山岳",
+      "unit": "Unit 6 Nature and us",
+      "page": "64"
+    },
+    {
+      "english": "wind",
+      "meaning": "风；气流",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "trip",
+      "meaning": "（尤指短程往返的）旅行，旅游，出行",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "dangerous",
+      "meaning": "有危险的；不安全的",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "heavy",
+      "meaning": "程度大的；严重的",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "hotel",
+      "meaning": "旅馆；旅社",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "close",
+      "meaning": "关；关闭；闭上",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "umbrella",
+      "meaning": "伞；雨伞",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "raincoat",
+      "meaning": "雨衣",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "worry",
+      "meaning": "担心；担忧；发愁",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "fine",
+      "meaning": "晴朗的",
+      "unit": "Unit 6 Nature and us",
+      "page": "67"
+    },
+    {
+      "english": "fog",
+      "meaning": "雾",
+      "unit": "Unit 6 Nature and us",
+      "page": "68"
+    },
+    {
+      "english": "flood",
+      "meaning": "洪水；水灾",
+      "unit": "Unit 6 Nature and us",
+      "page": "68"
+    },
+    {
+      "english": "fire",
+      "meaning": "火；火灾",
+      "unit": "Unit 6 Nature and us",
+      "page": "68"
+    },
+    {
+      "english": "know",
+      "meaning": "知道；了解",
+      "unit": "Unit 6 Nature and us",
+      "page": "69"
+    },
+    {
+      "english": "before",
+      "meaning": "在……之前",
+      "unit": "Unit 6 Nature and us",
+      "page": "69"
+    },
+    {
+      "english": "go hiking",
+      "meaning": "徒步旅行",
+      "unit": "Unit 6 Nature and us",
+      "page": "69"
+    },
+    {
+      "english": "bring",
+      "meaning": "带……到某处；带来；取来",
+      "unit": "Unit 6 Nature and us",
+      "page": "69"
+    }
+  ]
+}
