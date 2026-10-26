@@ -6,7 +6,7 @@
 
 1. 登录 [Cloudflare 控制台的 Workers & Pages](https://dash.cloudflare.com/?to=%2F%3Aaccount%2Fworkers-and-pages)，先进入账号层级。侧栏通常在“构建 / Compute & AI”下。选择创建应用、连接 GitHub 仓库，选择 `ekicham/words`，创建 **Worker**。
 2. 生产分支选择 `main`，根目录保持仓库根目录。名称使用 `wordisle`；若改名，同时修改 `wrangler.jsonc` 中的 `name`。
-3. 构建命令填写 `npm ci && uv sync --locked`，部署命令填写 `npm run deploy`。需要 Node.js 22 或更高、Python 3.12 或更高及 uv；当前 Workers 构建环境提供这些工具，项目锁定 Python 工具版本。不要填写 Pages 的 `dist` 输出目录。
+3. 构建命令填写 `npm run build`，部署命令填写 `npx wrangler deploy`。平台会自动安装 npm 和 uv 依赖。需要 Node.js 22 或更高、Python 3.12 或更高及 uv；当前 Workers 构建环境提供这些工具，项目锁定 Python 工具版本。不要填写 Pages 的 `dist` 输出目录。
 4. 部署会自动创建两个 Durable Object 绑定。首次部署后，在该 Worker 的“设置 → 变量和机密”中添加下表的 **Secret**，保存并部署新版本。不要把密钥写进 GitHub 或普通前端环境变量。
 5. 打开分配的 HTTPS `workers.dev` 地址，点击“创建账号”，输入管理员提供的邀请码。每个人注册自己的账号。以后推送 `main`，Git 集成会自动更新应用。
 
@@ -21,6 +21,15 @@
 可在自己的终端分别运行 `python3 -c 'import secrets; print(secrets.token_hex(32))'` 生成随机值，两项使用不同的值。未设置 AUTH_SECRET 时页面会提示管理员配置；未设置邀请码时关闭新注册，已有账号仍能登录。更换 AUTH_SECRET 会让所有现有登录失效，但不删除账号或学习数据。
 
 如果控制台首次部署无法设置 Secret，先完成部署，再添加并重新部署即可。构建失败时查看日志，确认 Node 版本与部署命令；无需寻找 Pages 专用入口。
+
+## 如果提示找不到 `.cloudflare/worker.py`
+
+这表示部署前没有生成入口文件。最新配置已为 Wrangler 添加自动构建步骤，直接执行 `npx wrangler deploy` 也会先构建。由于 [Workers Builds 官方说明](https://developers.cloudflare.com/workers/ci-cd/builds/configuration/) 不保证采用 Wrangler 自定义构建设置，控制台仍请明确设置：
+
+- 构建命令：`npm run build`
+- 部署命令：`npx wrangler deploy`
+
+保存后，对 `main` 最新提交发起构建。若旧任务重试仍使用旧提交，请从最新提交创建新部署。新日志应出现 `Cloudflare build:` 和 `Verified runtime and asset bytes:`，然后才开始上传。不要将本机 `.cloudflare/` 提交到 GitHub。
 
 ## 在电脑上预览或手动部署
 

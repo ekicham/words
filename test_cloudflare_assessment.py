@@ -12,6 +12,7 @@ from test_phonetics import recording
 
 if '--prepare' in sys.argv:
     config=json.loads(Path('wrangler.jsonc').read_text())
+    config.pop('build', None)  # Preserve the prepared mock instead of rebuilding production modules.
     config.update(name='wordisle-assessment-test', main='.cloudflare/assessment_probe.py',
                   vars={'TENCENT_SECRET_ID':'mock-id','TENCENT_SECRET_KEY':'mock-key'})
     Path('wrangler.assessment.test.jsonc').write_text(json.dumps(config))

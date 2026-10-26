@@ -1,6 +1,10 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "wordisle",
+  "build": {
+    "command": "npm run build",
+    "watch_dir": ["cloudflare", "static", "data/books", "data/phonetics.json", "data/phonetics-course.json", "data/phonetics-media", "data/sources/official/1212001601265-phonetics.tsv", "app.py", "phonetics.py", "local_assessment.py"]
+  },
   "main": ".cloudflare/worker.py",
   "compatibility_date": "2026-10-26",
   "compatibility_flags": ["python_workers"],

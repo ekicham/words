@@ -2,11 +2,11 @@
   "name": "wordisle-cloudflare",
   "private": true,
   "scripts": {
-    "build": "python3 cloudflare/build.py",
-    "dev": "npm run build && uv run pywrangler sync && python3 cloudflare/prepare_runtime.py && wrangler dev",
-    "deploy": "npm run build && uv run pywrangler sync && python3 cloudflare/prepare_runtime.py && wrangler deploy",
+    "build": "python3 cloudflare/build.py && uv run pywrangler sync && python3 cloudflare/prepare_runtime.py",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
     "test:cloudflare": "python3 -m unittest test_cloudflare",
-    "check:deploy": "npm run build && uv run pywrangler sync && python3 cloudflare/prepare_runtime.py && wrangler deploy --dry-run"
+    "check:deploy": "wrangler deploy --dry-run"
   },
   "devDependencies": {
     "wrangler": "4.152.0"
