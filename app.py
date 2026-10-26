@@ -17,7 +17,6 @@ import threading
 import time
 import urllib.request
 from urllib.parse import urlparse, parse_qs
-import webbrowser
 from phonetics import Phonetics
 
 ROOT = Path(__file__).resolve().parent
@@ -94,12 +93,15 @@ def earned_stars(item):
 
 
 class App:
-    def __init__(self, path, now=time.time, seed=True):
+    def __init__(self, path, now=time.time, seed=True, *, resources=None, day_offset_hours=None, lesson_factory=Phonetics):
         self.path, self.now = Path(path), now
-        self.phonetics = json.loads((ROOT / 'data' / 'phonetics.json').read_text(encoding='utf-8'))['entries']
-        self.textbook_phonetics = dict(line.split('\t') for line in
+        self.day_offset_hours = day_offset_hours
+        self.phonetics = (resources['phonetics'] if resources is not None else
+            json.loads((ROOT / 'data' / 'phonetics.json').read_text(encoding='utf-8')))['entries']
+        self.textbook_phonetics = resources['textbook_phonetics'] if resources is not None else dict(line.split('\t') for line in
             (ROOT / 'data/sources/official/1212001601265-phonetics.tsv').read_text(encoding='utf-8').splitlines())
-        self.path.parent.mkdir(parents=True, exist_ok=True)
+        if resources is None:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
         with self.db() as db:
             db.executescript('''
                 CREATE TABLE IF NOT EXISTS books (id TEXT PRIMARY KEY, metadata TEXT NOT NULL);
@@ -149,10 +151,11 @@ class App:
                                      ('audio_ready', 'INTEGER NOT NULL DEFAULT 0')]:
                 if name not in columns:
                     db.execute('ALTER TABLE items ADD COLUMN ' + name + ' ' + definition)
-        self.phonetics_lesson = Phonetics(self)
+        self.phonetics_lesson = lesson_factory(self, course=resources['course'] if resources is not None else None)
         if seed:
-            for source in sorted((ROOT / 'data' / 'books').glob('*.json')):
-                pack = json.loads(source.read_text(encoding='utf-8'))
+            packs = resources['books'] if resources is not None else (
+                json.loads(source.read_text(encoding='utf-8')) for source in sorted((ROOT / 'data' / 'books').glob('*.json')))
+            for pack in packs:
                 with self.db() as db:
                     exists = db.execute('SELECT 1 FROM books WHERE id=?', (pack['id'],)).fetchone()
                 if not exists:
@@ -476,13 +479,15 @@ class App:
             return self._report(db, sid)
 
     def _completed_words(self, db, scope='all'):
-        today = time.strftime('%Y-%m-%d', time.localtime(self.now()))
+        offset = self.day_offset_hours
+        today = time.strftime('%Y-%m-%d', time.localtime(self.now()) if offset is None else time.gmtime(self.now() + offset * 3600))
+        modifier = 'localtime' if offset is None else '%+d hours' % offset
         rows = db.execute('''SELECT w.*,s.province,b.metadata,COUNT(DISTINCT i.id) AS frequency,
                 MAX(a.submitted) AS completed_at
             FROM attempts a JOIN items i ON i.id=a.item_id JOIN words w ON w.id=i.word_id
             JOIN sessions s ON s.id=i.session_id JOIN books b ON b.id=w.book_id
-            WHERE a.correct=1 AND (?='all' OR date(a.submitted,'unixepoch','localtime')=?)
-            GROUP BY w.id,s.province ORDER BY completed_at DESC,w.id,s.province''', (scope, today))
+            WHERE a.correct=1 AND (?='all' OR date(a.submitted,'unixepoch',?)=?)
+            GROUP BY w.id,s.province ORDER BY completed_at DESC,w.id,s.province''', (scope, modifier, today))
         words = {}
         for row in rows:
             key = ' '.join(row['english'].casefold().split())
@@ -833,6 +838,7 @@ if __name__ == '__main__':
     url = 'http://127.0.0.1:%s' % args.port
     print('词屿已启动：' + url + '\n学习记录：' + str(args.db) + '\n关闭此窗口或按 Ctrl+C 停止服务。', flush=True)
     if args.open:
+        import webbrowser
         threading.Timer(0.5, lambda: webbrowser.open(url)).start()
     try:
         server.serve_forever()

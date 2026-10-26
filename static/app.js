@@ -59,7 +59,7 @@ async function api(path, body){
   try{
     const response=await fetch(path,{method:body?'POST':'GET',headers:body?{'Content-Type':'application/json'}:{},body:body?JSON.stringify(body):undefined,signal:controller.signal});
     const result=await response.json();
-    if (!response.ok){ const error=new Error(result.error || '请求未完成');error.status=response.status;throw error; }
+    if (!response.ok){ if(response.status===401)location.assign('/login.html');const error=new Error(result.error || '请求未完成');error.status=response.status;throw error; }
     return result;
   }finally{clearTimeout(timeout);}
 }
@@ -224,7 +224,7 @@ function saveDraft(answer){
   const sid=session.id,position=session.position,revision=++draftRevision;
   // Revisions reject out-of-order saves; a stalled draft must never block submission.
   api(`/api/session/${sid}/draft`,{position,answer,revision,request_id:crypto.randomUUID()}).catch(error=>{
-    if(session?.id===sid&&session.position===position&&session.current.phase==='writing'&&revision===draftRevision)feedback('草稿暂未保存，请检查本地连接；提交时会再次尝试保存。','error');
+    if(session?.id===sid&&session.position===position&&session.current.phase==='writing'&&revision===draftRevision)feedback('草稿暂未保存，请检查连接；提交时会再次尝试保存。','error');
   });
 }
 function updateLetters(){
@@ -399,7 +399,7 @@ async function renderMistakes(bookId){
   main.innerHTML+=`<section class="card"><div class="filter-row"><label for="review-book" class="sr-only">选择复习课本</label><select id="review-book">${books.map(b=>`<option value="${esc(b.id)}" ${b.id===selected?'selected':''}>${esc(b.title)}</option>`).join('')}</select><span class="count-label">${filtered.length} 个词</span><select id="review-practice" aria-label="错词练习方式">${Object.entries(practiceNames).map(([value,title])=>`<option value="${value}" ${value===prefs.practiceType?'selected':''}>${title}</option>`).join('')}</select><button class="primary" data-action="review" data-book="${esc(selected)}">开始错词重练</button></div><div class="table-wrap"><table><thead><tr><th>单词</th><th>中文</th><th>来自 / 待巩固方式</th></tr></thead><tbody>${filtered.map(w=>`<tr><td><strong>${esc(w.english)}</strong></td><td>${esc(w.meaning)}</td><td>${esc(w.unit)}<small>${w.practice_types.split(',').map(t=>practiceNames[t]).join(' · ')}</small></td></tr>`).join('')}</tbody></table></div></section>`;
 }
 function renderLibrary(){
-  main.innerHTML=`<div class="page-heading"><div><div class="eyebrow">YOUR BOOKSHELF</div><h1>我的词库</h1><p>${data.books.length} 册教材 · ${data.books.reduce((n,b)=>n+b.count,0)} 个词条与短语</p></div><span class="tag">本机保存，随时练习</span></div>
+  main.innerHTML=`<div class="page-heading"><div><div class="eyebrow">YOUR BOOKSHELF</div><h1>我的词库</h1><p>${data.books.length} 册教材 · ${data.books.reduce((n,b)=>n+b.count,0)} 个词条与短语</p></div><span class="tag">${data.cloud?'账号独立保存，跨设备练习':'本机保存，随时练习'}</span></div>
     <section class="upload"><div><h3>把你的课本，也带进词屿</h3><p>可导入其他出版社、年级和学期的 JSON 词库。先下载模板填写，导入前请核对内容和来源。</p></div><div class="button-row"><button class="secondary" data-action="template">下载模板</button><button class="primary" data-action="import">导入词库</button><input type="file" id="import-file" accept=".json,application/json" hidden></div></section>
     <div class="library-grid">${data.books.map(b=>`<article class="card library-card"><div class="book-line"><span class="tag">${esc(b.publisher)}</span><span class="book-number">${b.grade}</span></div><h2>${esc(b.title)}</h2><p>${esc(b.edition)}<br>${b.units.length} 个练习分组 · ${b.count} 个词条</p><div class="button-row"><button class="secondary" data-vocabulary="${esc(b.id)}">查看词表</button><button class="plain" data-choose="${esc(b.id)}">选这本练习 →</button><a href="${esc(b.source_url)}" target="_blank" rel="noreferrer" class="small">教材来源 ↗</a></div><details><summary>版本说明</summary><p>${esc(b.source_note)}</p></details></article>`).join('')}</div>
     <div class="sources-note">内置词库分别保留 ChinaTextbook 存档版与人教社官网版，可在出版社选项中切换。官网同时收录部分旧版，请核对册次与版本说明。其他地区的推荐尚需按学校核实；导入的地区标签由词库提供者填写。</div>`;
@@ -535,7 +535,7 @@ setInterval(async()=>{
     if(session.current.phase==='result'&&route==='practice'&&!busy&&!pending&&!$('#end-dialog').open&&Date.now()>=dictationAdvanceAt)await act('next');
     return;
   }
-  if(!left&&!busy){busy=true;disableAnswer(true);try{await refreshSession();if(session.status==='active'&&!pending)disableAnswer(false);}catch{feedback('时间已到，正在等待本地服务确认结算…','error');}finally{busy=false;}}
+  if(!left&&!busy){busy=true;disableAnswer(true);try{await refreshSession();if(session.status==='active'&&!pending)disableAnswer(false);}catch{feedback('时间已到，正在等待服务确认结算…','error');}finally{busy=false;}}
 },300);
 document.addEventListener('visibilitychange',async()=>{if(document.visibilityState==='visible'){renderClock();if(route==='home'&&$('#daily-quote'))$('#daily-quote').innerHTML=dailyQuoteMarkup();if(session?.status==='active'&&!busy){try{await refreshSession();}catch{}}}});
 renderClock();setInterval(renderClock,1000);

@@ -97,11 +97,11 @@ def decode_recording(value):
 
 
 class Phonetics:
-    def __init__(self, app):
+    def __init__(self, app, *, course=None, local_factory=LocalAssessment):
         self.app = app
-        self.course = json.loads((ROOT / 'data/phonetics-course.json').read_text(encoding='utf-8'))
+        self.course = course if course is not None else json.loads((ROOT / 'data/phonetics-course.json').read_text(encoding='utf-8'))
         self.config_path = app.path.parent / 'phonetics-service.json'
-        self.local = LocalAssessment(app.path.parent)
+        self.local = local_factory(app.path.parent)
         with app.db() as db:
             db.executescript('''
                 CREATE TABLE IF NOT EXISTS phonetic_tests (
@@ -205,13 +205,32 @@ class Phonetics:
         return state
 
     def act(self, test_id, action, data):
+        pending, state = self.begin_action(test_id, action, data)
+        if pending is None:
+            return state
+        try:
+            if pending['test']['provider'] == 'openpronounce':
+                result = self.local.assess(pending['variant'], pending['audio'])
+            else:
+                config = self.config()
+                if not (config.get('secret_id') and config.get('secret_key')):
+                    raise ValueError('本次测试使用腾讯云，请在设置中恢复腾讯云凭证后重试。')
+                result = assess(config, pending['variant'], pending['audio'], self.app.now())
+            error = ''
+        except Exception as exception:
+            result = {}
+            error = str(exception) if isinstance(exception, ValueError) else '评测暂时失败，请重试；本次不计分。'
+        return self.complete_assessment(pending, result, error)
+
+    def begin_action(self, test_id, action, data):
+        """Persist intent before external I/O, so concurrent retries cannot charge twice."""
         if action == 'delete':
             with self.app.db() as db:
                 if db.execute("SELECT 1 FROM phonetic_scores WHERE test_id=? AND status='processing'", (test_id,)).fetchone():
                     raise ValueError('正在评测，请等候完成后删除。')
                 db.execute('DELETE FROM phonetic_scores WHERE test_id=?', (test_id,))
                 db.execute('DELETE FROM phonetic_tests WHERE id=?', (test_id,))
-            return dict(deleted=True)
+            return None, dict(deleted=True)
         audio, digest, request_id = None, '', ''
         if action == 'assess':
             audio = decode_recording(data.get('audio'))
@@ -219,7 +238,6 @@ class Phonetics:
             request_id = data.get('request_id')
             if not isinstance(request_id, str) or not re.fullmatch(r'[A-Za-z0-9_-]{1,100}', request_id):
                 raise ValueError('提交编号无效，请重新录音。')
-            config = self.config()
         with self.app.db() as db:
             test = db.execute('SELECT * FROM phonetic_tests WHERE id=?', (test_id,)).fetchone()
             if test is None:
@@ -254,23 +272,20 @@ class Phonetics:
             if action != 'assess' or (existing and existing['status'] in ('scored', 'skipped')):
                 audio = None
         if audio is not None:
-            try:
-                if test['provider'] == 'openpronounce':
-                    result = self.local.assess(variant, audio)
-                else:
-                    if not (config.get('secret_id') and config.get('secret_key')):
-                        raise ValueError('本次测试使用腾讯云，请在设置中恢复腾讯云凭证后重试。')
-                    result = assess(config, variant, audio, self.app.now())
-                error = ''
-            except Exception as exception:
-                result = {}
-                error = str(exception) if isinstance(exception, ValueError) else '评测暂时失败，请重试；本次不计分。'
-            with self.app.db() as db:
+            return dict(test=dict(test), position=position, request_id=request_id, audio=audio, variant=variant), None
+        return None, self.state(test_id)
+
+    def complete_assessment(self, pending, result, error):
+        test, position = pending['test'], pending['position']
+        with self.app.db() as db:
+            row = db.execute('SELECT status,request_id FROM phonetic_scores WHERE test_id=? AND position=?',
+                             (test['id'], position)).fetchone()
+            if row and row['status'] == 'processing' and row['request_id'] == pending['request_id']:
                 db.execute('UPDATE phonetic_scores SET status=?,result=?,error=? WHERE test_id=? AND position=?',
-                           ('error' if error else 'scored', json.dumps(result), error, test_id, position))
+                           ('error' if error else 'scored', json.dumps(result), error, test['id'], position))
                 if not error:
                     self.advance(db, test)
-        return self.state(test_id)
+        return self.state(test['id'])
 
     def advance(self, db, test):
         position = test['position'] + 1

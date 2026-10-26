@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "wordisle",
+  "main": ".cloudflare/worker.py",
+  "compatibility_date": "2026-10-26",
+  "compatibility_flags": ["python_workers"],
+  "assets": {"directory": ".cloudflare/public", "binding": "ASSETS", "run_worker_first": true},
+  "durable_objects": {"bindings": [
+    {"name": "LEARNERS", "class_name": "Learner"},
+    {"name": "ACCOUNTS", "class_name": "Accounts"}
+  ]},
+  "migrations": [{"tag": "v1", "new_sqlite_classes": ["Learner", "Accounts"]}],
+  "observability": {"enabled": false}
+}

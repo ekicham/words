@@ -8,3 +8,15 @@ data/backups/
 data/phonetics-service.json
 .build/
 dist/
+.cloudflare/
+.wrangler/
+.venv/
+node_modules/
+.dev.vars*
+.env*
+
+.venv-workers/
+
+python_modules/
+pylock.toml
+wrangler.assessment.test.jsonc
